@@ -1,0 +1,40 @@
+Sentence #1 (11 tokens):
+Mary saw me at school and he is very happy.
+[Text=Mary CharacterOffsetBegin=0 CharacterOffsetEnd=4 PartOfSpeech=NNP Lemma=Mary NamedEntityTag=PERSON]
+[Text=saw CharacterOffsetBegin=5 CharacterOffsetEnd=8 PartOfSpeech=VBD Lemma=see NamedEntityTag=O]
+[Text=me CharacterOffsetBegin=9 CharacterOffsetEnd=11 PartOfSpeech=PRP Lemma=I NamedEntityTag=O]
+[Text=at CharacterOffsetBegin=12 CharacterOffsetEnd=14 PartOfSpeech=IN Lemma=at NamedEntityTag=O]
+[Text=school CharacterOffsetBegin=15 CharacterOffsetEnd=21 PartOfSpeech=NN Lemma=school NamedEntityTag=O]
+[Text=and CharacterOffsetBegin=22 CharacterOffsetEnd=25 PartOfSpeech=CC Lemma=and NamedEntityTag=O]
+[Text=he CharacterOffsetBegin=26 CharacterOffsetEnd=28 PartOfSpeech=PRP Lemma=he NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=29 CharacterOffsetEnd=31 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=very CharacterOffsetBegin=32 CharacterOffsetEnd=36 PartOfSpeech=RB Lemma=very NamedEntityTag=O]
+[Text=happy CharacterOffsetBegin=37 CharacterOffsetEnd=42 PartOfSpeech=JJ Lemma=happy NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=42 CharacterOffsetEnd=43 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+(ROOT
+  (S
+    (S
+      (NP (NNP Mary))
+      (VP (VBD saw)
+        (NP (PRP me))
+        (PP (IN at)
+          (NP (NN school)))))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBZ is)
+        (ADJP (RB very) (JJ happy))))
+    (. .)))
+
+root(ROOT-0, saw-2)
+nsubj(saw-2, Mary-1)
+dobj(saw-2, me-3)
+case(school-5, at-4)
+nmod:at(saw-2, school-5)
+cc(saw-2, and-6)
+nsubj(happy-10, he-7)
+cop(happy-10, is-8)
+advmod(happy-10, very-9)
+conj:and(saw-2, happy-10)
+punct(saw-2, .-11)
+
