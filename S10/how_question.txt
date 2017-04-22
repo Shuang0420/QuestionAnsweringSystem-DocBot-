@@ -1,0 +1,11 @@
+Cougar  How long are cougar adult males (from nose to tail)?    The length of adult males is around 2.4 meters (8 ft) long nose to tail.    medium  medium  data/set1/a2
+Cougar  How long are cougar adult males (from nose to tail)?    2.4 meters  medium  medium  data/set1/a2
+Cougar  How long is an adult cougar's paw print?    An adult cougar's paw print is approximately 10 cm (4 inches) long. medium  medium  data/set1/a2
+Cougar  How long is an adult cougar's paw print?    4 inches    medium  medium  data/set1/a2
+
+
+Cymbal  How many cymbals typically go in a drum kit?    at least 3  hard    hard    data/set2/a6
+Cymbal  How many cymbals typically go in a drum kit?    NULL    hard    NULL    data/set2/a6
+
+Drum    How long has the basic design of the drum remained unchanged?   remained virtually unchanged for thousands of years medium  medium  data/set2/a4
+Drum    How long has the basic design of the drum remained unchanged?   thousands of years  medium  hard    data/set2/a4

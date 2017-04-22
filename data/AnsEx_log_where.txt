@@ -1,0 +1,40 @@
+use LOC NER tag to identify:
+
+1: Bullet ants are located in Central and South America.
+[(u'ORG', u'Central'), (u'LOC', u'South America')]
+/
+==
+1: Antwerp is in Belgium
+[(u'GPE', u'Antwerp'), (u'GPE', u'Belgium')]
+Antwerp
+
+
+2. use GPE NER tag to identify
+==
+1: North Africa
+[(u'GPE', u'North Africa')]
+North Africa
+
+3. Some location that can't be identified using NER tag
+
+Example:
+Isaac Newton was born on 4 January 1643   [ OS: 25 December 1642 ]    at Woolsthorpe Manor in Woolsthorpe-by-Colsterworth, a hamlet in the county of Lincolnshire. At the time of Newton's birth, England had not adopted the Gregorian calendar and therefore his date of birth was recorded as Christmas Day, 25 December 1642. Newton was born three months after the death of his father, a prosperous farmer also named Isaac Newton. Born prematurely, he was a small child; his mother Hannah Ayscough reportedly said that he could have fit inside a quart mug (≈ 1.1 litre). When Newton was three, his mother remarried and went to live with her new husband, the Reverend Barnabus Smith, leaving her son in the care of his maternal grandmother, Margery Ayscough. The young Isaac disliked his stepfather and held some enmity towards his mother for marrying him, as revealed by this entry in a list of sins committed up to the age of 19: "Threatening my father and mother Smith to burn them and the house over them." Cohen, I.B. (1970). Dictionary of Scientific Biography, Vol. 11, p.43. New York: Charles Scribner's Sons
+Newton in a 1702 portrait by Godfrey Kneller
+
+==
+1: At Woolsthorpe Manor in Woosthorpe-by-Colsterworth.
+[(u'ORG', u'Woolsthorpe Manor'), (u'DATE', u'Woosthorpe-by-Colsterworth')]
+/
+==
+1: He was born at Woolsthorpe Manor in Woolsthorpe-by-Colsterworth, a hamlet in the county of Lincolnshire.
+[(u'FAC', u'Woolsthorpe Manor'), (u'DATE', u'Woolsthorpe-by-Colsterworth'), (u'GPE', u'Lincolnshire')]
+Lincolnshire
+==
+1: Woolsthorpe Manor in Woolsthorpe-by-Colsterworth
+[(u'PERSON', u'Woolsthorpe Manor'), (u'DATE', u'Woolsthorpe-by-Colsterworth')]
+/
+==
+1: Woolsthorpe Manor in Woolsthorpe-by-Colsterworth
+[(u'PERSON', u'Woolsthorpe Manor'), (u'DATE', u'Woolsthorpe-by-Colsterworth')]
+/
+==

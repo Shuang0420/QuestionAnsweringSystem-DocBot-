@@ -1,0 +1,1141 @@
+ccopy_reg
+_reconstructor
+p1
+(csklearn.feature_extraction.text
+CountVectorizer
+p2
+c__builtin__
+object
+p3
+NtRp4
+(dp5
+S'decode_error'
+p6
+Vstrict
+p7
+sS'lowercase'
+p8
+I01
+sS'stop_words'
+p9
+NsS'vocabulary'
+p10
+NsS'tokenizer'
+p11
+NsS'encoding'
+p12
+Vutf-8
+p13
+sS'token_pattern'
+p14
+V(?u)\u005cb\u005cw\u005cw+\u005cb
+p15
+sS'max_df'
+p16
+F1
+sS'fixed_vocabulary_'
+p17
+I00
+sS'analyzer'
+p18
+Vword
+p19
+sS'vocabulary_'
+p20
+(dp21
+Vquantity work_of_art
+p22
+cnumpy.core.multiarray
+scalar
+p23
+(cnumpy
+dtype
+p24
+(S'i4'
+I0
+I1
+tRp25
+(I3
+S'<'
+NNNI-1
+I-1
+I0
+tbS'\xa2\x00\x00\x00'
+tRp26
+sVnorp date
+p27
+g23
+(g25
+S'X\x00\x00\x00'
+tRp28
+sVcardinal norp
+p29
+g23
+(g25
+S'\x08\x00\x00\x00'
+tRp30
+sVperson work_of_art
+p31
+g23
+(g25
+S'\x96\x00\x00\x00'
+tRp32
+sVmoney
+p33
+g23
+(g25
+S'Q\x00\x00\x00'
+tRp34
+sVperson ordinal
+p35
+g23
+(g25
+S'\x92\x00\x00\x00'
+tRp36
+sVlanguage cardinal
+p37
+g23
+(g25
+S'@\x00\x00\x00'
+tRp38
+sVmoney date
+p39
+g23
+(g25
+S'S\x00\x00\x00'
+tRp40
+sVdate loc
+p41
+g23
+(g25
+S'\x17\x00\x00\x00'
+tRp42
+sVgpe fac
+p43
+g23
+(g25
+S'6\x00\x00\x00'
+tRp44
+sVdate date
+p45
+g23
+(g25
+S'\x13\x00\x00\x00'
+tRp46
+sVnorp
+p47
+g23
+(g25
+S'V\x00\x00\x00'
+tRp48
+sVordinal date
+p49
+g23
+(g25
+S'h\x00\x00\x00'
+tRp50
+sVgpe ordinal
+p51
+g23
+(g25
+S':\x00\x00\x00'
+tRp52
+sVcardinal work_of_art
+p53
+g23
+(g25
+S'\x10\x00\x00\x00'
+tRp54
+sVnorp org
+p55
+g23
+(g25
+S'a\x00\x00\x00'
+tRp56
+sVquantity cardinal
+p57
+g23
+(g25
+S'\x9c\x00\x00\x00'
+tRp58
+sVloc org
+p59
+g23
+(g25
+S'N\x00\x00\x00'
+tRp60
+sVwork_of_art date
+p61
+g23
+(g25
+S'\xa9\x00\x00\x00'
+tRp62
+sVdate money
+p63
+g23
+(g25
+S'\x18\x00\x00\x00'
+tRp64
+sVorg loc
+p65
+g23
+(g25
+S'{\x00\x00\x00'
+tRp66
+sVordinal ordinal
+p67
+g23
+(g25
+S'p\x00\x00\x00'
+tRp68
+sVquantity person
+p69
+g23
+(g25
+S'\xa0\x00\x00\x00'
+tRp70
+sVcardinal gpe
+p71
+g23
+(g25
+S'\x05\x00\x00\x00'
+tRp72
+sVperson person
+p73
+g23
+(g25
+S'\x94\x00\x00\x00'
+tRp74
+sVorg time
+p75
+g23
+(g25
+S'\x83\x00\x00\x00'
+tRp76
+sVnorp fac
+p77
+g23
+(g25
+S'Z\x00\x00\x00'
+tRp78
+sVfac
+p79
+g23
+(g25
+S'+\x00\x00\x00'
+tRp80
+sVperson org
+p81
+g23
+(g25
+S'\x93\x00\x00\x00'
+tRp82
+sVorg quantity
+p83
+g23
+(g25
+S'\x82\x00\x00\x00'
+tRp84
+sVfac work_of_art
+p85
+g23
+(g25
+S'1\x00\x00\x00'
+tRp86
+sVcardinal ordinal
+p87
+g23
+(g25
+S'\t\x00\x00\x00'
+tRp88
+sVnorp event
+p89
+g23
+(g25
+S'Y\x00\x00\x00'
+tRp90
+sVnorp product
+p91
+g23
+(g25
+S'c\x00\x00\x00'
+tRp92
+sVgpe
+p93
+g23
+(g25
+S'2\x00\x00\x00'
+tRp94
+sVdate gpe
+p95
+g23
+(g25
+S'\x16\x00\x00\x00'
+tRp96
+sVnorp person
+p97
+g23
+(g25
+S'b\x00\x00\x00'
+tRp98
+sVcardinal event
+p99
+g23
+(g25
+S'\x03\x00\x00\x00'
+tRp100
+sVfac org
+p101
+g23
+(g25
+S'0\x00\x00\x00'
+tRp102
+sVwork_of_art person
+p103
+g23
+(g25
+S'\xac\x00\x00\x00'
+tRp104
+sVgpe date
+p105
+g23
+(g25
+S'4\x00\x00\x00'
+tRp106
+sVcardinal date
+p107
+g23
+(g25
+S'\x02\x00\x00\x00'
+tRp108
+sVcardinal person
+p109
+g23
+(g25
+S'\x0c\x00\x00\x00'
+tRp110
+sVevent money
+p111
+g23
+(g25
+S"'\x00\x00\x00"
+tRp112
+sVtime gpe
+p113
+g23
+(g25
+S'\xa5\x00\x00\x00'
+tRp114
+sVcardinal language
+p115
+g23
+(g25
+S'\x06\x00\x00\x00'
+tRp116
+sVtime cardinal
+p117
+g23
+(g25
+S'\xa4\x00\x00\x00'
+tRp118
+sVevent date
+p119
+g23
+(g25
+S'#\x00\x00\x00'
+tRp120
+sVnorp ordinal
+p121
+g23
+(g25
+S'`\x00\x00\x00'
+tRp122
+sVcardinal cardinal
+p123
+g23
+(g25
+S'\x01\x00\x00\x00'
+tRp124
+sVordinal language
+p125
+g23
+(g25
+S'l\x00\x00\x00'
+tRp126
+sVevent
+p127
+g23
+(g25
+S'!\x00\x00\x00'
+tRp128
+sVmoney cardinal
+p129
+g23
+(g25
+S'R\x00\x00\x00'
+tRp130
+sVevent gpe
+p131
+g23
+(g25
+S'%\x00\x00\x00'
+tRp132
+sVordinal norp
+p133
+g23
+(g25
+S'o\x00\x00\x00'
+tRp134
+sVperson gpe
+p135
+g23
+(g25
+S'\x8d\x00\x00\x00'
+tRp136
+sVfac date
+p137
+g23
+(g25
+S'-\x00\x00\x00'
+tRp138
+sVevent person
+p139
+g23
+(g25
+S'*\x00\x00\x00'
+tRp140
+sVnorp law
+p141
+g23
+(g25
+S']\x00\x00\x00'
+tRp142
+sVquantity quantity
+p143
+g23
+(g25
+S'\xa1\x00\x00\x00'
+tRp144
+sVquantity loc
+p145
+g23
+(g25
+S'\x9f\x00\x00\x00'
+tRp146
+sVorg date
+p147
+g23
+(g25
+S'w\x00\x00\x00'
+tRp148
+sVfac event
+p149
+g23
+(g25
+S'.\x00\x00\x00'
+tRp150
+sVperson loc
+p151
+g23
+(g25
+S'\x8f\x00\x00\x00'
+tRp152
+sVorg product
+p153
+g23
+(g25
+S'\x81\x00\x00\x00'
+tRp154
+sVordinal money
+p155
+g23
+(g25
+S'n\x00\x00\x00'
+tRp156
+sVorg fac
+p157
+g23
+(g25
+S'y\x00\x00\x00'
+tRp158
+sVloc ordinal
+p159
+g23
+(g25
+S'M\x00\x00\x00'
+tRp160
+sVwork_of_art product
+p161
+g23
+(g25
+S'\xad\x00\x00\x00'
+tRp162
+sVperson date
+p163
+g23
+(g25
+S'\x8a\x00\x00\x00'
+tRp164
+sVquantity date
+p165
+g23
+(g25
+S'\x9d\x00\x00\x00'
+tRp166
+sVnorp quantity
+p167
+g23
+(g25
+S'd\x00\x00\x00'
+tRp168
+sVordinal person
+p169
+g23
+(g25
+S'r\x00\x00\x00'
+tRp170
+sVorg
+p171
+g23
+(g25
+S'u\x00\x00\x00'
+tRp172
+sVloc date
+p173
+g23
+(g25
+S'H\x00\x00\x00'
+tRp174
+sVloc loc
+p175
+g23
+(g25
+S'K\x00\x00\x00'
+tRp176
+sVcardinal fac
+p177
+g23
+(g25
+S'\x04\x00\x00\x00'
+tRp178
+sVlanguage
+p179
+g23
+(g25
+S'?\x00\x00\x00'
+tRp180
+sVloc norp
+p181
+g23
+(g25
+S'L\x00\x00\x00'
+tRp182
+sVwork_of_art work_of_art
+p183
+g23
+(g25
+S'\xae\x00\x00\x00'
+tRp184
+sVevent ordinal
+p185
+g23
+(g25
+S'(\x00\x00\x00'
+tRp186
+sVorg person
+p187
+g23
+(g25
+S'\x80\x00\x00\x00'
+tRp188
+sVcardinal loc
+p189
+g23
+(g25
+S'\x07\x00\x00\x00'
+tRp190
+sVordinal fac
+p191
+g23
+(g25
+S'j\x00\x00\x00'
+tRp192
+sVorg org
+p193
+g23
+(g25
+S'~\x00\x00\x00'
+tRp194
+sVdate product
+p195
+g23
+(g25
+S'\x1d\x00\x00\x00'
+tRp196
+sVpercent percent
+p197
+g23
+(g25
+S'\x87\x00\x00\x00'
+tRp198
+sVordinal event
+p199
+g23
+(g25
+S'i\x00\x00\x00'
+tRp200
+sVordinal product
+p201
+g23
+(g25
+S's\x00\x00\x00'
+tRp202
+sVdate fac
+p203
+g23
+(g25
+S'\x15\x00\x00\x00'
+tRp204
+sVproduct date
+p205
+g23
+(g25
+S'\x98\x00\x00\x00'
+tRp206
+sVevent org
+p207
+g23
+(g25
+S')\x00\x00\x00'
+tRp208
+sVloc quantity
+p209
+g23
+(g25
+S'P\x00\x00\x00'
+tRp210
+sVwork_of_art gpe
+p211
+g23
+(g25
+S'\xaa\x00\x00\x00'
+tRp212
+sVordinal cardinal
+p213
+g23
+(g25
+S'g\x00\x00\x00'
+tRp214
+sVloc person
+p215
+g23
+(g25
+S'O\x00\x00\x00'
+tRp216
+sVloc
+p217
+g23
+(g25
+S'F\x00\x00\x00'
+tRp218
+sVloc cardinal
+p219
+g23
+(g25
+S'G\x00\x00\x00'
+tRp220
+sVperson money
+p221
+g23
+(g25
+S'\x90\x00\x00\x00'
+tRp222
+sVwork_of_art
+p223
+g23
+(g25
+S'\xa8\x00\x00\x00'
+tRp224
+sVdate cardinal
+p225
+g23
+(g25
+S'\x12\x00\x00\x00'
+tRp226
+sVlaw norp
+p227
+g23
+(g25
+S'E\x00\x00\x00'
+tRp228
+sVdate person
+p229
+g23
+(g25
+S'\x1c\x00\x00\x00'
+tRp230
+sVtime person
+p231
+g23
+(g25
+S'\xa7\x00\x00\x00'
+tRp232
+sVperson cardinal
+p233
+g23
+(g25
+S'\x89\x00\x00\x00'
+tRp234
+sVloc gpe
+p235
+g23
+(g25
+S'J\x00\x00\x00'
+tRp236
+sVorg percent
+p237
+g23
+(g25
+S'\x7f\x00\x00\x00'
+tRp238
+sVorg ordinal
+p239
+g23
+(g25
+S'}\x00\x00\x00'
+tRp240
+sVgpe norp
+p241
+g23
+(g25
+S'9\x00\x00\x00'
+tRp242
+sVgpe cardinal
+p243
+g23
+(g25
+S'3\x00\x00\x00'
+tRp244
+sVperson time
+p245
+g23
+(g25
+S'\x95\x00\x00\x00'
+tRp246
+sVpercent norp
+p247
+g23
+(g25
+S'\x86\x00\x00\x00'
+tRp248
+sVdate work_of_art
+p249
+g23
+(g25
+S' \x00\x00\x00'
+tRp250
+sVfac gpe
+p251
+g23
+(g25
+S'/\x00\x00\x00'
+tRp252
+sVproduct loc
+p253
+g23
+(g25
+S'\x99\x00\x00\x00'
+tRp254
+sVcardinal org
+p255
+g23
+(g25
+S'\n\x00\x00\x00'
+tRp256
+sVorg event
+p257
+g23
+(g25
+S'x\x00\x00\x00'
+tRp258
+sVorg work_of_art
+p259
+g23
+(g25
+S'\x84\x00\x00\x00'
+tRp260
+sVcardinal time
+p261
+g23
+(g25
+S'\x0f\x00\x00\x00'
+tRp262
+sVnorp loc
+p263
+g23
+(g25
+S'^\x00\x00\x00'
+tRp264
+sVdate quantity
+p265
+g23
+(g25
+S'\x1e\x00\x00\x00'
+tRp266
+sVperson norp
+p267
+g23
+(g25
+S'\x91\x00\x00\x00'
+tRp268
+sVevent fac
+p269
+g23
+(g25
+S'$\x00\x00\x00'
+tRp270
+sVquantity
+p271
+g23
+(g25
+S'\x9b\x00\x00\x00'
+tRp272
+sVlanguage loc
+p273
+g23
+(g25
+S'B\x00\x00\x00'
+tRp274
+sVordinal gpe
+p275
+g23
+(g25
+S'k\x00\x00\x00'
+tRp276
+sVgpe org
+p277
+g23
+(g25
+S';\x00\x00\x00'
+tRp278
+sVperson fac
+p279
+g23
+(g25
+S'\x8c\x00\x00\x00'
+tRp280
+sVdate org
+p281
+g23
+(g25
+S'\x1b\x00\x00\x00'
+tRp282
+sVgpe work_of_art
+p283
+g23
+(g25
+S'>\x00\x00\x00'
+tRp284
+sVevent loc
+p285
+g23
+(g25
+S'&\x00\x00\x00'
+tRp286
+sVgpe gpe
+p287
+g23
+(g25
+S'7\x00\x00\x00'
+tRp288
+sVordinal org
+p289
+g23
+(g25
+S'q\x00\x00\x00'
+tRp290
+sVgpe loc
+p291
+g23
+(g25
+S'8\x00\x00\x00'
+tRp292
+sVgpe person
+p293
+g23
+(g25
+S'<\x00\x00\x00'
+tRp294
+sVnorp norp
+p295
+g23
+(g25
+S'_\x00\x00\x00'
+tRp296
+sVtime org
+p297
+g23
+(g25
+S'\xa6\x00\x00\x00'
+tRp298
+sVdate event
+p299
+g23
+(g25
+S'\x14\x00\x00\x00'
+tRp300
+sVlanguage gpe
+p301
+g23
+(g25
+S'A\x00\x00\x00'
+tRp302
+sVdate ordinal
+p303
+g23
+(g25
+S'\x1a\x00\x00\x00'
+tRp304
+sVgpe event
+p305
+g23
+(g25
+S'5\x00\x00\x00'
+tRp306
+sVquantity gpe
+p307
+g23
+(g25
+S'\x9e\x00\x00\x00'
+tRp308
+sVcardinal quantity
+p309
+g23
+(g25
+S'\x0e\x00\x00\x00'
+tRp310
+sVpercent
+p311
+g23
+(g25
+S'\x85\x00\x00\x00'
+tRp312
+sVdate norp
+p313
+g23
+(g25
+S'\x19\x00\x00\x00'
+tRp314
+sVperson event
+p315
+g23
+(g25
+S'\x8b\x00\x00\x00'
+tRp316
+sVcardinal
+p317
+g23
+(g25
+S'\x00\x00\x00\x00'
+tRp318
+sVwork_of_art org
+p319
+g23
+(g25
+S'\xab\x00\x00\x00'
+tRp320
+sVorg cardinal
+p321
+g23
+(g25
+S'v\x00\x00\x00'
+tRp322
+sVevent cardinal
+p323
+g23
+(g25
+S'"\x00\x00\x00'
+tRp324
+sVfac cardinal
+p325
+g23
+(g25
+S',\x00\x00\x00'
+tRp326
+sVordinal
+p327
+g23
+(g25
+S'f\x00\x00\x00'
+tRp328
+sVcardinal product
+p329
+g23
+(g25
+S'\r\x00\x00\x00'
+tRp330
+sVproduct
+p331
+g23
+(g25
+S'\x97\x00\x00\x00'
+tRp332
+sVnorp gpe
+p333
+g23
+(g25
+S'[\x00\x00\x00'
+tRp334
+sVorg gpe
+p335
+g23
+(g25
+S'z\x00\x00\x00'
+tRp336
+sVorg norp
+p337
+g23
+(g25
+S'|\x00\x00\x00'
+tRp338
+sVordinal loc
+p339
+g23
+(g25
+S'm\x00\x00\x00'
+tRp340
+sVcardinal percent
+p341
+g23
+(g25
+S'\x0b\x00\x00\x00'
+tRp342
+sVlanguage ordinal
+p343
+g23
+(g25
+S'C\x00\x00\x00'
+tRp344
+sVloc fac
+p345
+g23
+(g25
+S'I\x00\x00\x00'
+tRp346
+sVnorp work_of_art
+p347
+g23
+(g25
+S'e\x00\x00\x00'
+tRp348
+sVproduct person
+p349
+g23
+(g25
+S'\x9a\x00\x00\x00'
+tRp350
+sVdate
+p351
+g23
+(g25
+S'\x11\x00\x00\x00'
+tRp352
+sVlaw
+p353
+g23
+(g25
+S'D\x00\x00\x00'
+tRp354
+sVordinal work_of_art
+p355
+g23
+(g25
+S't\x00\x00\x00'
+tRp356
+sVnorp cardinal
+p357
+g23
+(g25
+S'W\x00\x00\x00'
+tRp358
+sVgpe quantity
+p359
+g23
+(g25
+S'=\x00\x00\x00'
+tRp360
+sVperson
+p361
+g23
+(g25
+S'\x88\x00\x00\x00'
+tRp362
+sVperson language
+p363
+g23
+(g25
+S'\x8e\x00\x00\x00'
+tRp364
+sVdate time
+p365
+g23
+(g25
+S'\x1f\x00\x00\x00'
+tRp366
+sVtime
+p367
+g23
+(g25
+S'\xa3\x00\x00\x00'
+tRp368
+sVmoney gpe
+p369
+g23
+(g25
+S'T\x00\x00\x00'
+tRp370
+sVnorp language
+p371
+g23
+(g25
+S'\\\x00\x00\x00'
+tRp372
+sVmoney org
+p373
+g23
+(g25
+S'U\x00\x00\x00'
+tRp374
+ssS'binary'
+p375
+I00
+sS'ngram_range'
+p376
+(I1
+I2
+tp377
+sS'preprocessor'
+p378
+NsS'min_df'
+p379
+I1
+sS'max_features'
+p380
+NsS'input'
+p381
+Vcontent
+p382
+sS'dtype'
+p383
+cnumpy
+int64
+p384
+sS'stop_words_'
+p385
+c__builtin__
+set
+p386
+((ltRp387
+sS'strip_accents'
+p388
+Nsb.

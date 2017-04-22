@@ -1,0 +1,36 @@
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+The language most spoken at home in the city is French.
+No, the language most spoken in Montreal is French.
+No, Montreal's economy is the second largest of all cities in Canada.
+No, Montreal's economy is the second largest of all cities in Canada.
+yes, The most popular sport in Montreal is ice hockey.
+Yes, the most popular sport in Montreal is ice hockey.
+Montreal has two international airports.
+Montreal has two international airports.
+The mayor is Gérald Tremblay.
+The mayor is Gérald Tremblay.
+The largest church in Montreal is named Saint Joseph's Oratory.
+Saint Joseph's Oratory is the largest church in Montreal.
+The Sud-Ouest borough was home to much of the city's industry during the late 19th and early-to-mid 20th century. 
+The Sud-Ouest borough was home to much of the city's industry during the late 19th and early-to-mid 20th century.
+Yes
+Yes, Montreal contains the largest church in Canada.
+Paris is the largest primarily French-speaking city in the western world.
+The largest primarily French-speaking city in the western world is Paris.

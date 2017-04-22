@@ -1,0 +1,2918 @@
+Question	Answer	ArticleFile
+
+Was Alessandro Volta a professor of chemistry?	Alessandro Volta was not a professor of chemistry.	data/set4/a10
+
+Was Alessandro Volta a professor of chemistry?	No	data/set4/a10
+
+Did Alessandro Volta invent the remotely operated pistol?	Alessandro Volta did invent the remotely operated pistol.	data/set4/a10
+
+Did Alessandro Volta invent the remotely operated pistol?	Yes	data/set4/a10
+
+Was Alessandro Volta taught in public schools?	Volta was taught in public schools.	data/set4/a10
+
+Was Alessandro Volta taught in public schools?	Yes	data/set4/a10
+
+Who did Alessandro Volta marry?	Alessandro Volta married Teresa Peregrini.	data/set4/a10
+
+Who did Alessandro Volta marry?	Teresa Peregrini	data/set4/a10
+
+What did Alessandro Volta invent in 1800?	In 1800, Alessandro Volta invented the voltaic pile.	data/set4/a10
+
+What did Alessandro Volta invent in 1800?	voltaic pile	data/set4/a10
+
+What is the battery made by Alessandro Volta credited as?	The battery made by Volta is credited as the first electrochemical cell.	data/set4/a10
+
+What is the battery made by Alessandro Volta credited as?	the first electrochemical cell	data/set4/a10
+
+Did Alessandro Volta die and retire in the same place?	Alessandro Volta retired and died in the same place.	data/set4/a10
+
+Did Alessandro Volta die and retire in the same place?	Yes	data/set4/a10
+
+When did Alessandro Volta improve  and popularize the electrophorus?	Alessandro Volta improved and popularized the electrophorus in 1775.	data/set4/a10
+
+When did Alessandro Volta improve  and popularize the electrophorus?	1775	data/set4/a10
+
+How long was Alessandro Volta a professor at the University of Pavia?	Alessandro Volta was a professor at the University of Pavia for almost 25 years.	data/set4/a10
+
+How long was Alessandro Volta a professor at the University of Pavia?	almost 25 years	data/set4/a10
+
+Was Alessandro Volta an Egyptian?	no	data/set4/a10
+
+Was Alessandro Volta an Egyptian?	No.	data/set4/a10
+
+Was Volta taught in public schools?	yes	data/set4/a10
+
+Was Volta taught in public schools?	Yes.	data/set4/a10
+
+Was Volta made a count in 1810?	yes	data/set4/a10
+
+Was Volta made a count in 1810?	No.	data/set4/a10
+
+Who made Volta a count?	Napoleon	data/set4/a10
+
+Who made Volta a count?	Napoleon	data/set4/a10
+
+Where was Volta born?	Como	data/set4/a10
+
+Where was Volta born?	Como, Italy	data/set4/a10
+
+When did Volta retire?	1819	data/set4/a10
+
+When did Volta retire?	In 1819.	data/set4/a10
+
+A year before improving and popularizing the electrophorus, what did Volta become?	A professor of physics at the Royal School in Como	data/set4/a10
+
+Was Volta buried where he died or was he buried someplace else?	where he died	data/set4/a10
+
+Was Volta buried where he died or was he buried someplace else?	Yes.	data/set4/a10
+
+Did Volta marry before he became professor of experimental physics at the University of Pavia?	no	data/set4/a10
+
+Did Volta marry before he became professor of experimental physics at the University of Pavia?	No.	data/set4/a10
+
+What happened in 1810?	Volta was made a count by Napoleon.	data/set4/a10
+
+Wasn't Alessandro Volta born in Como?	Yes, Volta was born in Como, Italy and was taught in the public schools there.	data/set4/a10
+
+Was Alessandro Volta born in Como?	yes	data/set4/a10
+
+Who became a professor of physics at the Royal School in Como?	Volta.	data/set4/a10
+
+When was Volta made a count by Napoleon?	Volta was made a count by Napoleon in 1810.	data/set4/a10
+
+Is Voltas legacy celebrated by a Temple on the shore of Lake Como in the center of the town?	Yes	data/set4/a10
+
+Is the battery made by Volta credited as the first electrochemical cell?	Yes	data/set4/a10
+
+Was Volta made a count by Napoleon in 1810?	Yes, Volta was made a count by Napoleon in 1810.	data/set4/a10
+
+In what year did he become a professor of physics at the Royal School in Como?	1774	data/set4/a10
+
+Was Avogadro a  professor at the University of Turin?	Yes	data/set4/a8
+
+Was Avogadro a  professor at the University of Turin?	Yes, Avogadro was a professor at the University of Turin.	data/set4/a8
+
+Was he a member of the Royal Superior Council on Public Instruction?	Yes	data/set4/a8
+
+Was he a member of the Royal Superior Council on Public Instruction?	Yes,  Avogadro was a member of the Royal Superior Council on Public Instruction.	data/set4/a8
+
+Is Avogadro's number used to compute the results of chemical reactions?	Yes	data/set4/a8
+
+Is Avogadro's number used to compute the results of chemical reactions?	Yes, Avagadro's number is used to compute the results of chemical reactions.	data/set4/a8
+
+Who first calculated the value of Avogadro's number?	Johann Josef Loschmidt	data/set4/a8
+
+Who first calculated the value of Avogadro's number?	Johann Josef Loschmidt first calculated the value of Avogadro's number.	data/set4/a8
+
+What does Avogadro's Law state?	The relationship between the masses of the same volume of different gases (at the same temperature and pressure) corresponds to the relationship between their respective molecular weights	data/set4/a8
+
+What does Avogadro's Law state?	Avogadro's Law states that the relationship between the masses of the same volume of different gases (at the same temperature and pressure) corresponds to the relationship between their respective molecular weights.	data/set4/a8
+
+Who showed that Avogadro's theory held in dilute solutions?	Jacobus Henricus van Hoff	data/set4/a8
+
+Who showed that Avogadro's theory held in dilute solutions?	Jacobus Henricus van 't Hoff showed that Avogadro's theory holds in dilute solutions.	data/set4/a8
+
+In what language was his 1811 paper published?	French	data/set4/a8
+
+In what language was his 1811 paper published?	Avogadro's 1811 paper was published in French.	data/set4/a8
+
+Who was Avogadro's wife?	Felicita Mazz	data/set4/a8
+
+Who was Avogadro's wife?	Felicita Mazzé was Avogadro's wife.	data/set4/a8
+
+Why did Avogadro lose his chair at the University of Turin?	He was active in the revolutionary movements of 1821 against the king of Sardinia	data/set4/a8
+
+Why did Avogadro lose his chair at the University of Turin?	Avogadro lost his chair at the University of Turin because he was active in the revolutionary movements of 1821 against the king of Sardinia.	data/set4/a8
+
+Was Amedeo Avogadro was born in Turin?	Yes	data/set4/a8
+
+Was Amedeo Avogadro was born in Turin?	yes	data/set4/a8
+
+Is Avogadro hailed as a founder of the atomic-molecular theory?	Yes	data/set4/a8
+
+Is Avogadro hailed as a founder of the atomic-molecular theory?	yes	data/set4/a8
+
+Did Johann Josef Loschmidt first calculate the value of Avogadro's number?	Yes	data/set4/a8
+
+Did Johann Josef Loschmidt first calculate the value of Avogadro's number?	yes	data/set4/a8
+
+In 1820, Avogadro became a professor of physics where?	University of Turin	data/set4/a8
+
+In 1820, Avogadro became a professor of physics where?	University of Turin	data/set4/a8
+
+Avogadro did not actually use what word?	atom	data/set4/a8
+
+Avogadro did not actually use what word?	atom	data/set4/a8
+
+The number of elementary entities in 1 mole of a substance is known as what?	Avogadro constant	data/set4/a8
+
+The number of elementary entities in 1 mole of a substance is known as what?	Avogadro's constant	data/set4/a8
+
+What would a German call Avogadro's number?	Loschmidt number	data/set4/a8
+
+What would a German call Avogadro's number?	Loschmidt number	data/set4/a8
+
+Is Amedeo Avogadro Italian?	Yes	data/set4/a8
+
+Is Amedeo Avogadro Italian?	yes	data/set4/a8
+
+Did he become a professor before the revolutionary movements against the king of Sardinia?	Yes	data/set4/a8
+
+Did he become a professor before the revolutionary movements against the king of Sardinia?	yes	data/set4/a8
+
+Do ants belong to the Hymenoptera order?	yes	data/set1/a1
+
+Do ants belong to the Hymenoptera order?	yes	data/set1/a1
+
+Are ants used in cuisine?	yes	data/set1/a1
+
+Are ants used in cuisine?	yes	data/set1/a1
+
+Does an ant's head contain sensory organs?	yes	data/set1/a1
+
+Does an ant's head contain sensory organs?	yes	data/set1/a1
+
+How do most ants travel?	most ants travel by walking	data/set1/a1
+
+How do most ants travel?	by walking	data/set1/a1
+
+In ant colonies, what are the fertile female ants called?	"queens"	data/set1/a1
+
+In ant colonies, what are the fertile female ants called?	queens	data/set1/a1
+
+Who wrote about ants in A Tramp Abroad?	mark twain wrote about ants	data/set1/a1
+
+Who wrote about ants in A Tramp Abroad?	Mark Twain	data/set1/a1
+
+Do the ants eat plants, meats, or both?	both	data/set1/a1
+
+What organs gives a bull ant its good sight?	compound eyes	data/set1/a1
+
+What may happen to red fire ants if we use boiling water on the queen?	nests of red fire ants may be destroyed	data/set1/a1
+
+What may happen to red fire ants if we use boiling water on the queen?	die	data/set1/a1
+
+Are ants found in Antartica?	No, there are no ants in antarctica.	data/set1/a1
+
+Are ants found in Antartica?	NULL	data/set1/a1
+
+Do male ants take flight before females?	Yes, male ants take flight before females.	data/set1/a1
+
+Do male ants take flight before females?	NULL	data/set1/a1
+
+Do worker ants have wings?	No, worker ants do not have wings.	data/set1/a1
+
+Do worker ants have wings?	NULL	data/set1/a1
+
+What are the three segments of an ant?	The head, mesosoma and metasoma are the three distinct body segments.	data/set1/a1
+
+What are the three segments of an ant?	NULL	data/set1/a1
+
+What are the ant colonies that lack queens called?	Colonies that lack queens are called gamergate colonies.	data/set1/a1
+
+What are the ant colonies that lack queens called?	NULL	data/set1/a1
+
+Where are bullet ants located?	Bullet ants are located in Central and South America.	data/set1/a1
+
+Where are bullet ants located?	NULL	data/set1/a1
+
+Do ants belong to the same order as bees?	Yes, ants belong to the same order as bees.	data/set1/a1
+
+Do ants belong to the same order as bees?	NULL	data/set1/a1
+
+What is the most common color of ants?	Most ants are red or black.	data/set1/a1
+
+What is the most common color of ants?	NULL	data/set1/a1
+
+Do all ants build nests?	No, not all ants build nests.	data/set1/a1
+
+Do all ants build nests?	NULL	data/set1/a1
+
+Ultraviolet vision was first discovered in ants by Sir who in 1881?	John Lubbok	data/set1/a1
+
+Do ants thrive in most ecosystems?	Yes.	data/set1/a1
+
+Are several species of ants able to use the Earths magnetic field?	yes	data/set1/a1
+
+Are termites actually more closely related to cockroaches as well as mantids?	Yes, termites are actually more closely related to cockroaches as well as mantids.	data/set1/a1
+
+Do some caterpillars produce vibrations as well as sounds?	yes	data/set1/a1
+
+Did ants evolve from wasp-like ancestors in the mid-Cretaceous period between 110 and 130 million years ago and diversified after the rise of flowering plants?	yes	data/set1/a1
+
+Is the ant a marsupial?	no	data/set1/a1
+
+Are they easily identified by their elbowed antennae and a distinctive node-like structure that forms a slender waist?	Yes, they are easily identified by their elbowed antennae and a distinctive node-like structure that forms a slender waist.	data/set1/a1
+
+Is Antwerp a city?	Yes	data/set3/a4
+
+Is Antwerp a city?	NULL	data/set3/a4
+
+Is Antwerp a municipality?	Yes	data/set3/a4
+
+Is Antwerp a municipality?	NULL	data/set3/a4
+
+Is Antwerp in Belgium?	Yes	data/set3/a4
+
+Is Antwerp in Belgium?	NULL	data/set3/a4
+
+What is Antwerp?	Antwerp is a city and municipality in Belgium.	data/set3/a4
+
+What is Antwerp?	NULL	data/set3/a4
+
+What is the population of the city of Antwerp?	Antwerp's population is 472,071.	data/set3/a4
+
+What is the population of the city of Antwerp?	NULL	data/set3/a4
+
+Where is the city of Antwerp?	Antwerp is in Belgium	data/set3/a4
+
+Where is the city of Antwerp?	NULL	data/set3/a4
+
+Why is Antwerp important to fashion?	Yes	data/set3/a4
+
+Why is Antwerp important to fashion?	NULL	data/set3/a4
+
+Antwerp is to the east of what river?	Antwerp is to the east of the Scheldt river	data/set3/a4
+
+Antwerp is to the east of what river?	NULL	data/set3/a4
+
+How many municipalities does Antwerp have?	None, Antwerp is a municipality.	data/set3/a4
+
+How many municipalities does Antwerp have?	NULL	data/set3/a4
+
+Is Arabic a Central Semitic language?	Yes	data/set5/a3
+
+Is Arabic a Central Semitic language?	NULL	data/set5/a3
+
+Was Arabic a major vehicle of culture in Europe?	Yes	data/set5/a3
+
+Was Arabic a major vehicle of culture in Europe?	NULL	data/set5/a3
+
+Is Arabic classified alongside Semitic languages?	Yes	data/set5/a3
+
+Is Arabic classified alongside Semitic languages?	NULL	data/set5/a3
+
+How many people speak the Arabic language?	280 million people.	data/set5/a3
+
+How many people speak the Arabic language?	NULL	data/set5/a3
+
+When was Arabic calligraphy invented?	Many styles were developed after 786.	data/set5/a3
+
+When was Arabic calligraphy invented?	NULL	data/set5/a3
+
+Where is Arabic spoken?	The Middle East and North Africa	data/set5/a3
+
+Where is Arabic spoken?	NULL	data/set5/a3
+
+Why is Arabic related to Islam?	Arabic is the liturgical language of Islam	data/set5/a3
+
+Why is Arabic related to Islam?	NULL	data/set5/a3
+
+Why does Arabic heavily influence European languages?	Arabic was a major vehicle of culture in Europe, and the Arab and European civilizations are geographically close.	data/set5/a3
+
+Why does Arabic heavily influence European languages?	NULL	data/set5/a3
+
+How do you say "black" in Arabic?	NULL	data/set5/a3
+
+Is Arabic the largest member of the Semitic language family?	yes	data/set5/a3
+
+Is Arabic the largest member of the Semitic language family?	yes	data/set5/a3
+
+Does Modern Standard Arabic continue to evolve like other languages?	yes	data/set5/a3
+
+Does Modern Standard Arabic continue to evolve like other languages?	yes	data/set5/a3
+
+Is Hassaniya Arabic spoken in Mauritania?	yes	data/set5/a3
+
+Is Hassaniya Arabic spoken in Mauritania?	Yes	data/set5/a3
+
+What is the only variety of modern Arabic that has acquired official language status?	maltese	data/set5/a3
+
+What is the only variety of modern Arabic that has acquired official language status?	Maltese	data/set5/a3
+
+Egyptian Arabic is spoken by how many in Egypt?	76 million	data/set5/a3
+
+Egyptian Arabic is spoken by how many in Egypt?	76 million	data/set5/a3
+
+Where are the Western Arabic numerals used?	North Africa	data/set5/a3
+
+Where are the Western Arabic numerals used?	present-day North Africa	data/set5/a3
+
+The most active Academies of Arabic Language are found where?	damascus and cairo	data/set5/a3
+
+Hassan Massoudy is a master of what genre?	Hassan Massoudy	data/set5/a3
+
+Hassan Massoudy is a master of what genre?	Arabic calligraphy	data/set5/a3
+
+Is Berlin the capital city of Germany?	Berlin is the capital city of Germany.	data/set3/a1
+
+Is Berlin the capital city of Germany?	yes	data/set3/a1
+
+Is Berlin the largest city in Germany?	Berlin is Germany's largest city.	data/set3/a1
+
+Is Berlin the largest city in Germany?	yes	data/set3/a1
+
+Is Schloss Charlottenburg the largest existing palace in Berlin?	Schloss Charlottenburg is the largest existing palace in Berlin. 	data/set3/a1
+
+Is Schloss Charlottenburg the largest existing palace in Berlin?	yes	data/set3/a1
+
+Which building is the site of the German parliament?	The Reichstag building is the site of the German parliament. 	data/set3/a1
+
+Which building is the site of the German parliament?	The Reichstag building	data/set3/a1
+
+Which two sports events did the Olympiastadion host?	The Olympiastadion hosted the 1936 Summer Olympics and the 2006 FIFA World Cup final. 	data/set3/a1
+
+Which two sports events did the Olympiastadion host?	the 1936 Summer Olympics and the 2006 FIFA World Cup final	data/set3/a1
+
+Where is the Berliner Dom located?	The Berliner Dom is located on the Spree Island across from the site of the Berliner Stadtschloss and adjacent to the Lustgarten.	data/set3/a1
+
+Where is the Berliner Dom located?	on the Spree Island	data/set3/a1
+
+Which Berlin building did architect Norman Foster remodel in the 1990s?	The Reichstag building was remodeled by architect Norman Foster in the 1990s.	data/set3/a1
+
+Which Berlin building did architect Norman Foster remodel in the 1990s?	Reichstag building	data/set3/a1
+
+Why is Vattenfall shifting towards reliance on cleaner, renewable energy sources?	Because burning lignite produces harmful emissions, Vattenfall has announced a commitment to shift towards reliance on cleaner, renewable energy sources.	data/set3/a1
+
+Why is Vattenfall shifting towards reliance on cleaner, renewable energy sources?	Because burning lignite produces harmful emissions	data/set3/a1
+
+What are the names of the two zoos in Berlin?	The two zoos in Berlin are the Zoologischer Garten Berlin and the Tierpark Friedrichsfelde.	data/set3/a1
+
+What are the names of the two zoos in Berlin?	Zoologischer Garten Berlin and Tierpark Friedrichsfelde	data/set3/a1
+
+Is Berlin the headquarters of Springer?	Yes, Berlin is the headquarters of Springer.	data/set3/a1
+
+Is Berlin the headquarters of Springer?	NULL	data/set3/a1
+
+Does the Gendarmenmarkt border the French Cathedral?	Yes, the Gendarmenmarkt borders the French Cathedral.	data/set3/a1
+
+Does the Gendarmenmarkt border the French Cathedral?	NULL	data/set3/a1
+
+Is the Nauen plain north of Berlin?	No, the Nauen plain stretches to the west of Berlin.	data/set3/a1
+
+Is the Nauen plain north of Berlin?	NULL	data/set3/a1
+
+Where is the bust of Queen Nefertiti?	The bust of Queen Nefertiti is in the Altes Museum.	data/set3/a1
+
+Where is the bust of Queen Nefertiti?	NULL	data/set3/a1
+
+Where does the German President live?	The German President lives west of the center, Schloss Bellevue.	data/set3/a1
+
+Where does the German President live?	NULL	data/set3/a1
+
+When did Berlin give up its status as a free Hanseatic city?	In 1451 Berlin gave up its status as a free Hanseatic city.	data/set3/a1
+
+When did Berlin give up its status as a free Hanseatic city?	NULL	data/set3/a1
+
+Which is the busiest airport in Berlin?	Tegel International Airport is the busiest airport in Berlin.	data/set3/a1
+
+Which is the busiest airport in Berlin?	NULL	data/set3/a1
+
+How many occupation zones was Germany divided into after the war?	Germany was divided into four occupation zones after the war.	data/set3/a1
+
+How many occupation zones was Germany divided into after the war?	NULL	data/set3/a1
+
+Where was Popkomm held before moving to Berlin?	Popkomm was held in Cologne before moving to Berlin.	data/set3/a1
+
+Where was Popkomm held before moving to Berlin?	NULL	data/set3/a1
+
+Who was Blaise Pascal's father?	His father, Ã‰tienne Pascal (1588â€“1651), who also had an interest in science and mathematics, was a local judge	data/set4/a4
+
+Who was Blaise Pascal's father?	Ã‰tienne Pascal.	data/set4/a4
+
+Was Pascal a French mathematician?	yes	data/set4/a4
+
+Was Pascal a French mathematician?	Yes.	data/set4/a4
+
+Did Pascal have poor health throughout his life?	yes	data/set4/a4
+
+Did Pascal have poor health throughout his life?	Yes.	data/set4/a4
+
+How old was Pascal when he lost his mother?	at the age of three	data/set4/a4
+
+How old was Pascal when he lost his mother?	3.	data/set4/a4
+
+Who was Pascal's younger sister?	Jacqueline	data/set4/a4
+
+Who was Pascal's younger sister?	Jacqueline.	data/set4/a4
+
+What led Pascal to his religious conversion?	Two basic influences led him to his conversion: sickness and Jansenism	data/set4/a4
+
+What led Pascal to his religious conversion?	sickness and Jansenism	data/set4/a4
+
+How old was Pascal when he died?	39	data/set4/a4
+
+How old was Pascal when he died?	1662-08-19.	data/set4/a4
+
+Did Pascal write about cycloid before 1658?	no	data/set4/a4
+
+Is there a programming language called Pascal?	yes	data/set4/a4
+
+Is there a programming language called Pascal?	Yes.	data/set4/a4
+
+Crowds of believers came to see and kiss the thorn; all of Catholic where acclaimed a miracle?	Paris	data/set4/a4
+
+Wasn't Blaise Pascal a work of Desargues on conic sections?	Yes, it was	data/set4/a4
+
+Who died the next morning?	Pascal.	data/set4/a4
+
+When did his father die?	1651	data/set4/a4
+
+When did his father die?	His father died in 1651.	data/set4/a4
+
+Was he a child prodigy who was educated by his father, a civil servant?	yes	data/set4/a4
+
+Was Pascal's earliest work in the natural and applied sciences where he made important contributions to the construction of mechanical calculators, the study of fluids, and clarified the concepts of pressure and vacuum by generalizing the work of Evangelista Torricelli?	Yes	data/set4/a4
+
+Did Pascal also write in defense of the scientific method?	Yes	data/set4/a4
+
+Do butterflies make sounds?	Some butterflies make sounds.	data/set1/a6
+
+Do butterflies make sounds?	NULL	data/set1/a6
+
+Do butterflies have two eyes?	Yes, butterflies have two eyes.	data/set1/a6
+
+Do butterflies have two eyes?	NULL	data/set1/a6
+
+Does a black moth mean that someone has died?	In the Philippines a black butterfly or moth mean that someone has died.	data/set1/a6
+
+Does a black moth mean that someone has died?	NULL	data/set1/a6
+
+What is the outer layer of the cuticle made of?	The outer layer of the cuticle is made of of a mixture of chitin and specialized proteins.	data/set1/a6
+
+What is the outer layer of the cuticle made of?	NULL	data/set1/a6
+
+Where was there a vast swarm of butterflies?	In Kyoto there was a vast swarm of butterflies.	data/set1/a6
+
+Where was there a vast swarm of butterflies?	NULL	data/set1/a6
+
+What butterfly is migratory?	The Monarch butterfly is migratory.	data/set1/a6
+
+What butterfly is migratory?	NULL	data/set1/a6
+
+Do butterflies carry more pollen than Hymenoptera?	No, butterflies carry less pollen than Hymenoptera.	data/set1/a6
+
+Do butterflies carry more pollen than Hymenoptera?	NULL	data/set1/a6
+
+What allows the butterfly to evade predators?	A butterfly's hind wings allow the butterfly to evade predators.	data/set1/a6
+
+What allows the butterfly to evade predators?	NULL	data/set1/a6
+
+What happens if a wing is removed?	If a ring is removed the other three will grow to a larger size.	data/set1/a6
+
+What happens if a wing is removed?	NULL	data/set1/a6
+
+NULL	NULL	data/set2/a9
+
+NULL	NULL	data/set2/a9
+
+NULL	NULL	data/set2/a9
+
+NULL	NULL	data/set2/a9
+
+NULL	NULL	data/set2/a9
+
+NULL	NULL	data/set2/a9
+
+NULL	NULL	data/set2/a9
+
+NULL	NULL	data/set2/a9
+
+NULL	NULL	data/set2/a9
+
+Was Charles-Augustin de Coulomb a Spanish Biologist?	No.	data/set4/a6
+
+Was Charles-Augustin de Coulomb a Spanish Biologist?	No, he was a French physicist.	data/set4/a6
+
+Was the SI unit of charge named after Charles-Augustin de Coulomb?	Yes.	data/set4/a6
+
+Was the SI unit of charge named after Charles-Augustin de Coulomb?	Yes, the SI unit of charge, the coulomb, was named after him.	data/set4/a6
+
+Was Charles-Augustin de Coulomb ever employed at La Rochelle?	Yes.	data/set4/a6
+
+Was Charles-Augustin de Coulomb ever employed at La Rochelle?	Yes, upon his return to France, with the rank of Captain, he was employed at La Rochelle.	data/set4/a6
+
+What is Charles-Augustin de Coulomb best known for?	He is best known for developing Coulomb's law.	data/set4/a6
+
+What is Charles-Augustin de Coulomb best known for?	He is best known for developing Coulomb's law.	data/set4/a6
+
+Whose ideas inspired Charles-Augustin de Coulomb's experiments on the resistance of masonries?	Pieter van Musschenbroek.	data/set4/a6
+
+Whose ideas inspired Charles-Augustin de Coulomb's experiments on the resistance of masonries?	He carried out several experiments on the resistance of masonries which were inspired by the ideas of Pieter van Musschenbroek on friction.	data/set4/a6
+
+When did Charles-Augustin de Coulomb join his father's family in Montpeillier?	From 1757 to 1759 he joined his father's family in Montpellier.	data/set4/a6
+
+Did Charles-Augustin de Coulomb come from a poor family?	No.	data/set4/a6
+
+Did Charles-Augustin de Coulomb come from a poor family?	No, his mother came from a wealthy family in the wool trade.	data/set4/a6
+
+What is Coulomb's law?	The definition of the electrostatic force of attraction and repulsion.	data/set4/a6
+
+What is Coulomb's law?	The definition of the electrostatic force of attraction and repulsion.	data/set4/a6
+
+Where is Collège des Quatre-Nations located?	In Montpellier.	data/set4/a6
+
+Where is Collège des Quatre-Nations located?	In Paris.	data/set4/a6
+
+What happened in 1785?	Coulomb presented his three reports on Electricity and Magnetism	data/set4/a6
+
+What happened in 1757 to 1759?	Charles-Augustin de Coulomb joined his father's family in Montpellier and took part in the work of the academy of the city.	data/set4/a6
+
+Regarding this topic, what did the Revolution do?	The Revolution caused Coulomb to resign his appointment as intendent des eaux et fontains and retire.	data/set4/a6
+
+Who determined to pursue mathematics?	Charles-Augustin de Coulomb	data/set4/a6
+
+When did Coulomb return to Paris?	In 1759.	data/set4/a6
+
+Does Coulomb leave a legacy as a pioneer in the field of geotechnical engineering for his contribution to retaining wall design?	yes	data/set4/a6
+
+Did the family move to Paris as well as there Coulomb studied at the prestigious Collge des Quatre-Nations?	Yes	data/set4/a6
+
+Was Coulomb born in Angoulme France to a well-to-do family?	Coulomb was born in AngoulÃªme, France, to a well-to-do family	data/set4/a6
+
+Is he best known for developing Coulomb's law, the definition of the electrostatic force of attraction and repulsion?	Yes	data/set4/a6
+
+The SI unit of charge, the coulomb, was named after him?	Yes	data/set4/a6
+
+Did Coulomb die in AngoulÃªme, France, to a well-to-do family?	No	data/set4/a6
+
+Are all spoken varieties of Chinese tonal and analytical?	yes	data/set5/a7
+
+Are all spoken varieties of Chinese tonal and analytical?	yes	data/set5/a7
+
+Is fifty percent or more of Korean vocabulary of Chinese origin?	Yes	data/set5/a7
+
+Is fifty percent or more of Korean vocabulary of Chinese origin?	yes	data/set5/a7
+
+Does "ketchup" come from the Minnan pronunciation of &#39853;&#27713; (koe-tsiap)?	Yes	data/set5/a7
+
+Does "ketchup" come from the Minnan pronunciation of &#39853;&#27713; (koe-tsiap)?	yes	data/set5/a7
+
+What is the most common romanization standard for Standard Mandarin today?	Hanyu Pinyin	data/set5/a7
+
+What is the most common romanization standard for Standard Mandarin today?	Hanyu Pinyin	data/set5/a7
+
+What is the official standard language used by the People's Republic of China, the Republic of China, and Singapore (where it is called "Huayu")?	Putonghua / Guoyu, often called "Mandarin"	data/set5/a7
+
+What is the official standard language used by the People's Republic of China, the Republic of China, and Singapore (where it is called "Huayu")?	Standard Mandarin	data/set5/a7
+
+How many head entries for character definitions does the Zhonghua Zihai &#20013;&#21326;&#23383;&#28023; (1994) contain?	85,568 head entries	data/set5/a7
+
+How many head entries for character definitions does the Zhonghua Zihai &#20013;&#21326;&#23383;&#28023; (1994) contain?	54,678	data/set5/a7
+
+What does the PRC government classify as literacy amongst workers?	knowledge of 2,000 characters	data/set5/a7
+
+What does the PRC government classify as literacy amongst workers?	a knowledge of 2000 characters	data/set5/a7
+
+How is South China linguistically different from North China?	South China displays more linguistic diversity	data/set5/a7
+
+&#20415;&#24403;/&#20415;&#30070; “lunchbox or boxed lunch” (from bento) and &#26009;&#29702; “prepared cuisine” are loan words from which language?	Japanese	data/set5/a7
+
+&#20415;&#24403;/&#20415;&#30070; “lunchbox or boxed lunch” (from bento) and &#26009;&#29702; “prepared cuisine” are loan words from which language?	Chinese	data/set5/a7
+
+What is the standardized form of spoken chinese?	The standardized form of spoken Chinese is Standard Mandarin.	data/set5/a7
+
+What is the standardized form of spoken chinese?	The standardized from of spoken Chinese is Standard Mandarin.	data/set5/a7
+
+Is diglossia a common feature in mainland China and Taiwan?	Yes, diglossia is a common feature in mainland China and Taiwan.	data/set5/a7
+
+Is diglossia a common feature in mainland China and Taiwan?	Yes, diglossia is a common feature in mainland China and Taiwan.	data/set5/a7
+
+Do linguists often view Chinese as a language family?	Yes, linguists often view Chinese as a language family.	data/set5/a7
+
+Do linguists often view Chinese as a language family?	Yes, linguists often view Chinese as a language family.	data/set5/a7
+
+When did classical Chinese literature begin?	Classical Chinese literature began in the Spring and Autumn period.	data/set5/a7
+
+When did classical Chinese literature begin?	Classical Chinese literature began in the 14th to 11th centuires BCE.	data/set5/a7
+
+How does the government of the People's Republic of China often refer to all divisions of the Sinitic language(s) besides Standard Mandarin?	The government of the People's Republic of China refers to all divisions of the Sinitic language(s) besides Standard Mandarin as fangyan.	data/set5/a7
+
+How does the government of the People's Republic of China often refer to all divisions of the Sinitic language(s) besides Standard Mandarin?	The PRC commonly refers to all divisons of the Sinitic language(s) beside Standard Mandarin as fangyan, or "regional tongues."	data/set5/a7
+
+When was Middle Chinese used?	Middle Chinese was used during Southern and Northern Dynasties and the Sua, Tang, and Sang dynasties.	data/set5/a7
+
+When was Middle Chinese used?	Middle Chinese was the language used in the 6th through 1-th centuries CE.	data/set5/a7
+
+How is the pronunciation of foreign words determined?	The pronunciation of foreign words is done by employing Chinese characters with similar pronuncations.	data/set5/a7
+
+How is the pronunciation of foreign words determined?	Foreign words are transliterated into close-match existing Chinese morphemes.	data/set5/a7
+
+What is the total number of Chinese words?	The Hanyu Da Zidian includes 54,678 head entries for characters.	data/set5/a7
+
+What language was used in the Zhou and Southern Dynasties?	Old Chinese was the language common during the early and middle Zhou Dynasty.	data/set5/a7
+
+Is a cougar also known as a mountain lion?	A cougar is also known as a mountain lion.	data/set1/a2
+
+Is a cougar also known as a mountain lion?	yes	data/set1/a2
+
+Are cougars larger than jaguars?	Cougars are not larger than jaguars.	data/set1/a2
+
+Are cougars larger than jaguars?	no	data/set1/a2
+
+Does the World Conservation Union consider the cougar a "least concern" species?	The World Conservation Union (IUCN) currently lists the cougar as a "least concern" species.	data/set1/a2
+
+Does the World Conservation Union consider the cougar a "least concern" species?	yes	data/set1/a2
+
+What are some of the cougar's primary food sources?	The cougar's primary food sources include ungulates such as deer, elk, and bighorn sheep, as well as domestic cattle, horses and sheep, particularly in the northern part of its range.	data/set1/a2
+
+What are some of the cougar's primary food sources?	ungulates such as deer, elk, and bighorn sheep, as well as domestic cattle, horses, and sheep	data/set1/a2
+
+How long are cougar adult males (from nose to tail)?	The length of adult males is around 2.4 meters (8 ft) long nose to tail.	data/set1/a2
+
+How long are cougar adult males (from nose to tail)?	2.4 meters	data/set1/a2
+
+How long is an adult cougar's paw print?	An adult cougar's paw print is approximately 10 cm (4 inches) long.	data/set1/a2
+
+How long is an adult cougar's paw print?	4 inches	data/set1/a2
+
+What are the three heaviest cats in the world?	The three heaviest cats in the world are the tiger, lion and jaguar.	data/set1/a2
+
+What are the three heaviest cats in the world?	tiger, lion, and jaguar	data/set1/a2
+
+On average, are cougar males heavier than females?	On average, cougar males are heavier than females.	data/set1/a2
+
+On average, are cougar males heavier than females?	yes	data/set1/a2
+
+What are the three cat species that are native to Canada?	The three cat species that are native to Canada are the cougar, the bobcat and the Canadian lynx.	data/set1/a2
+
+What are the three cat species that are native to Canada?	cougar, bobcat, Canadian lynx	data/set1/a2
+
+Is one of the parts of a cymbal called a disc?	no	data/set2/a6
+
+Is one of the parts of a cymbal called a disc?	NULL	data/set2/a6
+
+Are ride cymbals very common?	yes	data/set2/a6
+
+Are ride cymbals very common?	NULL	data/set2/a6
+
+Does Fender make cymbals?	no	data/set2/a6
+
+Does Fender make cymbals?	NULL	data/set2/a6
+
+What part of the cymbal is the bell?	The center of a Cymbal	data/set2/a6
+
+What part of the cymbal is the bell?	NULL	data/set2/a6
+
+What's the timber of ancient cimbals like? disfluent	like that of small hand-bells or of the notes of the keyed harmonica	data/set2/a6
+
+What's the timber of ancient cimbals like? disfluent	NULL	data/set2/a6
+
+What does it sound like to play cymbals with a cello bow?	squealing car brakes	data/set2/a6
+
+What does it sound like to play cymbals with a cello bow?	NULL	data/set2/a6
+
+What are cymbals made of?	brass	data/set2/a6
+
+What are cymbals made of?	NULL	data/set2/a6
+
+How many cymbals typically go in a drum kit?	at least 3	data/set2/a6
+
+How many cymbals typically go in a drum kit?	NULL	data/set2/a6
+
+What kinds of musical groups use cymbals?	Cymbals are used in modern orchestras and many military, marching, concert and other bands	data/set2/a6
+
+What kinds of musical groups use cymbals?	NULL	data/set2/a6
+
+NULL	NULL	data/set1/a7
+
+NULL	NULL	data/set1/a7
+
+NULL	NULL	data/set1/a7
+
+NULL	NULL	data/set1/a7
+
+NULL	NULL	data/set1/a7
+
+NULL	NULL	data/set1/a7
+
+NULL	NULL	data/set1/a7
+
+NULL	NULL	data/set1/a7
+
+NULL	NULL	data/set1/a7
+
+Are dragonflies capable of walking?	NULL	data/set1/a7
+
+Are dragonflies capable of walking?	NULL	data/set1/a7
+
+Do dragonfly nymphs ever hunt on land?	NULL	data/set1/a7
+
+Do dragonfly nymphs ever hunt on land?	NULL	data/set1/a7
+
+Do dragonflies spend most of their lives in their adult form?	NULL	data/set1/a7
+
+Do dragonflies spend most of their lives in their adult form?	NULL	data/set1/a7
+
+What are dragonfly larvae known as?	NULL	data/set1/a7
+
+What are dragonfly larvae known as?	NULL	data/set1/a7
+
+On what continent have dragonflies often been seen as sinister?	NULL	data/set1/a7
+
+On what continent have dragonflies often been seen as sinister?	NULL	data/set1/a7
+
+In how many directions can the adult dragonfly propel itself?	NULL	data/set1/a7
+
+In how many directions can the adult dragonfly propel itself?	NULL	data/set1/a7
+
+What is the hobby of seeking out dragonflies and damselflies called?	NULL	data/set1/a7
+
+What is the hobby of seeking out dragonflies and damselflies called?	NULL	data/set1/a7
+
+In what country are dragonflies used as a food source?	NULL	data/set1/a7
+
+In what country are dragonflies used as a food source?	NULL	data/set1/a7
+
+Which culture has a legend that claims that trolls sent dragonflies to poke out their enemies' eyes?	NULL	data/set1/a7
+
+Which culture has a legend that claims that trolls sent dragonflies to poke out their enemies' eyes?	NULL	data/set1/a7
+
+Is the dragonfly associated with late summer as well as early autumn?	Yes	data/set1/a7
+
+Does Exposure to air cause the larva to begin breathing?	Yes (capitalization).	data/set1/a7
+
+Is it characterized by large multifaceted eyes, two pairs of strong transparent wings, and an elongated body?	Yes.	data/set1/a7
+
+Is the drum a member of the percussion group?	yes	data/set2/a4
+
+Is the drum a member of the percussion group?	yes	data/set2/a4
+
+Does each type of drum head serve its own musical purpose?	yes	data/set2/a4
+
+Does each type of drum head serve its own musical purpose?	yes	data/set2/a4
+
+Is the Aburukuwa a type of drum?	yes	data/set2/a4
+
+Is the Aburukuwa a type of drum?	yes	data/set2/a4
+
+How long has the basic design of the drum remained unchanged?	remained virtually unchanged for thousands of years	data/set2/a4
+
+How long has the basic design of the drum remained unchanged?	thousands of years	data/set2/a4
+
+What is the second biggest factor affecting the sound produced by a drum?	tension	data/set2/a4
+
+What is the second biggest factor affecting the sound produced by a drum?	the tension at which the drum head is held against the shell of the drum.	data/set2/a4
+
+By what name are drums classified as under the percussion group?	membranophone	data/set2/a4
+
+By what name are drums classified as under the percussion group?	membranous	data/set2/a4
+
+How do rock and roll drummers like their drumheads?	rock and roll drummer may prefer drums that sound loud and deep	data/set2/a4
+
+How do rock and roll drummers like their drumheads?	drums that sound loud and deep	data/set2/a4
+
+Whare is the name for drums that have a set of wires held across some of all of the drum heads?	snares	data/set2/a4
+
+Had the drums been used in Sri Lanka since Before Christ?	yes	data/set2/a4
+
+Had the drums been used in Sri Lanka since Before Christ?	yes	data/set2/a4
+
+Is the drum a member of the percussion group?	yes	data/set2/a4
+
+Is the drum a member of the percussion group?	yes	data/set2/a4
+
+Are drums often used in music therapy?	yes	data/set2/a4
+
+Are drums often used in music therapy?	yes	data/set2/a4
+
+Do drums consist of at least eight membranes?	no	data/set2/a4
+
+Do drums consist of at least eight membranes?	no	data/set2/a4
+
+What has the most effect on how a drum sounds?	the drumhead	data/set2/a4
+
+What has the most effect on how a drum sounds?	the drumhead	data/set2/a4
+
+Who constructed a kit using diatonic and chromatically tuned drums?	Terry Bozzio	data/set2/a4
+
+Who constructed a kit using diatonic and chromatically tuned drums?	Terry Bozzio	data/set2/a4
+
+Drums are usually played by what?	the hands, or by one or two sticks	data/set2/a4
+
+Drums are usually played by what?	the hands	data/set2/a4
+
+Has the design of drums changed recently?	no	data/set2/a4
+
+Has the design of drums changed recently?	no	data/set2/a4
+
+Can some cylindrical shell drums have no drum heads?	no	data/set2/a4
+
+Can some cylindrical shell drums have no drum heads?	no	data/set2/a4
+
+Does every drumhead make the same sound?	no	data/set2/a4
+
+Does every drumhead make the same sound?	no	data/set2/a4
+
+Aren't drums often used in music therapy?	Yes, drums are often used in music therapy.	data/set2/a4
+
+Aren't drums usually played by the hands?	Yes.	data/set2/a4
+
+Are drums usually played by the hands?	Yes	data/set2/a4
+
+Do many such drums have six to ten tension rods?	Yes.	data/set2/a4
+
+Do drums consist of at least one membrane, called a drumhead or drum skin, that is stretched over a shell and struck, either directly with parts of a player's body, or with some sort of implement such as a drumstick, to produce sound?	yes	data/set2/a4
+
+Have other techniques been used to cause drums to make sound, such as the ``Thumb roll''?	Yes	data/set2/a4
+
+Is the electric eel a true eel?	No	data/set1/a8
+
+Is the electric eel a true eel?	No, the electric eel is not a true eel.	data/set1/a8
+
+Are most eels predators?	Yes	data/set1/a8
+
+Are most eels predators?	Yes, most eels are predators.	data/set1/a8
+
+Is eel blood toxic to humans?	Yes	data/set1/a8
+
+Is eel blood toxic to humans?	Yes, eel blood is toxic to humans.	data/set1/a8
+
+How many species of true eels are there?	approximately 800 species	data/set1/a8
+
+How many species of true eels are there?	There are approximately 800 species of true eels.	data/set1/a8
+
+Where is smoked eel considered a delicacy?	Northern Germany, The Netherlands, Denmark, Sweden	data/set1/a8
+
+Where is smoked eel considered a delicacy?	Smoked eel is considered a delicacy in northern Germany, The Netherlands, Denmark and Sweden.	data/set1/a8
+
+How do eels begin life?	As flat and transparent larvae, called leptocephali	data/set1/a8
+
+How do eels begin life?	Eels begin life as flat and transparent larvae, called leptocephali.	data/set1/a8
+
+What types of fins do eels have?	Dorsal, anal, caudal, tail fins	data/set1/a8
+
+What types of fins do eels have?	Eels have dorsal and anal fins fused with a tail fin. Some also have  pectoral fins.	data/set1/a8
+
+What do leptocephali eat?	Marine snow	data/set1/a8
+
+What do leptocephali eat?	Leptocephali eat small particles called marine snow.	data/set1/a8
+
+Do all eels live in fresh water?	No	data/set1/a8
+
+Do all eels live in fresh water?	No, not all eels live in fresh water.	data/set1/a8
+
+Is Finnish an official language of the European Union?	Yes	data/set5/a5
+
+Is Finnish an official language of the European Union?	Yes, Finnish is an official language of the European Union.	data/set5/a5
+
+Are the dialects of Finnish divided into two groups?	Yes	data/set5/a5
+
+Are the dialects of Finnish divided into two groups?	Yes, the dialects of Finnish are divided into two groups.	data/set5/a5
+
+Is Finnish threatened by English?	No	data/set5/a5
+
+Is Finnish threatened by English?	No, Finnish is not threatened by English.	data/set5/a5
+
+When did Proto-Uralic language arrive in Finland?	Around 1900 BCE	data/set5/a5
+
+When did Proto-Uralic language arrive in Finland?	Proto-Uralic language arrived in Finland around 1900 BCE.	data/set5/a5
+
+What are characteristic features of Finnish?	Vowel harmony and an agglutinative morphology	data/set5/a5
+
+What are characteristic features of Finnish?	Characteristic features of Finnish are vowel harmony and an agglutinative morphology.	data/set5/a5
+
+Where is the Kven language spoken?	Norway	data/set5/a5
+
+Where is the Kven language spoken?	The Kven language is spoken in Northern Norway.	data/set5/a5
+
+For how long has the classification of dialects spoken outside of Finland been a controversial issue?	Since Finland's independence in 1917	data/set5/a5
+
+For how long has the classification of dialects spoken outside of Finland been a controversial issue?	The classification of dialects spoken outside of Finland has been a controversial issue since Finland's independence in 1917.	data/set5/a5
+
+Who wrote the first novel in Finnish?	Aleksis Kivi	data/set5/a5
+
+Who wrote the first novel in Finnish?	The first novel in Finnish was published by Aleksis Kivi.	data/set5/a5
+
+What book defined the official Finnish language?	The Dictionary of Contemporary Finnish	data/set5/a5
+
+What book defined the official Finnish language?	The Dictionary of Contemporary Finnish defined the official Finnish language.	data/set5/a5
+
+What is the earliest extant transverse flute?	it dates from 433 BC	data/set2/a5
+
+What is the earliest extant transverse flute?	Chi	data/set2/a5
+
+When does a flute produce sound?	when a stream of air directed across a hole in the instrument creates a vibration of air at the hole	data/set2/a5
+
+When does a flute produce sound?	When a stream of air directed across a hole in the instrument creats a vibration of air at the hole.	data/set2/a5
+
+How can a flute's volume be increased?	a flute's volume can generally be increased by making its resonator and tone holes larger	data/set2/a5
+
+How can a flute's volume be increased?	A flute's volume can be increased by making its resonator and tone holes larger.	data/set2/a5
+
+Do open-ended flutes have brighter timbres?	yes	data/set2/a5
+
+Do open-ended flutes have brighter timbres?	Yes.	data/set2/a5
+
+Where was the oldest flute ever discovered found?	Germany	data/set2/a5
+
+Where was the oldest flute ever discovered found?	Various parts of Germany.	data/set2/a5
+
+Are Western flutes simpler than Indian flutes?	no	data/set2/a5
+
+Are Western flutes simpler than Indian flutes?	Yes.	data/set2/a5
+
+Why is a police whistle very wide for its pitch?	A flute's volume can generally be increased by making its resonator and tone holes larger	data/set2/a5
+
+Why is a police whistle very wide for its pitch?	It's volume is high either because of its larger resonator or larger tone holes.	data/set2/a5
+
+What are the two main varieties of Indian flutes?	The first, the Bansuri. The second, the Venu or Pullanguzhal	data/set2/a5
+
+What are the two main varieties of Indian flutes?	Bansuri and the Venu or Pullanguzhal.	data/set2/a5
+
+Has the flute been dated to prehistoric times?	yes	data/set2/a5
+
+Has the flute been dated to prehistoric times?	Yes	data/set2/a5
+
+Was the pan flute used in Greece?	yes	data/set2/a5
+
+Was the pan flute used in Greece?	Yes	data/set2/a5
+
+Can a flute be played with several different air sources?	yes	data/set2/a5
+
+Can a flute be played with several different air sources?	Yes	data/set2/a5
+
+When was the pan flute used in Greece?	the 7th century BC	data/set2/a5
+
+When was the pan flute used in Greece?	7th century BC	data/set2/a5
+
+When did concert flutes begin appearing in concert ensembles?	the 16th-century	data/set2/a5
+
+When did concert flutes begin appearing in concert ensembles?		data/set2/a5
+
+How many main varieties of Indian flutes are currently used?	two	data/set2/a5
+
+How many main varieties of Indian flutes are currently used?	Two	data/set2/a5
+
+What material is a chi flute fashioned from?	lacquered bamboo	data/set2/a5
+
+What material is a chi flute fashioned from?	Lacquered bamboo	data/set2/a5
+
+How does a flute player change the pitch of the sound?	by opening and closing holes in the body of the instrument	data/set2/a5
+
+How does a flute player change the pitch of the sound?	Opening and closing holes in the body of the instrument	data/set2/a5
+
+What is the most basic form of the flute?	a flute can be an open tube which is blown like a bottle	data/set2/a5
+
+What is the most basic form of the flute?	Open tube which is blown like a bottle	data/set2/a5
+
+Has the dragon historically served as China's national emblem?	yes	data/set1/a4
+
+Has the dragon historically served as China's national emblem?	Yes	data/set1/a4
+
+Do pandas hibernate?	no	data/set1/a4
+
+Do pandas hibernate?	No	data/set1/a4
+
+Do giant pandas attack humans?	yes	data/set1/a4
+
+Do giant pandas attack humans?	Yes	data/set1/a4
+
+What family is the panda a part of?	Ursidae (bear)	data/set1/a4
+
+What family is the panda a part of?	Ursidae	data/set1/a4
+
+How long does it take for the panda cubs skin to turn gray?	one to two weeks after birth	data/set1/a4
+
+How long does it take for the panda cubs skin to turn gray?	One to two weeks	data/set1/a4
+
+How many different names did Chinese writings give to the panda?	20	data/set1/a4
+
+How many different names did Chinese writings give to the panda?	20	data/set1/a4
+
+What foods do pandas eat?	bamboo	data/set1/a4
+
+What foods do pandas eat?	bamboo, honeys, eggs, fish, yams, shrub leaves, oranges, and bananas	data/set1/a4
+
+What are the two subspecies of giant pandas?	Ailuropoda melanoleuca melanoleuca and  Ailuropoda melanoleuca qinlingensis 	data/set1/a4
+
+What are the two subspecies of giant pandas?	Ailuropoda melanoleuca melanoleuca and The Qinling Panda, Ailuropoda melanoleuca qinlingensis	data/set1/a4
+
+What is panda diplomacy?	Loans of Giant Pandas to American and Japanese zoos	data/set1/a4
+
+What is panda diplomacy?	Loans of Giant Pandas to American and Japanese zoos	data/set1/a4
+
+Is the Giant Panda a mammal?	yes	data/set1/a4
+
+Is the Giant Panda a mammal?	Yes	data/set1/a4
+
+Is the Giant Panda a terrestrial animal?	yes	data/set1/a4
+
+Is the Giant Panda a terrestrial animal?	Yes	data/set1/a4
+
+Is the Giant Panda an endangered species?	yes	data/set1/a4
+
+Is the Giant Panda an endangered species?	Yes	data/set1/a4
+
+Where do Giant Pandas live?	a few mountain ranges in central china	data/set1/a4
+
+Where do Giant Pandas live?	Sichuan province, Shaanxi and Gansu provinces	data/set1/a4
+
+When was the Giant Panda's genome sequenced?	2009	data/set1/a4
+
+When was the Giant Panda's genome sequenced?	2009	data/set1/a4
+
+How many subspecies of the Giant Panda are there?	Two	data/set1/a4
+
+How many subspecies of the Giant Panda are there?	Two	data/set1/a4
+
+Is the Giant Panda a carnivore?	Yes	data/set1/a4
+
+Why is the Giant Panda an endangered species?	threatened by habitat loss	data/set1/a4
+
+Why is the Giant Panda an endangered species?	It is threatened by continued habitat loss and by a very low birthrate	data/set1/a4
+
+Is the population of wild Giant  Pandas growing?	according to some reports, yes	data/set1/a4
+
+Is the population of wild Giant  Pandas growing?	Yes but uncertain	data/set1/a4
+
+Is an acoustic guitar dependent on an external device?	No	data/set2/a7
+
+Is an acoustic guitar dependent on an external device?	No.	data/set2/a7
+
+Is the battente smaller than a classical guitar?	Yes	data/set2/a7
+
+Is the battente smaller than a classical guitar?	Yes.	data/set2/a7
+
+Is the flamenco guitar similar to the classical guitar?	Yes	data/set2/a7
+
+Is the flamenco guitar similar to the classical guitar?	Yes.	data/set2/a7
+
+Where is the headstock located?	end of the guitar neck furthest from the body	data/set2/a7
+
+Where is the headstock located?	At the end of the guitar.	data/set2/a7
+
+Whom are guitars made and repaired by?	luthiers	data/set2/a7
+
+Whom are guitars made and repaired by?	Luthiers.	data/set2/a7
+
+What are modern guitar strings constructed of?	metal, polymers, animal or plant product materials	data/set2/a7
+
+What are modern guitar strings constructed of?	Metal, polymers, or animal or plant product materials.	data/set2/a7
+
+Why are Harp Guitars difficult to classify?	as there are many variations within this type of guitar	data/set2/a7
+
+Why are Harp Guitars difficult to classify?	There are many variations within this type.	data/set2/a7
+
+What is the bridge used for?	transfer the vibration from the strings to the soundboard	data/set2/a7
+
+What is the bridge used for?	The transfer of string vibrations.	data/set2/a7
+
+Which guitars use three single-coil pickups?	Fender Statocaster type guitars	data/set2/a7
+
+Which guitars use three single-coil pickups?	Fender Stratocaster type guitars.	data/set2/a7
+
+Is a guitar an instrument?	Yes	data/set2/a7
+
+Is a guitar an instrument?	yes	data/set2/a7
+
+Can guitars be divided into two broad categories?	Yes	data/set2/a7
+
+Can guitars be divided into two broad categories?	yes	data/set2/a7
+
+Do picks come in many shapes and sizes?	Yes	data/set2/a7
+
+Do picks come in many shapes and sizes?	yes	data/set2/a7
+
+How many strings does a guitar typically have?	Six	data/set2/a7
+
+How many strings does a guitar typically have?	six	data/set2/a7
+
+What is located at the end of the guitar neck furthest from the body?	Headstock	data/set2/a7
+
+What is located at the end of the guitar neck furthest from the body?	headstock	data/set2/a7
+
+What are most electric guitar bodies made of?	Wood	data/set2/a7
+
+What are most electric guitar bodies made of?	wood	data/set2/a7
+
+Why do some people believe that left-handed people should learn to play guitars as right-handed people do?	to standardise the instrument	data/set2/a7
+
+Why do some people believe that left-handed people should learn to play guitars as right-handed people do?	to standardise the instrument	data/set2/a7
+
+How old is the oldest known representation of a guitar-like intrument being played?	3,300 years old	data/set2/a7
+
+How old is the oldest known representation of a guitar-like intrument being played?	3,300 years old	data/set2/a7
+
+What is the point called that is bolted or glued to the body of the guitar?	Neck Joint	data/set2/a7
+
+What is the point called that is bolted or glued to the body of the guitar?	Neck joint or 'Heel'	data/set2/a7
+
+Did Becquerel study science at the École des Ponts et Chaussées?	Yes	data/set4/a9
+
+Did he become chief engineer in the Department of Bridges and Highways in 1892?	No	data/set4/a9
+
+Did he become chief engineer in the Department of Bridges and Highways in 1892?	yes	data/set4/a9
+
+Was Becquerel a French physicist?	Yes	data/set4/a9
+
+Was Becquerel a French physicist?	yes	data/set4/a9
+
+Whom did he share the Nobel Prize with?	Pierre and Marie Curie	data/set4/a9
+
+Whom did he share the Nobel Prize with?	Pierre and Marie Curie	data/set4/a9
+
+When did he die?	1908	data/set4/a9
+
+When did he die?	1908	data/set4/a9
+
+What is the SI unit for radioactivity called?	becquerel	data/set4/a9
+
+What is the SI unit for radioactivity called?	the becquerel (Bq)	data/set4/a9
+
+When Becquerel discovered radioactivity, whose work did he investigate?	Wilhelm Conrad Röntgen	data/set4/a9
+
+When Becquerel discovered radioactivity, whose work did he investigate?	Wilhelm Conrad RÃ¶ntgen	data/set4/a9
+
+Where are there craters named Becquerel?	Moon and Mars	data/set4/a9
+
+Where are there craters named Becquerel?	on the moon and on mars	data/set4/a9
+
+Why did Bequerel win the Nobel Prize in Physics?	discovery of spontaneous radioactivity	data/set4/a9
+
+Why did Bequerel win the Nobel Prize in Physics?	was the discoverer of radioactivity	data/set4/a9
+
+Was Isaac Newton British?	Yes.	data/set4/a1
+
+Was Isaac Newton British?	Yes, he was English.	data/set4/a1
+
+Was Isaac Newton religious?	It is not clear.	data/set4/a1
+
+Was Isaac Newton religious?	Yes, he was highly religious, though an unorthodox Christian.	data/set4/a1
+
+Did Isaac Newton die in 1898?	No.	data/set4/a1
+
+Did Isaac Newton die in 1898?	No, Newton died in his sleep in London on 31 March 1727.	data/set4/a1
+
+Where was Isaac Newton born?	At Woolsthorpe Manor in Woosthorpe-by-Colsterworth.	data/set4/a1
+
+Where was Isaac Newton born?	He was born at Woolsthorpe Manor in Woolsthorpe-by-Colsterworth, a hamlet in the county of Lincolnshire.	data/set4/a1
+
+Who shares credit with Isaac Newton for developing calculus?	Gottfried Leibniz.	data/set4/a1
+
+Who shares credit with Isaac Newton for developing calculus?	Newton shares the credit with Gottfried Leibniz for the development of the differential and integral calculus.	data/set4/a1
+
+When did Isaac Newton discover the generalized binomial theorem?	In 1665.	data/set4/a1
+
+When did Isaac Newton discover the generalized binomial theorem?	In 1665.	data/set4/a1
+
+Did the Occult influence Newton's theory of gravitation?	Yes.	data/set4/a1
+
+Did the Occult influence Newton's theory of gravitation?	If Newton had not relied on the occult idea of action at a distance, he might not have developed his theory of gravity.	data/set4/a1
+
+Were Newton's religious views consistent with Anglicanism?	No.	data/set4/a1
+
+Were Newton's religious views consistent with Anglicanism?	No, a conflict between Newton's religious views and Anglican orthodoxy was averted.	data/set4/a1
+
+Which fruit inspired Isaac Newton's theory of gravitation?	The apple.	data/set4/a1
+
+Which fruit inspired Isaac Newton's theory of gravitation?	Isaac Newton's theory of gravitation was inspired by watching the fall of an apple from a tree.	data/set4/a1
+
+Was Sir Isaac Newton an English physicist and mathematician?	yes	data/set4/a1
+
+Was Sir Isaac Newton an English physicist and mathematician?	yes	data/set4/a1
+
+Did he build the first practical reflecting telescope?	yes	data/set4/a1
+
+Was Isaac Newton educated at The King's Schol, Grantham?	yes	data/set4/a1
+
+Was Isaac Newton educated at The King's Schol, Grantham?	yes	data/set4/a1
+
+Where was Isaac Newton born?	Woolsthorpe Manor in Woolsthorpe-by-Colsterworth	data/set4/a1
+
+Where was Isaac Newton born?	Woolsthorpe Manor in Woolsthorpe-by-Colsterworth	data/set4/a1
+
+When was the Principia published?	1687	data/set4/a1
+
+When was the Principia published?	1687	data/set4/a1
+
+Where is there a Newton statue on display?	Oxford University Museum of Natural History 	data/set4/a1
+
+Where is there a Newton statue on display?	Oxford University Museum of Natural History	data/set4/a1
+
+Where was Isaac Newton buried?	Westminster Abbey	data/set4/a1
+
+Where was Isaac Newton buried?	Westminster Abbey	data/set4/a1
+
+What religion did Isaac Newton follow?	he never made a public declaration of his private faith	data/set4/a1
+
+What religion did Isaac Newton follow?	unorthodox Christian	data/set4/a1
+
+What food gave Isaac Newton clues to his theory of gravity?	apple	data/set4/a1
+
+What food gave Isaac Newton clues to his theory of gravity?	apple	data/set4/a1
+
+Who was a farmer and later a land surveyor for the government?	 LeRoy Pollock was a farmer and later a land surveyor for the government.	data/set6/a9
+
+Regarding this topic, what did David Alfaro Siqueiros do?	Pollock was introduced to the use of liquid paint in 1936 at an experimental workshop operated in New York City by the Mexican muralist David Alfaro Siqueiros.	data/set6/a9
+
+Who used hardened brushes, sticks,?	Jackson Pollock used hardened brushes, sticks.	data/set6/a9
+
+When were his papers donated by Lee Krasner?	In 1983.	data/set6/a9
+
+Did Free Jazz feature a Pollock painting as its cover artwork?	Yes.	data/set6/a9
+
+Was Paul Jackson Pollock an influential American painter as well as a major figure in the abstract expressionist movement?	Yes, Pollock was an influential American painter and a major figure in the abstract expressionist movement.	data/set6/a9
+
+Give an example of the origins of the term action painting. 	Pollock's technique of pouring and dripping paint is thought to be one of the origins of the term action painting.	data/set6/a9
+
+During his lifetime, did Pollock enjoy considerable fame and notoriety?	Yes.	data/set6/a9
+
+Was he regarded as a mostly reclusive artist?	Yes, he was regarded as a mostly reclusive artist. 	data/set6/a9
+
+Is the Wisma building the tallest building in Indonesia?	yes	data/set3/a5
+
+Is the Wisma building the tallest building in Indonesia?	Yes,	data/set3/a5
+
+is there a chinese community in jakarta?	yes	data/set3/a5
+
+is there a chinese community in jakarta?	Yes.	data/set3/a5
+
+Is Jakarta the 12th largest city in the world?	yes	data/set3/a5
+
+Is Jakarta the 12th largest city in the world?	Yes.	data/set3/a5
+
+What is the capital of Indonesia?	Jakarta	data/set3/a5
+
+What is the capital of Indonesia?	The capital of Indonesia is Jakarta.	data/set3/a5
+
+What is the official name of Jakarta?	Daerah Khusus Ibukota Jakarta	data/set3/a5
+
+What is the official name of Jakarta?	Daerah Khusus.	data/set3/a5
+
+How is the climate in the city?	Jakarta has a hot and humid equatorial/tropical climate 	data/set3/a5
+
+How is the climate in the city?	The city is hot and humid.	data/set3/a5
+
+Where does the name of the city Jakarta come from?	The name Jakarta is derived from the Sanskrit word "Jayakarta."	data/set3/a5
+
+How is the city's governor chosen?	election	data/set3/a5
+
+How is the city's governor chosen?	Through election.	data/set3/a5
+
+Why does Jakarta suffer frequent flooding?	Because it is located approximately eight meters above the sea level	data/set3/a5
+
+Why does Jakarta suffer frequent flooding?	The fact that the northern part of Jakarta lies on a plain, approximately eight meters above the sea level.	data/set3/a5
+
+Is the the biggest university in Jakarta the University of Indonesia	yes	data/set3/a5
+
+Is Jakarta a city	yes	data/set3/a5
+
+Is Jakarta a city	Yes	data/set3/a5
+
+Is the most important river the Ciliwung River	yes	data/set3/a5
+
+Is the most important river the Ciliwung River	Yes	data/set3/a5
+
+Where is Jakarta located	northwest coast of Java	data/set3/a5
+
+Where is Jakarta located	On the northwest coast of Java	data/set3/a5
+
+Who created Monas Park	General Herman Willem Deandels	data/set3/a5
+
+Who created Monas Park	Dutch Governor General Herman Willem Deandels	data/set3/a5
+
+Do mikrolets travel on the main roads?	no	data/set3/a5
+
+Do mikrolets travel on the main roads?	No	data/set3/a5
+
+What contributes to frequent flooding in Jakarta	Jakarta lies on a plain eight meters, approximately eight meters above the sea level.	data/set3/a5
+
+What contributes to frequent flooding in Jakarta	It lies on a plain, approximately eight meters above the sea level	data/set3/a5
+
+Did the economy improve in Jakarta in 2007	yes	data/set3/a5
+
+Did the economy improve in Jakarta in 2007	Yes	data/set3/a5
+
+In AD 39, King Purnawarman established Sunda Pura as a new capital city for the kingdom, located at the northern coast of where?	Java	data/set3/a5
+
+In 1602, the British East India Company's first voyage, commanded by Sir who, arrived in Aceh and sailed on to Banten where they were allowed to build a trading post?	James Lancaster	data/set3/a5
+
+Who began control of migration to the city in order to stem the overcrowding and poverty?	Lieutenant General Ali Sadikin began control of migration to the city in order to stem the overcrowding and poverty.	data/set3/a5
+
+Did Jayawikarta's soldiers attack the Dutch fortress?	yes	data/set3/a5
+
+Did Suharto resign as president?	Yes	data/set3/a5
+
+Was the Jakarta area part of the fourth century Indianized kingdom of Tarumanagara?	Yes	data/set3/a5
+
+Do other landmarks include the Istiqlal Mosque as well as Jakarta Cathedral?	Yes	data/set3/a5
+
+Give an example of the many Sukarno era monuments in the city. 	The West Irian Liberation Statue is one of the many Sukarno era monuments in the city. 	data/set3/a5
+
+Is Jakarta the country's economic, cultural and political center?	Yes.	data/set3/a5
+
+Is James Watt French?	No, he was Scottish.	data/set4/a2
+
+Is James Watt French?	No	data/set4/a2
+
+Did James Watt improve an engine?	Yes, his improvements to the Newcomen steam engine were fundamental to the changes brought by the Industrial Revolution.	data/set4/a2
+
+Did James Watt improve an engine?	Yes	data/set4/a2
+
+Is there a statue of Watt in the White House?	No, a colossal statue of Watt by Chantrey was placed in Westminster Abbey, and later was moved to St. Paul's Cathedral.	data/set4/a2
+
+Is there a statue of Watt in the White House?	No	data/set4/a2
+
+What was James Watt's father's job?	His father was a shipwright, ship owner and contractor, and served as the town's chief baillie.	data/set4/a2
+
+What was James Watt's father's job?	His father was a shipwright, ship owner and contractor, and served as the town's chief baillie.	data/set4/a2
+
+When did Watt retire?	In 1800.	data/set4/a2
+
+When did Watt retire?	Watt retired in 1800.	data/set4/a2
+
+Where is the James Watt Memorial College?	In Greenock.	data/set4/a2
+
+Where is the James Watt Memorial College?	The James Watt Memorial  is in Greenock.	data/set4/a2
+
+Why is the watt named after Watt?	The watt is named after him for his contributions to the development of the steam engine.	data/set4/a2
+
+Why is the watt named after Watt?	The watt is named after James Watt for his contributions to the development of the steam engine.	data/set4/a2
+
+Where did Watt attend university?	Watt did not attend school regularly.	data/set4/a2
+
+Where did Watt attend university?	He did not attend a university.	data/set4/a2
+
+What did he invent?	He invented a new method of measuring distances by telescope, a device for copying letters, improvements in the oil lamp, a steam mangle and a machine for copying sculptures.	data/set4/a2
+
+What did he invent?	He invented a new method of measuring distances by telescope, a device for copying letters, improvements in the oil lamp, a steam mangle and a machine for copying sculptures.	data/set4/a2
+
+Was James Watt a member of the Lunar Society?	NULL	data/set4/a2
+
+Was James Watt a member of the Lunar Society?	NULL	data/set4/a2
+
+Did James Watt marry his cousin?	NULL	data/set4/a2
+
+Did James Watt marry his cousin?	NULL	data/set4/a2
+
+Was Watt married to Agnes Muirhead?	NULL	data/set4/a2
+
+Was Watt married to Agnes Muirhead?	NULL	data/set4/a2
+
+How old was James Watt when his mother died?	NULL	data/set4/a2
+
+How old was James Watt when his mother died?	NULL	data/set4/a2
+
+In what year did Watt retire?	NULL	data/set4/a2
+
+In what year did Watt retire?	NULL	data/set4/a2
+
+Where was Watt buried?	NULL	data/set4/a2
+
+Where was Watt buried?	NULL	data/set4/a2
+
+When did Watt set up his workshop at the University of Glasgow?	NULL	data/set4/a2
+
+When did Watt set up his workshop at the University of Glasgow?	NULL	data/set4/a2
+
+Why did the Glasgow Guild of Hammermen reject Watt's application to become a mathematical instrument maker?	NULL	data/set4/a2
+
+Why did the Glasgow Guild of Hammermen reject Watt's application to become a mathematical instrument maker?	NULL	data/set4/a2
+
+How old was Watt when he died?	NULL	data/set4/a2
+
+How old was Watt when he died?	NULL	data/set4/a2
+
+What happened in the early 20th century?	The koalas of South Australia were largely exterminated.	data/set1/a3
+
+Do Koalas have a slow metabolism?	yes	data/set1/a3
+
+Did eucalypt forests grow in the place of rainforests?	Yes, the koala did not specialise in a diet of eucalyptus until the climate cooled and eucalypt forests grew in the place of rainforests.	data/set1/a3
+
+Does the koala fill the same ecological role as the sloth of South America?	The koala fills the same ecological role as the sloth of South America.	data/set1/a3
+
+Is the long term viability of the koala therefore threatened by genetic weakness?	The long term viability of the koala is therefore threatened by genetic weakness.	data/set1/a3
+
+Is the koala found in coastal regions of eastern and southern Australia, from near Adelaide to the southern part of Cape York Peninsula?	yes	data/set1/a3
+
+Do populations also extend for considerable distances inland in regions with enough moisture to support suitable woodlands?	Populations also extend for considerable distances inland in regions with enough moisture to support suitable woodlands.	data/set1/a3
+
+Were the koalas of South Australia largely exterminated during the early part of the 20th century, but the state has since been repopulated with Victorian stock?	The koalas of South Australia were largely exterminated during the early part of the 20th century, but the state has since been repopulated with Victorian stock.	data/set1/a3
+
+Is Korean the official language of Korea?	Yes	data/set5/a6
+
+Is Korean the official language of Korea?	Yes	data/set5/a6
+
+Is the word "Korean" derived from Goryeo?	Yes	data/set5/a6
+
+Is the word "Korean" derived from Goryeo?	yes	data/set5/a6
+
+Are all dialects of Korean similar to each other?	Yes	data/set5/a6
+
+Are all dialects of Korean similar to each other?	Yes	data/set5/a6
+
+About how many Koreans speakers are there?	78 million	data/set5/a6
+
+About how many Koreans speakers are there?	78 million Korean speakers	data/set5/a6
+
+Older English sources used the name "Korean" to refer to what?	language, country, and people	data/set5/a6
+
+Older English sources used the name "Korean" to refer to what?	language, country, and people	data/set5/a6
+
+What is the official language of North Korea?	Korean	data/set5/a6
+
+What is the official language of North Korea?	Korean	data/set5/a6
+
+Why may English translation of Koreans adjectives misleadingly suggest that they are verbs?	English does not have an identical grammatical category	data/set5/a6
+
+Why may English translation of Koreans adjectives misleadingly suggest that they are verbs?	English does not have an identical grammatical category	data/set5/a6
+
+Where do the majority of loanwords other than Sino-Korean come from?	modern times	data/set5/a6
+
+Where do the majority of loanwords other than Sino-Korean come from?	modern times, 90% of which are from English	data/set5/a6
+
+How many Korean speakers are there?	There are about 78 million Korean speakers.	data/set5/a6
+
+How many Korean speakers are there?	NULL	data/set5/a6
+
+How many parts of speech does the Korean language contain?	The Korean Language contains nine parts of speech. 	data/set5/a6
+
+How many parts of speech does the Korean language contain?	NULL	data/set5/a6
+
+How many verb paradigms are there in Korean?	There are seven verb paradigms or speech levels in Korean.	data/set5/a6
+
+How many verb paradigms are there in Korean?	NULL	data/set5/a6
+
+What is the Sino-Korean system of numbers based on?	The Sino-Korean system is nearly entirely based on the Chinese numerals.	data/set5/a6
+
+What is the Sino-Korean system of numbers based on?	NULL	data/set5/a6
+
+What is another term for Korean adjectives?	Adjectives are also known as "descriptive verbs" or "stative verbs".	data/set5/a6
+
+What is another term for Korean adjectives?	NULL	data/set5/a6
+
+Is modern Korean written in columns or rows?	It is written in rows.	data/set5/a6
+
+Is modern Korean written in columns or rows?	NULL	data/set5/a6
+
+What percentage of the Korean language does Jeong Jae-do estimate to be Sino-Korean?	Sino-Korean makes up 30% of the Korean language.	data/set5/a6
+
+What percentage of the Korean language does Jeong Jae-do estimate to be Sino-Korean?	NULL	data/set5/a6
+
+Do Chinese and Japanese have spaces between words?	No, Chinese and Japanese do not have spaces between words.	data/set5/a6
+
+Do Chinese and Japanese have spaces between words?	NULL	data/set5/a6
+
+From which languages is Korean descended?	Korean is descended from Old Korean, Middle Korean and Modern Korean.	data/set5/a6
+
+From which languages is Korean descended?	NULL	data/set5/a6
+
+Are there seven verb paradigms or speech levels in Korean?	Yes.	data/set5/a6
+
+Is Modern Korean written with spaces between words?	Yes.	data/set5/a6
+
+Are the Korean names for the language based on the names for Korea used in North as well as South Korea?	Yes.	data/set5/a6
+
+Is it not also one of the two official languages of the Yanbian Korean Autonomous Prefecture in China?	Yes.	data/set5/a6
+
+Is the dialect spoken in Jeju located in fact classified as a different language by all Korean linguists?	The dialect spoken in Jeju is in fact classified as a different language by some Korean linguists.	data/set5/a6
+
+Is it also one of the two official languages in the Yanbian Korean Autonomous Prefecture in China?	Yes	data/set5/a6
+
+Is Kuala Lumpur the capitol of Malaysia? disfluent	Yes	data/set3/a3
+
+Is Kuala Lumpur the capitol of Malaysia? disfluent	NULL	data/set3/a3
+
+Is Kuala Lumpur in the Selangor state?	Yes	data/set3/a3
+
+Is Kuala Lumpur in the Selangor state?	NULL	data/set3/a3
+
+What's the population of Kuala lumpur?	1.6 million	data/set3/a3
+
+What's the population of Kuala lumpur?	NULL	data/set3/a3
+
+What language do they speak in Kuala Lumpur?	Bahasa Melayu	data/set3/a3
+
+What language do they speak in Kuala Lumpur?	NULL	data/set3/a3
+
+What does the name "Kuala Lumpur" mean?	"muddy confluence," "muddy estuary," and "muddy city"	data/set3/a3
+
+What does the name "Kuala Lumpur" mean?	NULL	data/set3/a3
+
+What airports does Kuala Lumpur have?	Kuala Lumpur International Airport and Subang International Airport	data/set3/a3
+
+What airports does Kuala Lumpur have?	NULL	data/set3/a3
+
+How long was Kuala Lumpur occupied by the Japanese?	42 months	data/set3/a3
+
+How long was Kuala Lumpur occupied by the Japanese?	NULL	data/set3/a3
+
+How many seasons does Kuala Lumpur experience?	1	data/set3/a3
+
+How many seasons does Kuala Lumpur experience?	NULL	data/set3/a3
+
+When were the colonial buildings in Kuala Lumpur constructed?	toward the end of the 19th and early 20th centuries	data/set3/a3
+
+When were the colonial buildings in Kuala Lumpur constructed?	NULL	data/set3/a3
+
+Is it a host city for the Formula One World Championship?	Yes	data/set3/a3
+
+Is it a host city for the Formula One World Championship?	NULL	data/set3/a3
+
+is the central market located in the proximity of the pertama complex?	No	data/set3/a3
+
+is the central market located in the proximity of the pertama complex?	NULL	data/set3/a3
+
+is it home to the parliament of malaysia?	Yes	data/set3/a3
+
+is it home to the parliament of malaysia?	NULL	data/set3/a3
+
+when did kuala lumpur become a federal territory of malaysia?	February 1, 1974	data/set3/a3
+
+when did kuala lumpur become a federal territory of malaysia?	NULL	data/set3/a3
+
+What is the city's population?	1.6 million	data/set3/a3
+
+What is the city's population?	NULL	data/set3/a3
+
+What is the official religion in the country?	Islam	data/set3/a3
+
+What is the official religion in the country?	NULL	data/set3/a3
+
+Is there a more industrialized region in malaysia?	No	data/set3/a3
+
+Is there a more industrialized region in malaysia?	NULL	data/set3/a3
+
+after the 2008 elections, what party had the most parliament seats?	DAP	data/set3/a3
+
+after the 2008 elections, what party had the most parliament seats?	NULL	data/set3/a3
+
+what is the name of the event that draws the worlds top riders to malaysia?	KL Grand Prix CSI 5*	data/set3/a3
+
+what is the name of the event that draws the worlds top riders to malaysia?	NULL	data/set3/a3
+
+Wasn't Leonardo da Vinci valued as an engineer?	no	data/set6/a3
+
+Wasn't Leonardo da Vinci born on April 15?	Yes, Leonardo da Vinci was born on April 15.	data/set6/a3
+
+Who left Verroccio's studio?	Leonardo da Vinci left Verroccio's studio.	data/set6/a3
+
+When did Baldassare Castiglione, author of Il Cortegiano ( " The Courtier " ), write?	1528	data/set6/a3
+
+When did he flee to Venice?	In 1499.	data/set6/a3
+
+Was Leonardo a contemporary of Botticelli Domenico Ghirlandaio as well as Perugino?	Leonardo was a contemporary of Botticelli, Domenico Ghirlandaio and Perugino.	data/set6/a3
+
+Is the larger work now almost universally attributed to Leonardo?	Although previously attributed to Ghirlandaio, the larger work is now almost universally attributed to Leonardo.	data/set6/a3
+
+Has Leonardo often been described as the archetype of the Renaissance man, a man whose unquenchable curiosity was equaled only by his powers of invention?	Yes	data/set6/a3
+
+Is he widely considered to be one of the greatest painters of all time and perhaps the most diversely talented person ever to have lived?	Yes.	data/set6/a3
+
+According to art historian Helen Gardner, were the scope and depth of his interests without precedent and ``his mind and personality seem to us superhuman, the man himself mysterious and remote''?	Yes	data/set6/a3
+
+Are lobsters invertebrates?	Yes	data/set1/a5
+
+Are lobsters invertebrates?	Yes	data/set1/a5
+
+Are lobsters kosher?	No	data/set1/a5
+
+Are lobsters kosher?	No	data/set1/a5
+
+Do lobsters have blue blood?	yes	data/set1/a5
+
+Do lobsters have blue blood?	Yes	data/set1/a5
+
+How many legs do lobsters have?	10.	data/set1/a5
+
+How many legs do lobsters have?	10	data/set1/a5
+
+Where are lobsters found?	In all oceans.	data/set1/a5
+
+Where are lobsters found?	In all oceans	data/set1/a5
+
+What is the mean level of mercury in American lobsters?	0.31 ppm	data/set1/a5
+
+What is the mean level of mercury in American lobsters?	0.31 ppm	data/set1/a5
+
+Do lobsters feel pain?	yes.	data/set1/a5
+
+Do lobsters feel pain?	Yes	data/set1/a5
+
+Did the Moche people worship lobsters?	yes.	data/set1/a5
+
+Did the Moche people worship lobsters?	Yes	data/set1/a5
+
+What is the caridoid escape reaction?	Swimming backwards quickly by curling and uncurling their abdomen.	data/set1/a5
+
+What is the caridoid escape reaction?	When lobsters swim backwards quickly by curling and uncurling their abdomen	data/set1/a5
+
+Were the recitations of the Ancient Greeks accompanied by lyre playing?	Yes	data/set2/a10
+
+Were the recitations of the Ancient Greeks accompanied by lyre playing?	NULL	data/set2/a10
+
+Does a classical lyre have a hollow body?	Yes	data/set2/a10
+
+Does a classical lyre have a hollow body?	NULL	data/set2/a10
+
+Is the lyre a stringed musical instrument?	Yes	data/set2/a10
+
+Is the lyre a stringed musical instrument?	NULL	data/set2/a10
+
+Which constellation is said to resemble a lyre shape?	Lyra	data/set2/a10
+
+Which constellation is said to resemble a lyre shape?	NULL	data/set2/a10
+
+How many raised arms are extending from the sound-chest of a classical lyre?	Two	data/set2/a10
+
+How many raised arms are extending from the sound-chest of a classical lyre?	NULL	data/set2/a10
+
+What were the strings of a classical lyre made of?	Gut	data/set2/a10
+
+What were the strings of a classical lyre made of?	NULL	data/set2/a10
+
+Is the foot pedal framework for a piano called a lyre?	Yes	data/set2/a10
+
+Is the foot pedal framework for a piano called a lyre?	NULL	data/set2/a10
+
+Where was the deepest note of the classical lyre in relation to the player's body?	It was farthest from the player's body.	data/set2/a10
+
+Where was the deepest note of the classical lyre in relation to the player's body?	NULL	data/set2/a10
+
+Does a standard piano have fewer strings than a harp?	No	data/set2/a10
+
+Does a standard piano have fewer strings than a harp?	NULL	data/set2/a10
+
+Is Malay the official language of Iraq?	No	data/set5/a2
+
+Could Malay have originated from Sumatra island?	Yes.	data/set5/a2
+
+Is Malay an agglutinative language?	Yes	data/set5/a2
+
+Is Malay an agglutinative language?	Yes.	data/set5/a2
+
+What family is Malay a member of?	Austronesian family	data/set5/a2
+
+What family is Malay a member of?	Austronesian.	data/set5/a2
+
+What is the basic word order in Malay?	Subject Verb Object	data/set5/a2
+
+What is the basic word order in Malay?	Subject Object Verb.	data/set5/a2
+
+What languages has Malay borrowed words from?	Sanskrit, Arabic and English	data/set5/a2
+
+What languages has Malay borrowed words from?	Arabic, Sanskrit, Tamil, Persian, Portuguese, Dutch, certain Chinese dialects, and English.	data/set5/a2
+
+Are there many words in Malay that use natural gender?	No	data/set5/a2
+
+How are new words formed in Malay?	three methods.	data/set5/a2
+
+How are new words formed in Malay?	Affixation, composition, and reduplication.	data/set5/a2
+
+Is Malay in the Austronesian family of languages?	Yes	data/set5/a2
+
+Is Malay in the Austronesian family of languages?	NULL	data/set5/a2
+
+Is Malay an agglutinative language?	Yes	data/set5/a2
+
+Is Malay an agglutinative language?	NULL	data/set5/a2
+
+Is there one negation word in Malay?	No	data/set5/a2
+
+Is there one negation word in Malay?	NULL	data/set5/a2
+
+How many parts of speech are there in Malay?	Four	data/set5/a2
+
+How many parts of speech are there in Malay?	NULL	data/set5/a2
+
+What is the basic word order in Malay?	Subject Verb Object	data/set5/a2
+
+What is the basic word order in Malay?	NULL	data/set5/a2
+
+What is the national language in Malaysia?	Malay 	data/set5/a2
+
+What is the national language in Malaysia?	NULL	data/set5/a2
+
+Do linguists consider Malay to be a single language?	No	data/set5/a2
+
+Do linguists consider Malay to be a single language?	NULL	data/set5/a2
+
+Can speakers of modern Malay understand Old Malay?	No	data/set5/a2
+
+Can speakers of modern Malay understand Old Malay?	NULL	data/set5/a2
+
+What language besides Malay is in the Austronesia language family?	Malagasy	data/set5/a2
+
+What language besides Malay is in the Austronesia language family?	NULL	data/set5/a2
+
+Wasn't Malay language found in Sumatra?	The Malay language was found in Sumatra.	data/set5/a2
+
+Wasn't Malay language written using Pallava?	Yes.	data/set5/a2
+
+Was Malay language written using Pallava?	Yes	data/set5/a2
+
+Had the language already been used as the lingua franca throughout the archipelago since the 15th century?	yes	data/set5/a2
+
+Do another distinguishing feature of Malay ( include Indonesian Malay )?	Another distinguishing feature of Malay (include Indonesian Malay) is its use of measure words (penjodoh bilangan).	data/set5/a2
+
+Is Malay spoken as local dialect of ethnic Malays?	Yes	data/set5/a2
+
+Give an example of the tributary states of the Majapahit kingdom in eastern Java. 	"Malayu" is an example of the tributary states of the Majapahit kingdom in eastern Java.	data/set5/a2
+
+Is Malay the one of the most widely spoken languages in the world?	yes	data/set5/a2
+
+Was it derived from Latin?	Yes	data/set5/a2
+
+Is Melbourne the capital and most populous city in the state of Victoria?	Yes	data/set3/a2
+
+Is Melbourne the capital and most populous city in the state of Victoria?	Yes.	data/set3/a2
+
+Is Melbourne home to Australia's busiest seaport?	Yes	data/set3/a2
+
+Is Melbourne home to Australia's busiest seaport?	Yes.	data/set3/a2
+
+Does Melbourne have a large international student community?	Yes	data/set3/a2
+
+Does Melbourne have a large international student community?	Yes.	data/set3/a2
+
+What is a resident of Melbourne known as?	Melburnian	data/set3/a2
+
+What is a resident of Melbourne known as?	A "Melburnian".	data/set3/a2
+
+When was Melbourne officially declared as a city?	1847	data/set3/a2
+
+When was Melbourne officially declared as a city?	In 1847.	data/set3/a2
+
+How many sister cities does the City of Melbourne have?	six	data/set3/a2
+
+How many sister cities does the City of Melbourne have?	Six.	data/set3/a2
+
+Where is Melbourne situated?	boundary of the very hot inland areas and the cold southern ocean	data/set3/a2
+
+How many domestic tourists visit Melbourne?	7.6 million domestic visitors	data/set3/a2
+
+How many domestic tourists visit Melbourne?	7.6 million.	data/set3/a2
+
+What religion holds majority in Melbourne?	Christian	data/set3/a2
+
+What religion holds majority in Melbourne?	Christianity.	data/set3/a2
+
+Did Albert Einstein keep a photograph of Faraday on his study wall?	Yes, Albert Einstein kept a photograph of Faraday on his study wall.	data/set4/a7
+
+Did Albert Einstein keep a photograph of Faraday on his study wall?	yes	data/set4/a7
+
+Did Faraday marry Sarah Barnard?	Yes, Faraday married Sarah Barnard.	data/set4/a7
+
+Did Faraday marry Sarah Barnard?	yes	data/set4/a7
+
+Did Faraday also discover the laws of electrolysis?	Yes, Faraday also discovered the laws of  electrolysis.	data/set4/a7
+
+Did Faraday also discover the laws of electrolysis?	yes	data/set4/a7
+
+Who discovered benzene?	Michael Faraday discovered benzene.	data/set4/a7
+
+Who discovered benzene?	Michael Faraday	data/set4/a7
+
+Where was Michael Faraday born?	Michael Faraday was born in Newington Butts.	data/set4/a7
+
+Where was Michael Faraday born?	Newington Butts	data/set4/a7
+
+What is the Faraday effect?	The Faraday effect is the phenomenon that the plane of polarisation of linearly polarised light can be rotated by the application of an external magnetic field aligned in the direction the light is moving.	data/set4/a7
+
+What is the Faraday effect?	The plane of polarisation of linearly polarised light can be rotated by the application of an exernal magnetic field aligned in the direction the light is moving.	data/set4/a7
+
+Did Faraday discover diamagnetism?	Yes, Faraday discovered diamagnetism.	data/set4/a7
+
+Did Faraday discover diamagnetism?	yes	data/set4/a7
+
+How many siblings did Faraday have?	Faraday had three siblings.	data/set4/a7
+
+How many siblings did Faraday have?	two	data/set4/a7
+
+Where is Michael Faraday buried?	Michael Faraday is buried in the dissenters' section of Highgate Cemetery.	data/set4/a7
+
+Where is Michael Faraday buried?	in the dissenters' section of Highgate Cemetery	data/set4/a7
+
+Is faraday best known for his work with kinematics?	No	data/set4/a7
+
+Is faraday best known for his work with kinematics?	NULL	data/set4/a7
+
+was he active in the area now called environmental science?	Yes	data/set4/a7
+
+was he active in the area now called environmental science?	NULL	data/set4/a7
+
+did he discover benzene?	Yes	data/set4/a7
+
+did he discover benzene?	NULL	data/set4/a7
+
+who was his mentor?	John 'Mad Jack' Fuller	data/set4/a7
+
+who was his mentor?	NULL	data/set4/a7
+
+what happened in 1824?	NULL	data/set4/a7
+
+Who was Faraday's wife?	Sarah Barnard	data/set4/a7
+
+Who was Faraday's wife?	NULL	data/set4/a7
+
+did he advise the british government on the production of chemical weapons for use in the crimean war?	No	data/set4/a7
+
+did he advise the british government on the production of chemical weapons for use in the crimean war?	NULL	data/set4/a7
+
+did faraday have strong maritime interests?	Yes	data/set4/a7
+
+did faraday have strong maritime interests?	NULL	data/set4/a7
+
+does the charge reside on the interior of a charged conductor?	No	data/set4/a7
+
+does the charge reside on the interior of a charged conductor?	NULL	data/set4/a7
+
+Wasn't Michelangelo abstemious?	Michelangelo was abstemious.	data/set6/a2
+
+Wasn't Michelangelo a homosexual?	It is not clear.	data/set6/a2
+
+When did Filippo Strozzi sell it to Francis I?	In 1529.	data/set6/a2
+
+When was his house demolished?	1874	data/set6/a2
+
+Was Michelangelos mother Francesca di Neri del Miniato di Siena?	yes	data/set6/a2
+
+Give an example of the most renowned works of the Renaissance. 	The Statue of David, completed by Michelangelo in 1504	data/set6/a2
+
+Was Michelangelo's output in every field during his long life prodigious?	yes	data/set6/a2
+
+Is French the least spoken language in Montreal?	NULL	data/set3/a7
+
+Is French the least spoken language in Montreal?	NULL	data/set3/a7
+
+Was Montreal incorporated as a city in 1832?	NULL	data/set3/a7
+
+Was Montreal incorporated as a city in 1832?	NULL	data/set3/a7
+
+Does Montreal lie at the confluence of several climatic regions?	NULL	data/set3/a7
+
+Does Montreal lie at the confluence of several climatic regions?	NULL	data/set3/a7
+
+Montreal was merged with how many surrounding municipalities?	NULL	data/set3/a7
+
+Montreal was merged with how many surrounding municipalities?	NULL	data/set3/a7
+
+As of the 2006 census, how many people resided in the city of montreal?	NULL	data/set3/a7
+
+As of the 2006 census, how many people resided in the city of montreal?	NULL	data/set3/a7
+
+Why did Montreal lose its status as the capital of the  Province of Canada in 1849?	NULL	data/set3/a7
+
+Why did Montreal lose its status as the capital of the  Province of Canada in 1849?	NULL	data/set3/a7
+
+What are the designs and decorations of the Montreal Metro System said to be?	NULL	data/set3/a7
+
+What are the designs and decorations of the Montreal Metro System said to be?	NULL	data/set3/a7
+
+Mount Royal Park's wooden design was created by what famous designer?	NULL	data/set3/a7
+
+Mount Royal Park's wooden design was created by what famous designer?	NULL	data/set3/a7
+
+The majority of The Greater Montreal Area follows what religion?	NULL	data/set3/a7
+
+The majority of The Greater Montreal Area follows what religion?	NULL	data/set3/a7
+
+Is English the language most often spoken in Montreal?	The language most spoken at home in the city is French.	data/set3/a7
+
+Is English the language most often spoken in Montreal?	No, the language most spoken in Montreal is French.	data/set3/a7
+
+Is Montreal's economy the third largest of all cities in Canada?	No, Montreal's economy is the second largest of all cities in Canada.	data/set3/a7
+
+Is Montreal's economy the third largest of all cities in Canada?	No, Montreal's economy is the second largest of all cities in Canada.	data/set3/a7
+
+Is the most popular sport in Montreal ice hockey?	yes, The most popular sport in Montreal is ice hockey.	data/set3/a7
+
+Is the most popular sport in Montreal ice hockey?	Yes, the most popular sport in Montreal is ice hockey.	data/set3/a7
+
+How many international airports does Montreal have?	Montreal has two international airports.	data/set3/a7
+
+How many international airports does Montreal have?	Montreal has two international airports.	data/set3/a7
+
+Who is the Mayor of Montreal?	The mayor is GÃ©rald Tremblay.	data/set3/a7
+
+Who is the Mayor of Montreal?	The mayor is GÃ©rald Tremblay.	data/set3/a7
+
+What is the name of the largest church in Montreal?	The largest church in Montreal is named Saint Joseph's Oratory.	data/set3/a7
+
+What is the name of the largest church in Montreal?	Saint Joseph's Oratory is the largest church in Montreal.	data/set3/a7
+
+Where was much of Montreal's industry during the late 19th and early-to-mid 20th century?	The Sud-Ouest borough was home to much of the city's industry during the late 19th and early-to-mid 20th century. 	data/set3/a7
+
+Where was much of Montreal's industry during the late 19th and early-to-mid 20th century?	The Sud-Ouest borough was home to much of the city's industry during the late 19th and early-to-mid 20th century.	data/set3/a7
+
+Does Montreal contain the largest church in Canada?	Yes	data/set3/a7
+
+Does Montreal contain the largest church in Canada?	Yes, Montreal contains the largest church in Canada.	data/set3/a7
+
+What is the largest primarily French-speaking city in the western world?	Paris is the largest primarily French-speaking city in the western world.	data/set3/a7
+
+What is the largest primarily French-speaking city in the western world?	The largest primarily French-speaking city in the western world is Paris.	data/set3/a7
+
+Is Nairobi the capital of Kenya?	Yes	data/set3/a9
+
+Is Nairobi the capital of Kenya?	NULL	data/set3/a9
+
+Was Nairobi founded in 1899?	Yes	data/set3/a9
+
+Was Nairobi founded in 1899?	NULL	data/set3/a9
+
+Is the current estimated population of Nairobi about 6 milion?	No	data/set3/a9
+
+Is the current estimated population of Nairobi about 6 milion?	NULL	data/set3/a9
+
+What is the current estimated population of Nairobi?	About 3 million	data/set3/a9
+
+What is the current estimated population of Nairobi?	NULL	data/set3/a9
+
+In what year was Nairobi founded?	1899	data/set3/a9
+
+In what year was Nairobi founded?	NULL	data/set3/a9
+
+Which embassy in Nairobi was bombed in August 1998?	The United States Embassy	data/set3/a9
+
+Which embassy in Nairobi was bombed in August 1998?	NULL	data/set3/a9
+
+How many civilians died in the 1998 U.S. embassy bombing?	Over two hundred	data/set3/a9
+
+How many civilians died in the 1998 U.S. embassy bombing?	NULL	data/set3/a9
+
+How many trades can the NSE make per day?	10 million trades	data/set3/a9
+
+How many trades can the NSE make per day?	NULL	data/set3/a9
+
+About how many people are estimated to live in Nairobi?	3 million	data/set3/a9
+
+About how many people are estimated to live in Nairobi?	NULL	data/set3/a9
+
+The district is bordered to the southwest by Uhuru Park and where?	Central Park	data/set3/a9
+
+When did the Catholic University of Eastern Africa which obtain its Letter of Interim Authority?	In 1989.	data/set3/a9
+
+Is Central Park adjacent to Uhuru Park?	Central Park is adjacent to Uhuru Park.	data/set3/a9
+
+Give an example of the highest growth rates of any city in Africa. 	 The growth rate of Nairobi is currently 6.9%,  an example of the highest growth rates of any city in Africa.	data/set3/a9
+
+Give an example of the most prominent cities in Africa politically and financially. 	Nairobi is now one of the most prominent cities in Africa politically and financially	data/set3/a9
+
+Is Nairobi not the capital as well as largest city of Kenya?	Nairobi is the capital and largest city of Kenya.	data/set3/a9
+
+Does the city and its surrounding area also form the Nairobi Province?	yes	data/set3/a9
+
+Does the name ``Nairobi'' come from the Maasai phrase Enkare Nyirobi, which translates to ``the place of cool waters''?	Yes.	data/set3/a9
+
+Did Nikola Tesla die alone?	Nikola Tesla died alone.	data/set4/a3
+
+Did Nikola Tesla die alone?	Yes	data/set4/a3
+
+Was Nikola Tesla close friends with Mark Twain?	Nikola Tesla was close friends with Mark Twain.	data/set4/a3
+
+Was Nikola Tesla close friends with Mark Twain?	Yes	data/set4/a3
+
+Did Nikola Tesla use a technique called picture thinking?	Nikola Tesla used a technique called picture thinking.	data/set4/a3
+
+Did Nikola Tesla use a technique called picture thinking?	Yes	data/set4/a3
+
+When did Nikola Tesla appear on the cover of Time Magazine?	On Tesla's 75th birthday in 1931, Time magazine put him on its cover.	data/set4/a3
+
+When did Nikola Tesla appear on the cover of Time Magazine?	1931	data/set4/a3
+
+Who became adversaries with Nikola Tesla?	Nikola Tesla became adversaries with Edison.	data/set4/a3
+
+Who became adversaries with Nikola Tesla?	Edison	data/set4/a3
+
+Where did Nikola Tesla move to in 1880?	In 1880, Nikola Tesla moved to Budapest.	data/set4/a3
+
+Where did Nikola Tesla move to in 1880?	Budapest	data/set4/a3
+
+Was Nikola Tesla's mother illiterate?	Nikola Tesla's mother never learned to read.	data/set4/a3
+
+Was Nikola Tesla's mother illiterate?	Yes	data/set4/a3
+
+How many siblings did Nikola Tesla have?	Nikola Tesla had four siblings.	data/set4/a3
+
+How many siblings did Nikola Tesla have?	4	data/set4/a3
+
+Was Nikola Tesla a vegetarian?	 In his later years Tesla became a vegetarian.	data/set4/a3
+
+Was Nikola Tesla a vegetarian?	Yes	data/set4/a3
+
+Is there a monument to Tesla at Niagara Falls, New York?	Yes	data/set4/a3
+
+Is there a monument to Tesla at Niagara Falls, New York?	NULL	data/set4/a3
+
+Was Tesla an American citizen?	Yes	data/set4/a3
+
+Was Tesla an American citizen?	NULL	data/set4/a3
+
+Was Tesla on the cover of Time magazine?	Yes	data/set4/a3
+
+Was Tesla on the cover of Time magazine?	NULL	data/set4/a3
+
+Where did Tesla study electrical engineering?	The Austrian Polytechnic in Graz	data/set4/a3
+
+Where did Tesla study electrical engineering?	NULL	data/set4/a3
+
+When did Tesla receive his last patent?	1928	data/set4/a3
+
+When did Tesla receive his last patent?	NULL	data/set4/a3
+
+What languages did Tesla speak?	Serbian, Czech, English, French, German, Hungarian, Italian, and Latin	data/set4/a3
+
+What languages did Tesla speak?	NULL	data/set4/a3
+
+Did Tesla win the Nobel Prize?	No	data/set4/a3
+
+Did Tesla win the Nobel Prize?	NULL	data/set4/a3
+
+Was Tesla rich at the time of his death?	No	data/set4/a3
+
+Was Tesla rich at the time of his death?	NULL	data/set4/a3
+
+What music group was named after Tesla?	Tesla	data/set4/a3
+
+What music group was named after Tesla?	NULL	data/set4/a3
+
+Consequently, what is not considered a "serious painter" by some contemporary artists, who often regard his work as bourgeois and kitsch?	Rockwell 	data/set6/a4
+
+Who spent the next 10 years painting for Look magazine?	Norman Rockwell.	data/set6/a4
+
+When was his last painting for the Post published?	1963	data/set6/a4
+
+When did Rockwell marry his first wife, Irene O'Connor,?	In 1916.	data/set6/a4
+
+Did Norman Rockwell spend the winter months as artist-in-residence at Otis College of Art as well as Design?	Yes	data/set6/a4
+
+Did Norman Rockwell publish a total of 321 original covers for The Saturday Evening Post over 47 years?	Yes.	data/set6/a4
+
+Was Rockwell also commissioned to illustrate over 40 books including Tom Sawyer as well as Huckleberry Finn?	Rockwell was also commissioned to illustrate over 40 books including Tom Sawyer and Huckleberry Finn. 	data/set6/a4
+
+Do his works enjoy a broad popular appeal in the United States, where Rockwell is most famous for the cover illustrations of everyday life scenarios he created for The Saturday Evening Post magazine over more than four decades?	yes	data/set6/a4
+
+Are among the best-known of Rockwell's works the Willie Gillis series, Rosie the Riveter (although his Rosie was reproduced less than others of the day), Saying Grace (1951), and the Four Freedoms series?	Yes.	data/set6/a4
+
+Is he also noted for his work for the Boy Scouts of America (BSA)?	yes	data/set6/a4
+
+Is the octopus a cephalopod?	Yes, the octopus is a cephalopod.	data/set1/a10
+
+Is the octopus a cephalopod?	Yes, the octopus is a cephalopod.	data/set1/a10
+
+Does the octopus have two eyes?	Yes, the octopus has two eyes.	data/set1/a10
+
+Does the octopus have two eyes?	Yes, the octopus has two eyes.	data/set1/a10
+
+Does the octopus have a hard beak?	Yes, the octopus has a hard beak.	data/set1/a10
+
+Does the octopus have a hard beak?	Yes, the octopus has a hard beak.	data/set1/a10
+
+Where is the mouth of an octopus?	The mouth of an octopus is at the center point of the arms.	data/set1/a10
+
+Where is the mouth of an octopus?	The octopus' mouth is at the center point of the arms.	data/set1/a10
+
+Around how many recognized octopus species are there?	There are around 300 recognized octopus species.	data/set1/a10
+
+Around how many recognized octopus species are there?	There are around 300 recognized octopus species.	data/set1/a10
+
+How many arms does an octopus have?	An octopus has four pairs of arms.	data/set1/a10
+
+How many arms does an octopus have?	The octopus has four pairs of arms.	data/set1/a10
+
+What is the range of lifespans of the octopus?	Octopuses can live from six months to five years.	data/set1/a10
+
+What is the range of lifespans of the octopus?	The octopus has a short lifespan.	data/set1/a10
+
+What is an example of something an octopus learned in a research experiment?	In research experiments, octopus can be trained to distinguish between different shapes and patterns.	data/set1/a10
+
+What is an example of something an octopus learned in a research experiment?	An octopus learned to solve mazes.	data/set1/a10
+
+How can an octopus defend against predators?	To defend against predators, an octopus can hide, flee quickly, expel ink, or use color-changing camouflage.	data/set1/a10
+
+How can an octopus defend against predators?	They can hide, flee, expel ink, or use camouflage.	data/set1/a10
+
+Are Octopus highly intelligent?	yes	data/set1/a10
+
+Do males use a specialized arm called a hectocotylus to insert spermatophores?	Yes	data/set1/a10
+
+Do the octopuses in the less familiar Cirrina suborder have two fins and an internal shell?	Yes, the octopuses in the less familiar Cirrina suborder have two fins and an internal shell.	data/set1/a10
+
+Do octopuses have two eyes and four pairs of arms?	Yes, octopuses have two eyes and four pairs of arms.	data/set1/a10
+
+Is octopus a common food in Mediterranean cuisine as well as Portuguese cuisine?	Yes	data/set1/a10
+
+Is the collective form octopus usually reserved for animals consumed for food?	Yes	data/set1/a10
+
+Has an octopus a hard beak, with its mouth at the center point of the arms?	Yes	data/set1/a10
+
+What happened in 1968 through 1971?	Devoting his full energies to his work, Picasso became more daring, his works more colorful and expressive, and from 1968 through 1971	data/set6/a1
+
+What happened in 1838?	Don José Ruiz y Blasco was born	data/set6/a1
+
+Who was not long in finding another lover, Jacqueline Roque?	Picasso.	data/set6/a1
+
+When did Picasso make his first trip to Paris?	1900	data/set6/a1
+
+Give an example of the most comprehensive records extant of any major artists beginnings. 	Museu Picasso	data/set6/a1
+
+Is in the 1996 movie Surviving Picasso Picasso played by actor Anthony Hopkins?	Yes.	data/set6/a1
+
+Is the U.S. copyright representative for the Picasso Administration the Artists Rights Society?	yes	data/set6/a1
+
+Is he one of the most recognized figures in 20th-century art?	yes	data/set6/a1
+
+Is he best known for co-founding the Cubist movement and for the wide variety of styles embodied in his work?	Yes.	data/set6/a1
+
+Are among his most famous works the proto-Cubist Les Demoiselles d'Avignon (1907) and Guernica (1937), his portrayal of the German bombing of Guernica during the Spanish Civil War?	Yes.	data/set6/a1
+
+Are pianos used in Western music?	Yes.	data/set2/a1
+
+Are pianos used in Western music?	Yes	data/set2/a1
+
+Are "upright pianos" called "vertical pianos"?	Yes.	data/set2/a1
+
+Are "upright pianos" called "vertical pianos"?	Yes	data/set2/a1
+
+Did Bartolomeo Cristofori invent the modern piano?	Yes.	data/set2/a1
+
+Did Bartolomeo Cristofori invent the modern piano?	Yes	data/set2/a1
+
+What is the middle pedal called on grand pianos?	the sostenuto pedal.	data/set2/a1
+
+What is the middle pedal called on grand pianos?	sostenuto pedal	data/set2/a1
+
+How many black keys do modern pianos have?	36.	data/set2/a1
+
+How many black keys do modern pianos have?	36	data/set2/a1
+
+What is the sustain pedal called?	"The pedal"	data/set2/a1
+
+What is the sustain pedal called?	damper pedal	data/set2/a1
+
+Where is Irving Berlin's piano located?	In the Smithsonian Museum.	data/set2/a1
+
+Where is Irving Berlin's piano located?	in the Smithsonian Museum	data/set2/a1
+
+What kind of piano did Irving Berlin play?	The transposing piano.	data/set2/a1
+
+What kind of piano did Irving Berlin play?	transposing piano	data/set2/a1
+
+Is the left-most pedal on a grand piano called the una corda?	yes	data/set2/a1
+
+Is the left-most pedal on a grand piano called the una corda?	Yes, the left-most pedal on a grand piano is called the una corda.	data/set2/a1
+
+Is it advantageous for a grand piano's metal plate to be quite massive?	yes	data/set2/a1
+
+Is it advantageous for a grand piano's metal plate to be quite massive?	It is advantageous for the plate to be quite massive.	data/set2/a1
+
+Is the mechanism in an upright piano perpendicular to its keys?	yes	data/set2/a1
+
+Is the mechanism in an upright piano perpendicular to its keys?	The mechanism in upright pianos is perpendicular to the keys.	data/set2/a1
+
+About how tall is a typical studio piano?	Studio pianos are around 42 to 45 inches tall.	data/set2/a1
+
+About how tall is a typical studio piano?	Studio pianos are around 42 to 45 inches tall.	data/set2/a1
+
+What are a piano's keys generally made of?	Piano keys are generally made of spruce or basswood.	data/set2/a1
+
+What are a piano's keys generally made of?	Piano keys are generally made of spruce or basswood.	data/set2/a1
+
+How many total keys does a typical modern piano have?	88 keys.	data/set2/a1
+
+How many total keys does a typical modern piano have?	A modern piano has 88 keys.	data/set2/a1
+
+Why are upright pianos more compact?	Upright pianos are more compact because the frame and strings are vertical.	data/set2/a1
+
+Why are upright pianos more compact?	Upright pianos are more compact because the frame and strings are vertical.	data/set2/a1
+
+Do older pianos have more keys than modern pianos?	no.	data/set2/a1
+
+Do older pianos have more keys than modern pianos?	Many older pianos only have 85 keys.	data/set2/a1
+
+What are the names of a piano's pedals?	Piano pedals from left to right: una corda, sostenuto, and damper.	data/set2/a1
+
+What are the names of a piano's pedals?	The names of a piano's pedals are una corda, sostenuto, and damper.	data/set2/a1
+
+What happened in the January 15, 1882?	On January 15, 1882 Renoir met the composer Richard Wagner at his home in Palermo, Sicily.	data/set6/a5
+
+What happened in 1887?	In 1887, a year when Queen Victoria celebrated her Golden Jubilee, and upon the request of the queen's associate, Phillip Richbourg, he donated several paintings to the "French Impressionist Paintings" catalog as a token of his loyalty.	data/set6/a5
+
+Is one of the best known Impressionist works Renoirs 1876 Dance at Le Moulin de la Galette?	Yes.	data/set6/a5
+
+Was Pierre-Auguste Renoir born in Limoges Haute-Vienne France the child of a working class family?	yes	data/set6/a5
+
+Have two of Renoirs paintings sold for more than US0 million?	Yes (any painting sells for more than $0 million though...)	data/set6/a5
+
+As a celebrator of beauty, and especially feminine sensuality, has it been said that ``Renoir is the final representative of a tradition which runs directly from Rubens to Watteau''?	Yes.	data/set6/a5
+
+Did Pierre-Auguste Renoir die in Limoges, Haute-Vienne, France, the child of a working class family?	no	data/set6/a5
+
+As a boy, did he work in a porcelain factory where his drawing talents led to him being chosen to paint designs on fine china?	yes	data/set6/a5
+
+Is Portuguese an official language of Andorra?	No	data/set5/a1
+
+Is Portuguese an official language of Andorra?	No, Portuguese is not an official language of Andorra.	data/set5/a1
+
+Does the Portuguese language have its roots in the Latin language?	Yes	data/set5/a1
+
+Does the Portuguese language have its roots in the Latin language?	Yes, Portuguese is derived from Latin.	data/set5/a1
+
+Does Portuguese contain words from the Arabic language?	Yes	data/set5/a1
+
+Does Portuguese contain words from the Arabic language?	Yes, Portuguese contains words from the Arabic language.	data/set5/a1
+
+Where are there small Portuguese-speaking communities?	Former overseas colonies of Portugal such as Macau and East Timor 	data/set5/a1
+
+Where are there small Portuguese-speaking communities?	There are small Portuguese-speaking communities in Macau and East Timor.	data/set5/a1
+
+What are the two main groups of Portuguese dialects?	Those of Brazil and those of the Old World	data/set5/a1
+
+What are the two main groups of Portuguese dialects?	The two main groups of dialects are Brazil and the Old World.	data/set5/a1
+
+What event marked the end of the Old Portuguese period?	The publication of the Cancioneiro Geral by Garcia de Resende in 1516	data/set5/a1
+
+What event marked the end of the Old Portuguese period?	The end of the Old Portuguese period was marked by the publication of the Cancioneiro Geral by Garcia de Resende.	data/set5/a1
+
+Which government established Portuguese as it's third official language in order to meet the requirements to apply for full membership in the CPLP?	Equatorial Guinea	data/set5/a1
+
+Which government established Portuguese as it's third official language in order to meet the requirements to apply for full membership in the CPLP?	The government of Equatorial Guinea established Portuguese as its third official language in order to meet the requirements to apply for full membership in the CPLP.	data/set5/a1
+
+By 2050, what will the total population of Portuguese speakers in the world be?	335 million people	data/set5/a1
+
+By 2050, what will the total population of Portuguese speakers in the world be?	By 2050, Portuguese-speaking countries will have a total population of 335 million people.	data/set5/a1
+
+In which country is Portuguese the co-official language with Cantonese Chinese?	Macau	data/set5/a1
+
+In which country is Portuguese the co-official language with Cantonese Chinese?	Portuguese is the co-official language with Cantonese Chinese in Macau.	data/set5/a1
+
+Wasn't Portuguese language spread by arriving Roman soldiers?	Yes.	data/set5/a1
+
+(where French has a similar phenomenon, with alveolar affricates instead of postalveolars?	Quebec.	data/set5/a1
+
+Give an example of the official languages of the special administrative region of Macau and East Timor, . 	Portuguese	data/set5/a1
+
+Is Portuguese an official language of several international organizations?	Yes.	data/set5/a1
+
+Is it derived from the Latin spoken by the romanized pre-Roman peoples of the Iberian Peninsula (namely the Gallaeci, the Lusitanians, the Celtici and the Conii) around 2000 years ago?	yes	data/set5/a1
+
+Was it used as the exclusive lingua franca on the island of Sri Lanka for almost 350 years?	yes	data/set5/a1
+
+Is the city named after the apostle Saint Peter?	yes	data/set3/a10
+
+Is the city named after the apostle Saint Peter?	Yes.	data/set3/a10
+
+Has the terrain in the city been artificially raised?	yes	data/set3/a10
+
+Has the terrain in the city been artificially raised?	Yes.	data/set3/a10
+
+What were some other names of the city?	Petrograd, Leningrad, and Piter	data/set3/a10
+
+What were some other names of the city?	Petrograd and Leningrad.	data/set3/a10
+
+What festival features fireworks  celebrating the end of the school year?	The White Nights Festival in Saint Petersburg	data/set3/a10
+
+What festival features fireworks  celebrating the end of the school year?	The White Nights Festival.	data/set3/a10
+
+Where do most people in urban Saint Petersburg live?	apartments	data/set3/a10
+
+Where do most people in urban Saint Petersburg live?	Apartments.	data/set3/a10
+
+What was made in Russia's largest foundry?	thousands of sculptures and statues	data/set3/a10
+
+What was made in Russia's largest foundry?	Thousands of sculptures and statues.	data/set3/a10
+
+When did the crime level become higher?	After the October revolution.	data/set3/a10
+
+How to travel to work from the city to Moscow?	railway	data/set3/a10
+
+How to travel to work from the city to Moscow?	One way is through the Moscow-Saint Petersburg Railway.	data/set3/a10
+
+Who laid down the Peter and Paul Fortress?	Peter the Great 	data/set3/a10
+
+When was the 7th symphony premiered?	1942	data/set3/a10
+
+Has Equestrianism been a long tradition, popular among the Tsars and aristocracy?	yes	data/set3/a10
+
+Give an example of the largest stadiums anywhere in the world, and the home to FC Zenit St. Petersburg in 1950-1993 and 1995. 	Kirov Stadium (now demolished) was one of the largest stadiums anywhere in the world, and the home to FC Zenit St. Petersburg in 1950-1993 and 1995.	data/set3/a10
+
+Give an example of the best known symphony orchestras in the world under the leadership of conductors Yevgeny Mravinsky and Yuri Temirkanov. 	The Leningrad Philharmonic Orchestra	data/set3/a10
+
+Give an example of the longest, most destructive, and most lethal sieges of major cities in modern history. 	The Siege of Leningrad	data/set3/a10
+
+Were the city's other names Petrograd (, 1914 -- 1924) and Leningrad (, 1924 -- 1991)?	yes	data/set3/a10
+
+Is it often called just Petersburg (-RRB- and is informally known as Piter (-RRB-?	Yes	data/set3/a10
+
+Founded by Tsar Peter I of Russia on 27 May 1703, was it the capital of the Russian Empire for more than two hundred years (1713 -- 1728, 1732 -- 1918)?	Yes.	data/set3/a10
+
+Is the standard of living in San Franciscio high?	Yes, San Francisco is characterized by a high standard of living.	data/set3/a8
+
+Is the standard of living in San Franciscio high?	Yes	data/set3/a8
+
+Does San Francisco have a high percentage of gay and lesbian individuals?	Yes, according to the 2005 American Community Survey, San Francisco has the highest percentage of gay and lesbian individuals of any of the 50 largest U.S. cities, at 15.4%.	data/set3/a8
+
+Does San Francisco have a high percentage of gay and lesbian individuals?	Yes	data/set3/a8
+
+Is San Franscico a popular tourist destination?	Yes. San Francisco is a popular international tourist destination.	data/set3/a8
+
+Is San Franscico a popular tourist destination?	Yes	data/set3/a8
+
+How large is the population of San Francisco?	The estimated population of San Francisco in the year 2008 was 808,976.	data/set3/a8
+
+How large is the population of San Francisco?	San Francisco has an estimated population of 808,976.	data/set3/a8
+
+How many state parks are in San Francisco?	There is only one park managed by the California State Park system: Candlestick Point.	data/set3/a8
+
+How many state parks are in San Francisco?	There is one state park in San Francisco.	data/set3/a8
+
+Where is San Francisco?	San Francisco is located on the West Coast of the United States at the tip of the San Francisco Peninsula.	data/set3/a8
+
+Where is San Francisco?	San Francisco is in California.	data/set3/a8
+
+What is the cause of local earthquakes?	It was the San Andreas Fault which slipped and caused the earthquakes in 1906 and 1989.	data/set3/a8
+
+What is the cause of local earthquakes?	The nearby San Andreas and Hayward Faults are responsible for much earthquake activity.	data/set3/a8
+
+Are more residents employed by small businesses than in 1977?	The number of San Franciscans employed by firms of more than 1,000 employees has fallen by half since 1977.	data/set3/a8
+
+Are more residents employed by small businesses than in 1977?	No	data/set3/a8
+
+How does poverty in San Francisco compare to the nation-wide average?	The city's poverty rate is 11.8% and the number of families in poverty stands at 7.4%, both lower than the national average.	data/set3/a8
+
+How does poverty in San Francisco compare to the nation-wide average?	San Francisco's poverty rate is lower than the national average.	data/set3/a8
+
+Was Mission Bay campus opened in 2003	yes	data/set3/a8
+
+Was Mission Bay campus opened in 2003	Yes	data/set3/a8
+
+Was the University of San Fransisco founded in 1855	yes	data/set3/a8
+
+Is Golden Gate Park the largest city park	yes	data/set3/a8
+
+Is Golden Gate Park the largest city park	Yes	data/set3/a8
+
+What is Northern California's most widely circulated newspaper	San Francisco Chronicle	data/set3/a8
+
+What is Northern California's most widely circulated newspaper	San Francisco Chronicle	data/set3/a8
+
+What makes San Francisco among the top-ten North American destinations for conventions and conferences	San Francisco has a large hotel infrastructure and a world-class convention facility in the Moscone Center	data/set3/a8
+
+What makes San Francisco among the top-ten North American destinations for conventions and conferences	a large hotel infrastructure and a world-class convention facility in the Moscone Center	data/set3/a8
+
+Who manages Candlestick point	California State Park system	data/set3/a8
+
+Who manages Candlestick point	the California State Park system	data/set3/a8
+
+Is Crissy field an airfield	Yes	data/set3/a8
+
+Does the de Young museum house the Asian Art Museum	yes	data/set3/a8
+
+Does the de Young museum house the Asian Art Museum	No	data/set3/a8
+
+What prompted the city to upgrade its building codes	earthquakes	data/set3/a8
+
+What prompted the city to upgrade its building codes	The threat of major earthquakes	data/set3/a8
+
+Like many larger where cities, San Francisco is a minority-majority city, as non-Hispanic whites comprise less than half of the population?	U.S.	data/set3/a8
+
+Who laid out a street plan for the expanded settlement?	William Richardson and Alcalde Francisco de Haro.	data/set3/a8
+
+When was a 43-acre Mission Bay campus opened?	2003	data/set3/a8
+
+When did it sign on the air?	In 1941.	data/set3/a8
+
+Give an example of the largest two-year community colleges in the country. 	The City College of San Francisco.	data/set3/a8
+
+Give an example of the ten Beta World Cities. 	San Trancisco	data/set3/a8
+
+The only consolidated city-county in California, does it encompass a land area of on the northern end of the San Francisco Peninsula, making it the second most densely populated city in the United States?	San Francisco	data/set3/a8
+
+Is San Francisco also the financial, cultural, and transportation center of the larger San Francisco Bay Area, a region of 7.4 million people?	yes	data/set3/a8
+
+In what year did the Spanish establish a fort at the Golden Gate and a mission named for Francis of Assisi on the site?	In 1776, the Spanish established a fort at the Golden Gate and a mission named for Francis of Assisi on the site.	data/set3/a8
+
+Does Swahili have dipthongs?	Yes, Swahili has diphthongs. (Typo)	data/set5/a4
+
+Is Swahili a Bantu language?	Yes, Swahili is a Bantu language.	data/set5/a4
+
+Is Swahili a Bantu language?	yes	data/set5/a4
+
+Did Uganda make Swahili a required subject in primary schools?	Yes, Uganda made Swahili a required subject in primary schools.	data/set5/a4
+
+Did Uganda make Swahili a required subject in primary schools?	yes	data/set5/a4
+
+What is the Swahili word for the Swahili language?	"Kiswahili" is the Swahili word for the Swahili language.	data/set5/a4
+
+What is the Swahili word for the Swahili language?	Kiswahili	data/set5/a4
+
+Is Swahili spoken in Mozambique?	Yes, Swahili is spoken in parts of northern Mozambique.	data/set5/a4
+
+Is Swahili spoken in Mozambique?	yes	data/set5/a4
+
+How does Swahili time run?	Swahili time runs from dawn to dusk.	data/set5/a4
+
+How does Swahili time run?	from dawn to dusk	data/set5/a4
+
+How many noun classes does Swahili have?	Swahili has sixteen noun classes.	data/set5/a4
+
+How many noun classes does Swahili have?	sixteen	data/set5/a4
+
+In what year did Germany seize Tanganyika?	Germany seized Tanganyika in 1886.	data/set5/a4
+
+In what year did Germany seize Tanganyika?	1886	data/set5/a4
+
+Which is the sub-Saharan indigenous language with the greatest number of speakers?	Hausa of West Africa is the sub-Saharan indigenous language with the greatest number of speakers.	data/set5/a4
+
+Which is the sub-Saharan indigenous language with the greatest number of speakers?	Hausa	data/set5/a4
+
+Is Swedish a descendant of Old Norse?	Yes.	data/set5/a9
+
+Is Swedish a descendant of Old Norse?	Yes	data/set5/a9
+
+Does Swedish use the perfect participle to form the present perfect tense?	No.	data/set5/a9
+
+Does Swedish use the perfect participle to form the present perfect tense?	No	data/set5/a9
+
+How many Swedish speakers were reported in Canada in 2001?	16,915.	data/set5/a9
+
+How many Swedish speakers were reported in Canada in 2001?	There are 16,915 reported Swedish speakers in Canada.	data/set5/a9
+
+How many letters are in the basic Latin alphabet?	26.	data/set5/a9
+
+How many letters are in the basic Latin alphabet?	26	data/set5/a9
+
+When did a standard and common language become available to all Swedes?	In the 20th Century.	data/set5/a9
+
+When did a standard and common language become available to all Swedes?	It was during the 20th century that a common, standardized national language became available to all Swedes.	data/set5/a9
+
+When did the Soviet military forces occupy Estonia?	1944.	data/set5/a9
+
+When did the Soviet military forces occupy Estonia?	In 1944.	data/set5/a9
+
+What are the differences between English and Swedish pronouns?	Swedish pronouns are basically the same as those of English but distinguish two genders and have an additional object form, derived from the old dative form, as well as a distinct genitive case.	data/set5/a9
+
+How does Swedish language counterbalance the absence of cases?	The lack of cases in Swedish is compensated by a wide variety of prepositions.	data/set5/a9
+
+Is Taipei in a valley?	Taipei is in the valleys of the Keelung and Xindian Rivers	data/set3/a6
+
+Is Taipei in a valley?	Yes	data/set3/a6
+
+Was Taipei founded in the 18th century?	Yes	data/set3/a6
+
+Was Taipei founded in the 18th century?	Yes	data/set3/a6
+
+Is the National Palace Museum in Taipei?	Yes	data/set3/a6
+
+Is the National Palace Museum in Taipei?	Yes	data/set3/a6
+
+What is along the city's western border?	The Danshui River borders Taipei to the west.	data/set3/a6
+
+What is along the city's western border?	Taipei has the Danshui River along its western border.	data/set3/a6
+
+What is Taipei 101?	Taipei 101 is a 101-floor landmark skyscraper.	data/set3/a6
+
+What is Taipei 101?	Taipei 101 is a 101-floor landmark skyscraper.	data/set3/a6
+
+What are some annual festivals in Taipei?	The Lantern Festival, Tomb-Sweeping Day, Dragon Boat Festival, and the Mid-Autumn Festival	data/set3/a6
+
+What are some annual festivals in Taipei?	Some annual festivals include Tomb-Sweping Day, the Dragon Boat Festival, the Ghost Festival, and the Mid-Autumn Festival.	data/set3/a6
+
+When is the Pacific typhoon season?	Between June and October.	data/set3/a6
+
+When is the Pacific typhoon season?	It's between June and October.	data/set3/a6
+
+Who sets up shrines?	Many homes and business set up shrines.	data/set3/a6
+
+Who sets up shrines?	Many homes and businesses would set up shrines.	data/set3/a6
+
+What does Taipei produce?	Taipei produces high technology and hi-tech components	data/set3/a6
+
+What does Taipei produce?	Taipei produces textiles, apparel, electronics, machinery, printed materials, precision equipment, food, and beverages.	data/set3/a6
+
+Is the trumpet the musical instrument with the highest register in the brass family?	Yes	data/set2/a3
+
+Is the trumpet the musical instrument with the highest register in the brass family?	Yes	data/set2/a3
+
+Is a trumpet played by blowing air through closed lips?	Yes	data/set2/a3
+
+Is a trumpet played by blowing air through closed lips?	yes	data/set2/a3
+
+Is the most common type of trumpet the B trumpet?	Yes	data/set2/a3
+
+Is the most common type of trumpet the B trumpet?	yes	data/set2/a3
+
+What is the earliest date of the trumpet?	1500 BC	data/set2/a3
+
+What is the earliest date of the trumpet?	around 1500 BC	data/set2/a3
+
+What is a trumpet constructed of?	brass tubing	data/set2/a3
+
+What is a trumpet constructed of?	brass tubing bent twice into an oblong shape	data/set2/a3
+
+What are the smallest trumpets referred to as?	Piccolo trumpets	data/set2/a3
+
+What are the smallest trumpets referred to as?	piccolo trumpets	data/set2/a3
+
+Why do trumpets have a bright, loud sound?	The trumpet and trombone share a roughly cylindrical bore.	data/set2/a3
+
+Why do trumpets have a bright, loud sound?	Due to the cylindrical bore	data/set2/a3
+
+Why does the cornet have a slightly mellower tone than the trumpet?	The cornet and flugelhorn have conical bores	data/set2/a3
+
+Why does the cornet have a slightly mellower tone than the trumpet?	because it has conical bores	data/set2/a3
+
+What makes a trumpet fully chromatic?	able to play all twelve pitches of Western music	data/set2/a3
+
+Were trumpet players heavily guarded?	yes	data/set2/a3
+
+Were trumpet players heavily guarded?	yes	data/set2/a3
+
+Are pocket trumpets compact B trumpets?	yes	data/set2/a3
+
+Are pocket trumpets compact B trumpets?	yes	data/set2/a3
+
+Was Dizzy Gillespie a famous trumpeter in 1998?	no	data/set2/a3
+
+What shape is a trumpet bent into?	oblong	data/set2/a3
+
+What shape is a trumpet bent into?	an oblong shape	data/set2/a3
+
+What trumpet was the first to be allowed in the Christian Church?	slide trumpets	data/set2/a3
+
+What trumpet was the first to be allowed in the Christian Church?	Slide trumpets	data/set2/a3
+
+The trumpet can be confused with what close relative?	the cornet	data/set2/a3
+
+The trumpet can be confused with what close relative?	the coronet	data/set2/a3
+
+What can be augmented with a fourth valve?	the flugelhorn	data/set2/a3
+
+What can be augmented with a fourth valve?	flugelhorn	data/set2/a3
+
+What was Maynard Ferguson noted for being able to play accurately?	yes	data/set2/a3
+
+What was Maynard Ferguson noted for being able to play accurately?	yes	data/set2/a3
+
+What was built to play in both B and A keys?	piccolo trumpets	data/set2/a3
+
+What was built to play in both B and A keys?	piccolo trumpets	data/set2/a3
+
+What happened in 1894?	Jean-Baptiste Arban published "Complete Conservatory Method for Trumpet."	data/set2/a3
+
+What happened in nineteen fifty seven?	Maynard Ferguson formed his own band.	data/set2/a3
+
+Is the Breeze Eazy' ' method sometimes used to teach younger students?	Yes.	data/set2/a3
+
+Do many players use a smaller mouthpiece on the piccolo trumpet?	Yes	data/set2/a3
+
+Is the trumpet constructed of brass tubing bent twice into an oblong shape?	yes	data/set2/a3
+
+Give an example of the most influential musicians of the 20th century. 	Miles Davis	data/set2/a3
+
+Were Slide trumpets the first trumpets allowed in the Christian church?	Slide trumpets were the first trumpets allowed in the Christian church. 	data/set2/a3
+
+Are they constructed of brass tubing bent twice into an oblong shape, and are played by blowing air through closed lips, producing a ``buzzing'' sound which starts a standing wave vibration in the air column inside the trumpet?	Yes	data/set2/a3
+
+Are there several types of trumpet?	yes	data/set2/a3
+
+Was the Ottoman script replaced with a variant of the Latin alphabet?	Yes.	data/set5/a8
+
+Was the Ottoman script replaced with a variant of the Latin alphabet?	Yes	data/set5/a8
+
+Is there a definite article in Turkish language?	No.	data/set5/a8
+
+Is there a definite article in Turkish language?	No	data/set5/a8
+
+Is it possible to alter the word order to stress the importance of a certain phrase?	Yes.	data/set5/a8
+
+Is it possible to alter the word order to stress the importance of a certain phrase?	Yes	data/set5/a8
+
+What is the official language of Turkey?	Turkish.	data/set5/a8
+
+What is the official language of Turkey?	Turkish is the official language of Turkey.	data/set5/a8
+
+When was the Turkish Language Association founded?	In 1928.	data/set5/a8
+
+When was the Turkish Language Association founded?	The Turkish Language Association was founded in 1932.	data/set5/a8
+
+What are the most significant foreign contributors to Turkish vocabulary?	Among the most significant foreign contributors to Turkish vocabulary are Arabic, French, Persian, Italian, English, and Greek. 	data/set5/a8
+
+Who were the Orkhon inscriptions built for?	For the prince Kul Tigin and his brother Emperor Bilge Khan.	data/set5/a8
+
+Who were the Orkhon inscriptions built for?	The Orkhon inscriptions were erected in honour of the prince Kul Tigin and his brother Emperor Bilge Khan.	data/set5/a8
+
+What was one of the results of the introduction of the new Turkish alphabet?	A dramatic increase in literacy from Third World levels.	data/set5/a8
+
+What was one of the results of the introduction of the new Turkish alphabet?	There was a dramatic increase in literacy from its original Third World levels.	data/set5/a8
+
+Why does Lewis use "absolute case" instead of "nominative"?	Because it is also used for the indefinite accusative.	data/set5/a8
+
+Why does Lewis use "absolute case" instead of "nominative"?	Because it is also used for the indefinite accusative.	data/set5/a8
+
+How many people speak Turkish worldwide?	There are roughly another 10 million native speakers worldwide.	data/set5/a8
+
+How many people speak Turkish worldwide?	NULL	data/set5/a8
+
+In Turkish, which syllable usually has the stress?	Stress is usually on the last syllable	data/set5/a8
+
+In Turkish, which syllable usually has the stress?	NULL	data/set5/a8
+
+Is the spelling of Turkish phonetic?	yes, Turkish now has an alphabet suited to the sounds of the language: the spelling is largely phonetic, with one letter corresponding to each phoneme.	data/set5/a8
+
+Is the spelling of Turkish phonetic?	NULL	data/set5/a8
+
+What percentage of the words in Turkish vocabulary have Turkish origins?	86% of the Turkish vocabulary have Turkish origins.	data/set5/a8
+
+What percentage of the words in Turkish vocabulary have Turkish origins?	NULL	data/set5/a8
+
+After what event was the Turkish Language Association established?	After the foundation of the Republic of Turkey and the script reform, the Turkish Language Association (TDK) was established in 1932.	data/set5/a8
+
+After what event was the Turkish Language Association established?	NULL	data/set5/a8
+
+What exception to the rules of vowel harmony do compound words have?	In compound words, the vowels need not harmonize between the constituent words of the compound.	data/set5/a8
+
+What exception to the rules of vowel harmony do compound words have?	NULL	data/set5/a8
+
+Who is working to coin new Turkish word?	NULL	data/set5/a8
+
+What are the patterns of vowel harmony?	Vowels are characterised by two features: front/back and rounded/unrounded.	data/set5/a8
+
+What are the patterns of vowel harmony?	NULL	data/set5/a8
+
+What are the ways to join groups of nouns?	Two nouns, or groups of nouns, may be joined in either of two ways: definite or indefinite.	data/set5/a8
+
+What are the ways to join groups of nouns?	NULL	data/set5/a8
+
+Does Vietnamese have a comparatively large number of vowels?	Yes.	data/set5/a10
+
+Is Vietnamese the mother tongue of the Vietnamese people?	Yes	data/set5/a10
+
+Is Vietnamese the mother tongue of the Vietnamese people?	Yes.	data/set5/a10
+
+Is Vietnamese the official administrative language of Vietnam?	Yes	data/set5/a10
+
+Is Vietnamese the official administrative language of Vietnam?	Yes.	data/set5/a10
+
+Was Vietnamese influenced by Chinese?	Much vocabulary has been borrowed from Chinese.	data/set5/a10
+
+Was Vietnamese influenced by Chinese?	Yes.	data/set5/a10
+
+When did written Vietnamese become the official administrative language?	the 20th century	data/set5/a10
+
+When did written Vietnamese become the official administrative language?	Vietnamese became the official administrative language by the 20th century.	data/set5/a10
+
+Have consonant clusters been lost?	Yes	data/set5/a10
+
+Have consonant clusters been lost?	Yes.	data/set5/a10
+
+Is the Red River Delta traditionally poor?	Not compared to Nghe An, Ha Tinh, or Quang Binh	data/set5/a10
+
+Is the Red River Delta traditionally poor?	Yes.	data/set5/a10
+
+What kind of words have been borrowed from Chinese?	Words that denote abstract ideas in the same way European languages borrow form Latin and Greek.	data/set5/a10
+
+What kind of words have been borrowed from Chinese?	Vietnamese adopts words from Chinese which express abstract ideas.	data/set5/a10
+
+Is Vietnam independent from France?	Yes.	data/set5/a10
+
+Was Vietnamese formally written using the Chinese writing system?	Yes, Vietnamese was *formerly* written using the Chinese writing system.	data/set5/a10
+
+Was Vietnamese formally written using the Chinese writing system?	NULL	data/set5/a10
+
+Does Vietnamese have a large number of vowels?	Yes, Vietnamese has a comparatively large number of vowels.	data/set5/a10
+
+Does Vietnamese have a large number of vowels?	NULL	data/set5/a10
+
+Does Vietnamese have dipthongs?	NULL	data/set5/a10
+
+What are the three dialect regions of Vietnamese?	The three regions are North, Central, and South.	data/set5/a10
+
+What are the three dialect regions of Vietnamese?	NULL	data/set5/a10
+
+When was the reunification of Vietnam?	The reunification of Vietnam occurred in 1975-76.	data/set5/a10
+
+When was the reunification of Vietnam?	NULL	data/set5/a10
+
+How many tones do Northern varieties have?	Northern Vietnamese has six tones.	data/set5/a10
+
+How many tones do Northern varieties have?	NULL	data/set5/a10
+
+Does Vietnamese borrow from Latin and Greek?	No, Vietnamese does not borrow from Latin and Greek.	data/set5/a10
+
+Does Vietnamese borrow from Latin and Greek?	NULL	data/set5/a10
+
+Did Vietnamese come to predominate politically in 2nd century BC?	No, Chinese came to predominate politically in the 2nd century B.C.	data/set5/a10
+
+Did Vietnamese come to predominate politically in 2nd century BC?	NULL	data/set5/a10
+
+Do more northern speakers speak the southern regional dialect than southern speakers speak the northern dialect?	More southern speakers speak the northern dialect than northerners speak the suthern dialect.	data/set5/a10
+
+Do more northern speakers speak the southern regional dialect than southern speakers speak the northern dialect?	NULL	data/set5/a10
+
+What happened in 1860?	Vincent van Gogh attended the Zundert village school from 1860.	data/set6/a7
+
+Who frequented the circle of the British-Australian artist John Peter Russell?	Van Gogh	data/set6/a7
+
+Were the letters first annotated in 1913 by Theos widow Johanna van Gogh-Bonger?	yes	data/set6/a7
+
+Was Kee seven years older than Van Gogh as well as had an eight-year-old son?	Yes.	data/set6/a7
+
+Did he suffer from anxiety and increasingly frequent bouts of mental illness throughout his life, and died largely unknown, at the age of 37, from a self-inflicted gunshot wound?	Yes.	data/set6/a7
+
+Appreciated during his lifetime, did his fame grow in the years after his death?	yes	data/set6/a7
+
+Is today, he widely regarded as one of history's greatest painters and an important contributor to the foundations of modern art?	Yes	data/set6/a7
+
+Does a violin have four strings?	Yes	data/set2/a2
+
+Does a violin have four strings?	Yes	data/set2/a2
+
+Is the violin supported by the left shoulder?	Yes	data/set2/a2
+
+Is the violin supported by the left shoulder?	Yes.	data/set2/a2
+
+Is the violin shaped like an hourglass?	Yes	data/set2/a2
+
+Is the violin shaped like an hourglass?	Yes.	data/set2/a2
+
+What were strings first made out of?	Sheep Gut	data/set2/a2
+
+What were strings first made out of?	Sheep gut.	data/set2/a2
+
+What is a violin called informally?	Fiddle	data/set2/a2
+
+What is a violin called informally?	A fiddle.	data/set2/a2
+
+What does vitula mean?	Stringed Instrument	data/set2/a2
+
+What does vitula mean?	Stringed instrument.	data/set2/a2
+
+What is a person that makes or repairs violins called?	Luthier	data/set2/a2
+
+What is a person that makes or repairs violins called?	A luthier, or simply a violin maker.	data/set2/a2
+
+What does the "voice" of a violin depend upon?	Shape	data/set2/a2
+
+What does the "voice" of a violin depend upon?	Its shape.	data/set2/a2
+
+Is the violin a percussion instrument?	Yes	data/set2/a2
+
+What happened in 1980s?	The use of traditional (non-synthesized) orchestras declined.	data/set2/a2
+
+Who features violinist Boyd Tinsley?	Dave Matthews Band features violinist Boyd Tinsley.	data/set2/a2
+
+Regarding this topic, what did Antonio Stradivari do?	Antonio Stradivari made violins.	data/set2/a2
+
+When did Charles IX order Amati to construct 24 violins for him?	1560	data/set2/a2
+
+Is a string first tuned to a standard pitch?	Yes.	data/set2/a2
+
+Is each node at an integer division of the string?	Yes.	data/set2/a2
+
+Is the tuning G-D-A-E used for most violin music?	Yes	data/set2/a2
+
+Is it the smallest and highest-pitched member of the violin family of string instruments, which also includes the viola and cello?	Yes, it is the smallest and highest-pitched member of the violin family of string instruments, which also includes the viola and cello.	data/set2/a2
+
+Is a violin sometimes informally called a fiddle, regardless of the type of music played on it?	Yes.	data/set2/a2
+
+Does the word ``violin'' come from the Middle Latin word vitula, meaning ``stringed instrument''?	Yes.	data/set2/a2
+
+Are concert xylophonese typically 3 1/2 or 4 octaves?	NULL	data/set2/a8
+
+Are concert xylophonese typically 3 1/2 or 4 octaves?	NULL	data/set2/a8
+
+Is folk music associated with western Europe?	NULL	data/set2/a8
+
+Is folk music associated with western Europe?	NULL	data/set2/a8
+
+Were xylophonists featured in the theatre in the 20th century?	NULL	data/set2/a8
+
+Were xylophonists featured in the theatre in the 20th century?	NULL	data/set2/a8
+
+What year were the first xylophone artifacts found?	NULL	data/set2/a8
+
+What year were the first xylophone artifacts found?	NULL	data/set2/a8
+
+The modern western-style xylophone has bars made of what material?	NULL	data/set2/a8
+
+The modern western-style xylophone has bars made of what material?	NULL	data/set2/a8
+
+The xylophone has been known in what country since the Middle Ages?	NULL	data/set2/a8
+
+The xylophone has been known in what country since the Middle Ages?	NULL	data/set2/a8
+
+What instrument was produced after the xylophone in the 1920s?	NULL	data/set2/a8
+
+What instrument was produced after the xylophone in the 1920s?	NULL	data/set2/a8
+
+In Central and South America, what instrument was the xylophone changed into?	NULL	data/set2/a8
+
+In Central and South America, what instrument was the xylophone changed into?	NULL	data/set2/a8
+
+The word xylophone is derived from two greek words: xylon and phone. What do these words mean?	NULL	data/set2/a8
+
+The word xylophone is derived from two greek words: xylon and phone. What do these words mean?	NULL	data/set2/a8
+
+Is the xylophone a musical instrument?	yes	data/set2/a8
+
+Is the xylophone a musical instrument?	Yes.	data/set2/a8
+
+Was the xylophone associated with the folk music of the United States by the 19th century?	no	data/set2/a8
+
+Was the xylophone associated with the folk music of the United States by the 19th century?	No.	data/set2/a8
+
+Was it likely that the xylophone reached Europe during the Crusades?	yes	data/set2/a8
+
+Was it likely that the xylophone reached Europe during the Crusades?	Yes.	data/set2/a8
+
+The xylophone is an instrument from what family?	the percussion family	data/set2/a8
+
+The xylophone is an instrument from what family?	Percussion	data/set2/a8
+
+How do the Java and Bali use xylophones?	In gamelan ensembles	data/set2/a8
+
+Some versions of xylophones have resonators made of what?	gourds	data/set2/a8
+
+Some versions of xylophones have resonators made of what?	Gourds.	data/set2/a8
+
+Which came first, the xylophone or the vibraphone?	xylophone	data/set2/a8
+
+Which came first, the xylophone or the vibraphone?	The xylophone.	data/set2/a8
+
+Did the golden age of xylophones come before or after the first usage of the European-derived orchestral?	after	data/set2/a8
+
+Did the golden age of xylophones come before or after the first usage of the European-derived orchestral?	After.	data/set2/a8
+
+Does kelon increase or decrease tone quality of the xylophone?	no	data/set2/a8
+
+Does kelon increase or decrease tone quality of the xylophone?	Decrease.	data/set2/a8
+
+Do the different species of zebras interbreed?	no	data/set1/a9
+
+Do the different species of zebras interbreed?	No	data/set1/a9
+
+Do zebras sleep standing up?	yes	data/set1/a9
+
+Do zebras sleep standing up?	Yes	data/set1/a9
+
+Have plains zebras been crossed with mountain zebras?	yes	data/set1/a9
+
+Have plains zebras been crossed with mountain zebras?	Yes	data/set1/a9
+
+How many species of zebra are there?	three	data/set1/a9
+
+How many species of zebra are there?	Three	data/set1/a9
+
+What do zebras eat?	mainly grass	data/set1/a9
+
+What do zebras eat?	Grasses, shrubs, herbs, twigs, leaves, and bark	data/set1/a9
+
+What are zebras hunted for?	mainly for their skins	data/set1/a9
+
+What are zebras hunted for?	Skins	data/set1/a9
+
+What areas do the Grevy's Zebras inhabit?	semi-arid grasslands of Ethiopia and northern Kenya	data/set1/a9
+
+What areas do the Grevy's Zebras inhabit?		data/set1/a9
+
+Which species of zebra is known as the common zebra?	Plains Zebra (Equus quagga, formerly Equus burchelli)	data/set1/a9
+
+Which species of zebra is known as the common zebra?	Plains Zebra	data/set1/a9
+
+At what age can a zebra breed?	five or six	data/set1/a9
+
+At what age can a zebra breed?	5 or 6	data/set1/a9
+

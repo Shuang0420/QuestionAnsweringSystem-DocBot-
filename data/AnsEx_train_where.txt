@@ -1,0 +1,79 @@
+Alessandro_Volta	Where was Volta born?	Como	medium	medium	data/set4/a10
+Alessandro_Volta	Where was Volta born?	Como, Italy	medium	medium	data/set4/a10
+Alessandro_Volta	Was Volta buried where he died or was he buried someplace else?	where he died	hard	hard	data/set4/a10
+Ant	Where are bullet ants located?	Bullet ants are located in Central and South America.	medium	medium	data/set1/a1
+Ant	Where are bullet ants located?	NULL	medium	NULL	data/set1/a1
+Antwerp	Where is the city of Antwerp?	Antwerp is in Belgium	medium	medium	data/set3/a4
+Antwerp	Where is the city of Antwerp?	NULL	medium	NULL	data/set3/a4
+Arabic_language	Where is Arabic spoken?	The Middle East and North Africa	medium	medium	data/set5/a3
+Arabic_language	Where is Arabic spoken?	NULL	medium	NULL	data/set5/a3
+Arabic_language	Where are the Western Arabic numerals used?	North Africa	medium	medium	data/set5/a3
+Arabic_language	Where are the Western Arabic numerals used?	present-day North Africa	medium	medium	data/set5/a3
+Berlin	Where is the Berliner Dom located?	The Berliner Dom is located on the Spree Island across from the site of the Berliner Stadtschloss and adjacent to the Lustgarten.	medium	medium	data/set3/a1
+Berlin	Where is the Berliner Dom located?	on the Spree Island	medium	medium	data/set3/a1
+Berlin	Where is the bust of Queen Nefertiti?	The bust of Queen Nefertiti is in the Altes Museum.	medium	hard	data/set3/a1
+Berlin	Where is the bust of Queen Nefertiti?	NULL	medium	NULL	data/set3/a1
+Berlin	Where does the German President live?	The German President lives west of the center, Schloss Bellevue.	medium	hard	data/set3/a1
+Berlin	Where does the German President live?	NULL	medium	NULL	data/set3/a1
+Berlin	Where was Popkomm held before moving to Berlin?	Popkomm was held in Cologne before moving to Berlin.	hard	hard	data/set3/a1
+Berlin	Where was Popkomm held before moving to Berlin?	NULL	hard	NULL	data/set3/a1
+Butterfly	Where was there a vast swarm of butterflies?	In Kyoto there was a vast swarm of butterflies.	medium	medium	data/set1/a6
+Butterfly	Where was there a vast swarm of butterflies?	NULL	medium	NULL	data/set1/a6
+Charles-Augustin_de_Coulomb	Where is Coll�ge des Quatre-Nations located?	In Montpellier.	hard	hard	data/set4/a6
+Charles-Augustin_de_Coulomb	Where is Coll�ge des Quatre-Nations located?	In Paris.	hard	hard	data/set4/a6
+Eel	Where is smoked eel considered a delicacy?	Northern Germany, The Netherlands, Denmark, Sweden	medium	medium	data/set1/a8
+Eel	Where is smoked eel considered a delicacy?	Smoked eel is considered a delicacy in northern Germany, The Netherlands, Denmark and Sweden.	medium	medium	data/set1/a8
+Finnish_language	Where is the Kven language spoken?	Norway	medium	medium	data/set5/a5
+Finnish_language	Where is the Kven language spoken?	The Kven language is spoken in Northern Norway.	medium	medium	data/set5/a5
+Flute	Where was the oldest flute ever discovered found?	Germany	medium	too hard	data/set2/a5
+Flute	Where was the oldest flute ever discovered found?	Various parts of Germany.	medium	medium	data/set2/a5
+Giant_Panda	Where do Giant Pandas live?	a few mountain ranges in central china	medium	medium	data/set1/a4
+Giant_Panda	Where do Giant Pandas live?	Sichuan province, Shaanxi and Gansu provinces	medium	medium	data/set1/a4
+Guitar	Where is the headstock located?	end of the guitar neck furthest from the body	medium	medium	data/set2/a7
+Guitar	Where is the headstock located?	At the end of the guitar.	medium	medium	data/set2/a7
+Henri_Becquerel	Where are there craters named Becquerel?	Moon and Mars	hard	hard	data/set4/a9
+Henri_Becquerel	Where are there craters named Becquerel?	on the moon and on mars	hard	medium	data/set4/a9
+Isaac_Newton	Where was Isaac Newton born?	At Woolsthorpe Manor in Woosthorpe-by-Colsterworth.	medium	medium	data/set4/a1
+Isaac_Newton	Where was Isaac Newton born?	He was born at Woolsthorpe Manor in Woolsthorpe-by-Colsterworth, a hamlet in the county of Lincolnshire.	medium	medium	data/set4/a1
+Isaac_Newton	Where was Isaac Newton born?	Woolsthorpe Manor in Woolsthorpe-by-Colsterworth	medium	medium	data/set4/a1
+Isaac_Newton	Where was Isaac Newton born?	Woolsthorpe Manor in Woolsthorpe-by-Colsterworth	medium	medium	data/set4/a1
+Isaac_Newton	Where is there a Newton statue on display?	Oxford University Museum of Natural History 	medium	medium	data/set4/a1
+Isaac_Newton	Where is there a Newton statue on display?	Oxford University Museum of Natural History	medium	medium	data/set4/a1
+Isaac_Newton	Where was Isaac Newton buried?	Westminster Abbey	hard	medium	data/set4/a1
+Isaac_Newton	Where was Isaac Newton buried?	Westminster Abbey	hard	medium	data/set4/a1
+Jakarta	Where does the name of the city Jakarta come from?	The name Jakarta is derived from the Sanskrit word "Jayakarta."	hard	medium	data/set3/a5
+Jakarta	Where is Jakarta located	northwest coast of Java	medium	medium	data/set3/a5
+Jakarta	Where is Jakarta located	On the northwest coast of Java	medium	medium	data/set3/a5
+James_Watt	Where is the James Watt Memorial College?	In Greenock.	medium	medium	data/set4/a2
+James_Watt	Where is the James Watt Memorial College?	The James Watt Memorial  is in Greenock.	medium	medium	data/set4/a2
+James_Watt	Where did Watt attend university?	Watt did not attend school regularly.	hard	too hard	data/set4/a2
+James_Watt	Where did Watt attend university?	He did not attend a university.	hard	too hard	data/set4/a2
+James_Watt	Where was Watt buried?	NULL	medium	NULL	data/set4/a2
+James_Watt	Where was Watt buried?	NULL	medium	NULL	data/set4/a2
+Korean_language	Where do the majority of loanwords other than Sino-Korean come from?	modern times	hard	medium	data/set5/a6
+Korean_language	Where do the majority of loanwords other than Sino-Korean come from?	modern times, 90% of which are from English	hard	hard	data/set5/a6
+Lobster	Where are lobsters found?	In all oceans.	medium	medium	data/set1/a5
+Lobster	Where are lobsters found?	In all oceans	medium	medium	data/set1/a5
+Lyre	Where was the deepest note of the classical lyre in relation to the player's body?	It was farthest from the player's body.	hard	medium	data/set2/a10
+Lyre	Where was the deepest note of the classical lyre in relation to the player's body?	NULL	hard	NULL	data/set2/a10
+Melbourne	Where is Melbourne situated?	boundary of the very hot inland areas and the cold southern ocean	hard	too hard	data/set3/a2
+Michael_Faraday	Where was Michael Faraday born?	Michael Faraday was born in Newington Butts.	medium	medium	data/set4/a7
+Michael_Faraday	Where was Michael Faraday born?	Newington Butts	medium	medium	data/set4/a7
+Michael_Faraday	Where is Michael Faraday buried?	Michael Faraday is buried in the dissenters' section of Highgate Cemetery.	hard	hard	data/set4/a7
+Michael_Faraday	Where is Michael Faraday buried?	in the dissenters' section of Highgate Cemetery	hard	hard	data/set4/a7
+Montreal	Where was much of Montreal's industry during the late 19th and early-to-mid 20th century?	The Sud-Ouest borough was home to much of the city's industry during the late 19th and early-to-mid 20th century. 	hard	easy	data/set3/a7
+Montreal	Where was much of Montreal's industry during the late 19th and early-to-mid 20th century?	The Sud-Ouest borough was home to much of the city's industry during the late 19th and early-to-mid 20th century.	hard	hard	data/set3/a7
+Nikola_Tesla	Where did Nikola Tesla move to in 1880?	In 1880, Nikola Tesla moved to Budapest.	medium	easy	data/set4/a3
+Nikola_Tesla	Where did Nikola Tesla move to in 1880?	Budapest	medium	medium	data/set4/a3
+Nikola_Tesla	Where did Tesla study electrical engineering?	The Austrian Polytechnic in Graz	medium	medium	data/set4/a3
+Nikola_Tesla	Where did Tesla study electrical engineering?	NULL	medium	NULL	data/set4/a3
+Octopus	Where is the mouth of an octopus?	The mouth of an octopus is at the center point of the arms.	medium	medium	data/set1/a10
+Octopus	Where is the mouth of an octopus?	The octopus' mouth is at the center point of the arms.	medium	easy	data/set1/a10
+Piano	Where is Irving Berlin's piano located?	In the Smithsonian Museum.	hard	hard	data/set2/a1
+Piano	Where is Irving Berlin's piano located?	in the Smithsonian Museum	hard	medium	data/set2/a1
+Portuguese_language	Where are there small Portuguese-speaking communities?	Former overseas colonies of Portugal such as Macau and East Timor 	medium	medium	data/set5/a1
+Portuguese_language	Where are there small Portuguese-speaking communities?	There are small Portuguese-speaking communities in Macau and East Timor.	medium	medium	data/set5/a1
+Saint_Petersburg	Where do most people in urban Saint Petersburg live?	apartments	medium	medium	data/set3/a10
+Saint_Petersburg	Where do most people in urban Saint Petersburg live?	Apartments.	medium	hard	data/set3/a10
+San_Francisco	Where is San Francisco?	San Francisco is located on the West Coast of the United States at the tip of the San Francisco Peninsula.	medium	medium	data/set3/a8
+San_Francisco	Where is San Francisco?	San Francisco is in California.	medium	medium	data/set3/a8

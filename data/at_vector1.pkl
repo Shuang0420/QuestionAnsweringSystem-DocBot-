@@ -1,0 +1,4051 @@
+ccopy_reg
+_reconstructor
+p1
+(csklearn.feature_extraction.text
+CountVectorizer
+p2
+c__builtin__
+object
+p3
+NtRp4
+(dp5
+S'decode_error'
+p6
+Vstrict
+p7
+sS'lowercase'
+p8
+I01
+sS'stop_words'
+p9
+NsS'vocabulary'
+p10
+NsS'tokenizer'
+p11
+NsS'encoding'
+p12
+Vutf-8
+p13
+sS'token_pattern'
+p14
+V(?u)\u005cb\u005cw\u005cw+\u005cb
+p15
+sS'max_df'
+p16
+F1
+sS'fixed_vocabulary_'
+p17
+I00
+sS'analyzer'
+p18
+Vword
+p19
+sS'vocabulary_'
+p20
+(dp21
+Vrb dt
+p22
+cnumpy.core.multiarray
+scalar
+p23
+(cnumpy
+dtype
+p24
+(S'i4'
+I0
+I1
+tRp25
+(I3
+S'<'
+NNNI-1
+I-1
+I0
+tbS'y\x01\x00\x00'
+tRp26
+sVwrb rb
+p27
+g23
+(g25
+S'\x8a\x02\x00\x00'
+tRp28
+sVwdt md
+p29
+g23
+(g25
+S'd\x02\x00\x00'
+tRp30
+sVwp vbn
+p31
+g23
+(g25
+S'|\x02\x00\x00'
+tRp32
+sVwp vbg
+p33
+g23
+(g25
+S'{\x02\x00\x00'
+tRp34
+sVhyph nnps
+p35
+g23
+(g25
+S'm\x00\x00\x00'
+tRp36
+sVwp vbd
+p37
+g23
+(g25
+S'z\x02\x00\x00'
+tRp38
+sVcc cc
+p39
+g23
+(g25
+S'\x08\x00\x00\x00'
+tRp40
+sVin add
+p41
+g23
+(g25
+S'x\x00\x00\x00'
+tRp42
+sVcd cd
+p43
+g23
+(g25
+S'#\x00\x00\x00'
+tRp44
+sVwp vbz
+p45
+g23
+(g25
+S'~\x02\x00\x00'
+tRp46
+sVcd cc
+p47
+g23
+(g25
+S'"\x00\x00\x00'
+tRp48
+sVwp cd
+p49
+g23
+(g25
+S'n\x02\x00\x00'
+tRp50
+sVdt md
+p51
+g23
+(g25
+S'G\x00\x00\x00'
+tRp52
+sVwp vbp
+p53
+g23
+(g25
+S'}\x02\x00\x00'
+tRp54
+sVjj dt
+p55
+g23
+(g25
+S'\x9a\x00\x00\x00'
+tRp56
+sVrb cc
+p57
+g23
+(g25
+S'w\x01\x00\x00'
+tRp58
+sVrb cd
+p59
+g23
+(g25
+S'x\x01\x00\x00'
+tRp60
+sVdt dt
+p61
+g23
+(g25
+S'A\x00\x00\x00'
+tRp62
+sVwdt vbz
+p63
+g23
+(g25
+S'k\x02\x00\x00'
+tRp64
+sVnns rb
+p65
+g23
+(g25
+S'5\x01\x00\x00'
+tRp66
+sVwdt vbp
+p67
+g23
+(g25
+S'j\x02\x00\x00'
+tRp68
+sVwp vb
+p69
+g23
+(g25
+S'y\x02\x00\x00'
+tRp70
+sVwrb vbn
+p71
+g23
+(g25
+S'\x8f\x02\x00\x00'
+tRp72
+sVprp jj
+p73
+g23
+(g25
+S'a\x01\x00\x00'
+tRp74
+sVwdt vbd
+p75
+g23
+(g25
+S'i\x02\x00\x00'
+tRp76
+sVex in
+p77
+g23
+(g25
+S'Z\x00\x00\x00'
+tRp78
+sVvbd pdt
+p79
+g23
+(g25
+S'\xee\x01\x00\x00'
+tRp80
+sVnn ex
+p81
+g23
+(g25
+S'\xdb\x00\x00\x00'
+tRp82
+sVcc rb
+p83
+g23
+(g25
+S'\x16\x00\x00\x00'
+tRp84
+sVvb nnps
+p85
+g23
+(g25
+S'\xd3\x01\x00\x00'
+tRp86
+sVjj cc
+p87
+g23
+(g25
+S'\x98\x00\x00\x00'
+tRp88
+sVjj cd
+p89
+g23
+(g25
+S'\x99\x00\x00\x00'
+tRp90
+sVrb hyph
+p91
+g23
+(g25
+S'z\x01\x00\x00'
+tRp92
+sVwdt nnp
+p93
+g23
+(g25
+S'f\x02\x00\x00'
+tRp94
+sVvbg rp
+p95
+g23
+(g25
+S'\n\x02\x00\x00'
+tRp96
+sVwdt nns
+p97
+g23
+(g25
+S'g\x02\x00\x00'
+tRp98
+sVnnp uh
+p99
+g23
+(g25
+S'\x0b\x01\x00\x00'
+tRp100
+sVprp uh
+p101
+g23
+(g25
+S'l\x01\x00\x00'
+tRp102
+sVvbn hyph
+p103
+g23
+(g25
+S'\x15\x02\x00\x00'
+tRp104
+sVnnps nns
+p105
+g23
+(g25
+S'\x1b\x01\x00\x00'
+tRp106
+sVvbz wrb
+p107
+g23
+(g25
+S'^\x02\x00\x00'
+tRp108
+sVnnps nnp
+p109
+g23
+(g25
+S'\x1a\x01\x00\x00'
+tRp110
+sVrb jj
+p111
+g23
+(g25
+S'|\x01\x00\x00'
+tRp112
+sVjjs dt
+p113
+g23
+(g25
+S'\xbc\x00\x00\x00'
+tRp114
+sVjjs in
+p115
+g23
+(g25
+S'\xbe\x00\x00\x00'
+tRp116
+sVjjr hyph
+p117
+g23
+(g25
+S'\xb4\x00\x00\x00'
+tRp118
+sVvbd jj
+p119
+g23
+(g25
+S'\xe7\x01\x00\x00'
+tRp120
+sVcd to
+p121
+g23
+(g25
+S'3\x00\x00\x00'
+tRp122
+sVnn wp
+p123
+g23
+(g25
+S'\xf6\x00\x00\x00'
+tRp124
+sVrb vb
+p125
+g23
+(g25
+S'\x88\x01\x00\x00'
+tRp126
+sVto rb
+p127
+g23
+(g25
+S'\xb6\x01\x00\x00'
+tRp128
+sVvb in
+p129
+g23
+(g25
+S'\xcb\x01\x00\x00'
+tRp130
+sVwp md
+p131
+g23
+(g25
+S'r\x02\x00\x00'
+tRp132
+sVnns in
+p133
+g23
+(g25
+S'+\x01\x00\x00'
+tRp134
+sVnns wrb
+p135
+g23
+(g25
+S'A\x01\x00\x00'
+tRp136
+sVvbn to
+p137
+g23
+(g25
+S' \x02\x00\x00'
+tRp138
+sVcc jjr
+p139
+g23
+(g25
+S'\x0e\x00\x00\x00'
+tRp140
+sVcc jjs
+p141
+g23
+(g25
+S'\x0f\x00\x00\x00'
+tRp142
+sVnnp wrb
+p143
+g23
+(g25
+S'\x14\x01\x00\x00'
+tRp144
+sVjj vb
+p145
+g23
+(g25
+S'\xaa\x00\x00\x00'
+tRp146
+sVjjs jj
+p147
+g23
+(g25
+S'\xbf\x00\x00\x00'
+tRp148
+sVrp dt
+p149
+g23
+(g25
+S'\xa3\x01\x00\x00'
+tRp150
+sVdt prp
+p151
+g23
+(g25
+S'L\x00\x00\x00'
+tRp152
+sVwp jj
+p153
+g23
+(g25
+S'q\x02\x00\x00'
+tRp154
+sVdt vb
+p155
+g23
+(g25
+S'O\x00\x00\x00'
+tRp156
+sVpos cc
+p157
+g23
+(g25
+S'H\x01\x00\x00'
+tRp158
+sVnn add
+p159
+g23
+(g25
+S'\xd7\x00\x00\x00'
+tRp160
+sVpos cd
+p161
+g23
+(g25
+S'I\x01\x00\x00'
+tRp162
+sVnns pos
+p163
+g23
+(g25
+S'3\x01\x00\x00'
+tRp164
+sVmd jjs
+p165
+g23
+(g25
+S'\xcc\x00\x00\x00'
+tRp166
+sVcc vbp
+p167
+g23
+(g25
+S'\x1c\x00\x00\x00'
+tRp168
+sVin vb
+p169
+g23
+(g25
+S'\x8d\x00\x00\x00'
+tRp170
+sVvbd
+p171
+g23
+(g25
+S'\xe1\x01\x00\x00'
+tRp172
+sVprp cc
+p173
+g23
+(g25
+S'\\\x01\x00\x00'
+tRp174
+sVvbn
+p175
+g23
+(g25
+S'\x11\x02\x00\x00'
+tRp176
+sVcc vbz
+p177
+g23
+(g25
+S'\x1d\x00\x00\x00'
+tRp178
+sVcc vbd
+p179
+g23
+(g25
+S'\x19\x00\x00\x00'
+tRp180
+sVvbp
+p181
+g23
+(g25
+S"'\x02\x00\x00"
+tRp182
+sVwdt
+p183
+g23
+(g25
+S'_\x02\x00\x00'
+tRp184
+sVcc hyph
+p185
+g23
+(g25
+S'\x0b\x00\x00\x00'
+tRp186
+sVvbz
+p187
+g23
+(g25
+S'C\x02\x00\x00'
+tRp188
+sVcc vbn
+p189
+g23
+(g25
+S'\x1b\x00\x00\x00'
+tRp190
+sVrb to
+p191
+g23
+(g25
+S'\x86\x01\x00\x00'
+tRp192
+sVnn vbz
+p193
+g23
+(g25
+S'\xf4\x00\x00\x00'
+tRp194
+sVcc vb
+p195
+g23
+(g25
+S'\x18\x00\x00\x00'
+tRp196
+sVnnps vbg
+p197
+g23
+(g25
+S'!\x01\x00\x00'
+tRp198
+sVjj rbs
+p199
+g23
+(g25
+S'\xa7\x00\x00\x00'
+tRp200
+sVnnps vbd
+p201
+g23
+(g25
+S' \x01\x00\x00'
+tRp202
+sVls nn
+p203
+g23
+(g25
+S'\xc9\x00\x00\x00'
+tRp204
+sVnn vbp
+p205
+g23
+(g25
+S'\xf3\x00\x00\x00'
+tRp206
+sVnnps vbn
+p207
+g23
+(g25
+S'"\x01\x00\x00'
+tRp208
+sVfw vbn
+p209
+g23
+(g25
+S'c\x00\x00\x00'
+tRp210
+sVnnps vbp
+p211
+g23
+(g25
+S'#\x01\x00\x00'
+tRp212
+sVnn vbn
+p213
+g23
+(g25
+S'\xf2\x00\x00\x00'
+tRp214
+sVin uh
+p215
+g23
+(g25
+S'\x8c\x00\x00\x00'
+tRp216
+sVnnps vbz
+p217
+g23
+(g25
+S'$\x01\x00\x00'
+tRp218
+sVwdt in
+p219
+g23
+(g25
+S'b\x02\x00\x00'
+tRp220
+sVwrb nn
+p221
+g23
+(g25
+S'\x86\x02\x00\x00'
+tRp222
+sVnn prp
+p223
+g23
+(g25
+S'\xe7\x00\x00\x00'
+tRp224
+sVnn vbg
+p225
+g23
+(g25
+S'\xf1\x00\x00\x00'
+tRp226
+sVnn vbd
+p227
+g23
+(g25
+S'\xf0\x00\x00\x00'
+tRp228
+sVvbp ex
+p229
+g23
+(g25
+S'+\x02\x00\x00'
+tRp230
+sVto
+p231
+g23
+(g25
+S'\xb2\x01\x00\x00'
+tRp232
+sVcd nns
+p233
+g23
+(g25
+S',\x00\x00\x00'
+tRp234
+sVin rb
+p235
+g23
+(g25
+S'\x89\x00\x00\x00'
+tRp236
+sVcd nnp
+p237
+g23
+(g25
+S'*\x00\x00\x00'
+tRp238
+sVvbd dt
+p239
+g23
+(g25
+S'\xe4\x01\x00\x00'
+tRp240
+sVnn jjs
+p241
+g23
+(g25
+S'\xe0\x00\x00\x00'
+tRp242
+sVvbz cd
+p243
+g23
+(g25
+S'E\x02\x00\x00'
+tRp244
+sVvbz cc
+p245
+g23
+(g25
+S'D\x02\x00\x00'
+tRp246
+sVin wp
+p247
+g23
+(g25
+S'\x94\x00\x00\x00'
+tRp248
+sVvbz wp
+p249
+g23
+(g25
+S']\x02\x00\x00'
+tRp250
+sVvbp vbz
+p251
+g23
+(g25
+S'@\x02\x00\x00'
+tRp252
+sVrp jjr
+p253
+g23
+(g25
+S'\xa6\x01\x00\x00'
+tRp254
+sVvbp vbg
+p255
+g23
+(g25
+S'>\x02\x00\x00'
+tRp256
+sVcc in
+p257
+g23
+(g25
+S'\x0c\x00\x00\x00'
+tRp258
+sVvbp vbd
+p259
+g23
+(g25
+S'=\x02\x00\x00'
+tRp260
+sVvbp vbn
+p261
+g23
+(g25
+S'?\x02\x00\x00'
+tRp262
+sVvbg nn
+p263
+g23
+(g25
+S'\x04\x02\x00\x00'
+tRp264
+sVnnp wdt
+p265
+g23
+(g25
+S'\x12\x01\x00\x00'
+tRp266
+sVnns wdt
+p267
+g23
+(g25
+S'?\x01\x00\x00'
+tRp268
+sVmd
+p269
+g23
+(g25
+S'\xca\x00\x00\x00'
+tRp270
+sVrb rbr
+p271
+g23
+(g25
+S'\x84\x01\x00\x00'
+tRp272
+sVrb rbs
+p273
+g23
+(g25
+S'\x85\x01\x00\x00'
+tRp274
+sVjjs nnp
+p275
+g23
+(g25
+S'\xc2\x00\x00\x00'
+tRp276
+sVjjs nns
+p277
+g23
+(g25
+S'\xc4\x00\x00\x00'
+tRp278
+sVvbd cc
+p279
+g23
+(g25
+S'\xe2\x01\x00\x00'
+tRp280
+sVcc prp
+p281
+g23
+(g25
+S'\x15\x00\x00\x00'
+tRp282
+sVnns hyph
+p283
+g23
+(g25
+S'*\x01\x00\x00'
+tRp284
+sVvbd cd
+p285
+g23
+(g25
+S'\xe3\x01\x00\x00'
+tRp286
+sVvb md
+p287
+g23
+(g25
+S'\xcf\x01\x00\x00'
+tRp288
+sVvbd vb
+p289
+g23
+(g25
+S'\xf4\x01\x00\x00'
+tRp290
+sVvbg rb
+p291
+g23
+(g25
+S'\t\x02\x00\x00'
+tRp292
+sVrb uh
+p293
+g23
+(g25
+S'\x87\x01\x00\x00'
+tRp294
+sVnnp cc
+p295
+g23
+(g25
+S'\xfa\x00\x00\x00'
+tRp296
+sVpos dt
+p297
+g23
+(g25
+S'J\x01\x00\x00'
+tRp298
+sVnnp cd
+p299
+g23
+(g25
+S'\xfb\x00\x00\x00'
+tRp300
+sVhyph vbg
+p301
+g23
+(g25
+S'u\x00\x00\x00'
+tRp302
+sVhyph rb
+p303
+g23
+(g25
+S'p\x00\x00\x00'
+tRp304
+sVhyph vbn
+p305
+g23
+(g25
+S'v\x00\x00\x00'
+tRp306
+sVto vb
+p307
+g23
+(g25
+S'\xb7\x01\x00\x00'
+tRp308
+sVmd wp
+p309
+g23
+(g25
+S'\xd3\x00\x00\x00'
+tRp310
+sVrbs vbg
+p311
+g23
+(g25
+S'\x9e\x01\x00\x00'
+tRp312
+sVprp dt
+p313
+g23
+(g25
+S'^\x01\x00\x00'
+tRp314
+sVrb rb
+p315
+g23
+(g25
+S'\x83\x01\x00\x00'
+tRp316
+sVhyph rp
+p317
+g23
+(g25
+S'r\x00\x00\x00'
+tRp318
+sVwp in
+p319
+g23
+(g25
+S'p\x02\x00\x00'
+tRp320
+sVrbs vbn
+p321
+g23
+(g25
+S'\x9f\x01\x00\x00'
+tRp322
+sVcd in
+p323
+g23
+(g25
+S'&\x00\x00\x00'
+tRp324
+sVcc nnp
+p325
+g23
+(g25
+S'\x12\x00\x00\x00'
+tRp326
+sVfw nn
+p327
+g23
+(g25
+S'a\x00\x00\x00'
+tRp328
+sVvbp wp
+p329
+g23
+(g25
+S'A\x02\x00\x00'
+tRp330
+sVvbz to
+p331
+g23
+(g25
+S'T\x02\x00\x00'
+tRp332
+sVfw
+p333
+g23
+(g25
+S'`\x00\x00\x00'
+tRp334
+sVjjs jjs
+p335
+g23
+(g25
+S'\xc0\x00\x00\x00'
+tRp336
+sVjj rb
+p337
+g23
+(g25
+S'\xa6\x00\x00\x00'
+tRp338
+sVrp prp
+p339
+g23
+(g25
+S'\xaa\x01\x00\x00'
+tRp340
+sVdt jj
+p341
+g23
+(g25
+S'D\x00\x00\x00'
+tRp342
+sVvbd vbg
+p343
+g23
+(g25
+S'\xf6\x01\x00\x00'
+tRp344
+sVvbd prp
+p345
+g23
+(g25
+S'\xef\x01\x00\x00'
+tRp346
+sVvbd vbd
+p347
+g23
+(g25
+S'\xf5\x01\x00\x00'
+tRp348
+sVmd nnp
+p349
+g23
+(g25
+S'\xce\x00\x00\x00'
+tRp350
+sVmd nns
+p351
+g23
+(g25
+S'\xcf\x00\x00\x00'
+tRp352
+sVwp fw
+p353
+g23
+(g25
+S'o\x02\x00\x00'
+tRp354
+sVvbd jjs
+p355
+g23
+(g25
+S'\xe9\x01\x00\x00'
+tRp356
+sVvbd jjr
+p357
+g23
+(g25
+S'\xe8\x01\x00\x00'
+tRp358
+sVvb vbg
+p359
+g23
+(g25
+S'\xdc\x01\x00\x00'
+tRp360
+sVvb vbd
+p361
+g23
+(g25
+S'\xdb\x01\x00\x00'
+tRp362
+sVvbp in
+p363
+g23
+(g25
+S'-\x02\x00\x00'
+tRp364
+sVhyph dt
+p365
+g23
+(g25
+S'g\x00\x00\x00'
+tRp366
+sVnn wrb
+p367
+g23
+(g25
+S'\xf7\x00\x00\x00'
+tRp368
+sVvb vbn
+p369
+g23
+(g25
+S'\xdd\x01\x00\x00'
+tRp370
+sVnnps to
+p371
+g23
+(g25
+S'\x1e\x01\x00\x00'
+tRp372
+sVin nns
+p373
+g23
+(g25
+S'\x86\x00\x00\x00'
+tRp374
+sVin nnp
+p375
+g23
+(g25
+S'\x84\x00\x00\x00'
+tRp376
+sVprp rb
+p377
+g23
+(g25
+S'i\x01\x00\x00'
+tRp378
+sVnnp vb
+p379
+g23
+(g25
+S'\x0c\x01\x00\x00'
+tRp380
+sVvb vbz
+p381
+g23
+(g25
+S'\xde\x01\x00\x00'
+tRp382
+sVcc jj
+p383
+g23
+(g25
+S'\r\x00\x00\x00'
+tRp384
+sVpos rb
+p385
+g23
+(g25
+S'S\x01\x00\x00'
+tRp386
+sVwrb
+p387
+g23
+(g25
+S'\x7f\x02\x00\x00'
+tRp388
+sVjjs cc
+p389
+g23
+(g25
+S'\xba\x00\x00\x00'
+tRp390
+sVjjs cd
+p391
+g23
+(g25
+S'\xbb\x00\x00\x00'
+tRp392
+sVcd jjs
+p393
+g23
+(g25
+S'(\x00\x00\x00'
+tRp394
+sVnnp md
+p395
+g23
+(g25
+S'\x01\x01\x00\x00'
+tRp396
+sVin nn
+p397
+g23
+(g25
+S'\x83\x00\x00\x00'
+tRp398
+sVnn cc
+p399
+g23
+(g25
+S'\xd8\x00\x00\x00'
+tRp400
+sVls
+p401
+g23
+(g25
+S'\xc8\x00\x00\x00'
+tRp402
+sVrp wp
+p403
+g23
+(g25
+S'\xad\x01\x00\x00'
+tRp404
+sVafx
+p405
+g23
+(g25
+S'\x05\x00\x00\x00'
+tRp406
+sVnn md
+p407
+g23
+(g25
+S'\xe1\x00\x00\x00'
+tRp408
+sVrbs rb
+p409
+g23
+(g25
+S'\x9d\x01\x00\x00'
+tRp410
+sVjjs
+p411
+g23
+(g25
+S'\xb9\x00\x00\x00'
+tRp412
+sVjjs nnps
+p413
+g23
+(g25
+S'\xc3\x00\x00\x00'
+tRp414
+sVvbn uh
+p415
+g23
+(g25
+S'!\x02\x00\x00'
+tRp416
+sVvbg jj
+p417
+g23
+(g25
+S'\x01\x02\x00\x00'
+tRp418
+sVvbd rbr
+p419
+g23
+(g25
+S'\xf1\x01\x00\x00'
+tRp420
+sVnns cc
+p421
+g23
+(g25
+S'&\x01\x00\x00'
+tRp422
+sVnnp dt
+p423
+g23
+(g25
+S'\xfc\x00\x00\x00'
+tRp424
+sVvbd nnps
+p425
+g23
+(g25
+S'\xec\x01\x00\x00'
+tRp426
+sVnns cd
+p427
+g23
+(g25
+S"'\x01\x00\x00"
+tRp428
+sVpos prp
+p429
+g23
+(g25
+S'R\x01\x00\x00'
+tRp430
+sVvb fw
+p431
+g23
+(g25
+S'\xc9\x01\x00\x00'
+tRp432
+sVnns nn
+p433
+g23
+(g25
+S'0\x01\x00\x00'
+tRp434
+sVcc dt
+p435
+g23
+(g25
+S'\n\x00\x00\x00'
+tRp436
+sVvbg cc
+p437
+g23
+(g25
+S'\xfc\x01\x00\x00'
+tRp438
+sVpdt dt
+p439
+g23
+(g25
+S'D\x01\x00\x00'
+tRp440
+sVnfp
+p441
+g23
+(g25
+S'\xd4\x00\x00\x00'
+tRp442
+sVcc wdt
+p443
+g23
+(g25
+S'\x1e\x00\x00\x00'
+tRp444
+sVrb vbn
+p445
+g23
+(g25
+S'\x8b\x01\x00\x00'
+tRp446
+sVvbp to
+p447
+g23
+(g25
+S';\x02\x00\x00'
+tRp448
+sVrb vbg
+p449
+g23
+(g25
+S'\x8a\x01\x00\x00'
+tRp450
+sVrb vbd
+p451
+g23
+(g25
+S'\x89\x01\x00\x00'
+tRp452
+sVrb vbz
+p453
+g23
+(g25
+S'\x8d\x01\x00\x00'
+tRp454
+sVcc nns
+p455
+g23
+(g25
+S'\x14\x00\x00\x00'
+tRp456
+sVex
+p457
+g23
+(g25
+S'W\x00\x00\x00'
+tRp458
+sVin jjs
+p459
+g23
+(g25
+S'\x82\x00\x00\x00'
+tRp460
+sVin jjr
+p461
+g23
+(g25
+S'\x81\x00\x00\x00'
+tRp462
+sVrb vbp
+p463
+g23
+(g25
+S'\x8c\x01\x00\x00'
+tRp464
+sVmd rb
+p465
+g23
+(g25
+S'\xd1\x00\x00\x00'
+tRp466
+sVcd hyph
+p467
+g23
+(g25
+S'%\x00\x00\x00'
+tRp468
+sVrp
+p469
+g23
+(g25
+S'\xa0\x01\x00\x00'
+tRp470
+sVnn nns
+p471
+g23
+(g25
+S'\xe5\x00\x00\x00'
+tRp472
+sVnn nnp
+p473
+g23
+(g25
+S'\xe4\x00\x00\x00'
+tRp474
+sVhyph vb
+p475
+g23
+(g25
+S't\x00\x00\x00'
+tRp476
+sVdt nn
+p477
+g23
+(g25
+S'H\x00\x00\x00'
+tRp478
+sVex vbz
+p479
+g23
+(g25
+S'_\x00\x00\x00'
+tRp480
+sVvbg hyph
+p481
+g23
+(g25
+S'\xff\x01\x00\x00'
+tRp482
+sVvbn nnp
+p483
+g23
+(g25
+S'\x1b\x02\x00\x00'
+tRp484
+sVvbn nns
+p485
+g23
+(g25
+S'\x1c\x02\x00\x00'
+tRp486
+sVvbn cc
+p487
+g23
+(g25
+S'\x12\x02\x00\x00'
+tRp488
+sVvbn cd
+p489
+g23
+(g25
+S'\x13\x02\x00\x00'
+tRp490
+sVrb
+p491
+g23
+(g25
+S'v\x01\x00\x00'
+tRp492
+sVjj jjr
+p493
+g23
+(g25
+S'\x9e\x00\x00\x00'
+tRp494
+sVjj jjs
+p495
+g23
+(g25
+S'\x9f\x00\x00\x00'
+tRp496
+sVjjr cc
+p497
+g23
+(g25
+S'\xb2\x00\x00\x00'
+tRp498
+sVnnp jj
+p499
+g23
+(g25
+S'\xff\x00\x00\x00'
+tRp500
+sVcc wrb
+p501
+g23
+(g25
+S' \x00\x00\x00'
+tRp502
+sVrbs in
+p503
+g23
+(g25
+S'\x97\x01\x00\x00'
+tRp504
+sVvbz ls
+p505
+g23
+(g25
+S'L\x02\x00\x00'
+tRp506
+sVvbg pdt
+p507
+g23
+(g25
+S'\x07\x02\x00\x00'
+tRp508
+sVmd prp
+p509
+g23
+(g25
+S'\xd0\x00\x00\x00'
+tRp510
+sVdt nnps
+p511
+g23
+(g25
+S'J\x00\x00\x00'
+tRp512
+sVvbz jj
+p513
+g23
+(g25
+S'I\x02\x00\x00'
+tRp514
+sVnn fw
+p515
+g23
+(g25
+S'\xdc\x00\x00\x00'
+tRp516
+sVpdt prp
+p517
+g23
+(g25
+S'E\x01\x00\x00'
+tRp518
+sVvbd vbn
+p519
+g23
+(g25
+S'\xf7\x01\x00\x00'
+tRp520
+sVnns fw
+p521
+g23
+(g25
+S')\x01\x00\x00'
+tRp522
+sVvb to
+p523
+g23
+(g25
+S'\xd9\x01\x00\x00'
+tRp524
+sVvbz rb
+p525
+g23
+(g25
+S'Q\x02\x00\x00'
+tRp526
+sVin jj
+p527
+g23
+(g25
+S'\x80\x00\x00\x00'
+tRp528
+sVnn in
+p529
+g23
+(g25
+S'\xde\x00\x00\x00'
+tRp530
+sVjjr
+p531
+g23
+(g25
+S'\xb1\x00\x00\x00'
+tRp532
+sVrp pdt
+p533
+g23
+(g25
+S'\xa9\x01\x00\x00'
+tRp534
+sVxx
+p535
+g23
+(g25
+S'\x92\x02\x00\x00'
+tRp536
+sVvbp md
+p537
+g23
+(g25
+S'1\x02\x00\x00'
+tRp538
+sVcc nn
+p539
+g23
+(g25
+S'\x11\x00\x00\x00'
+tRp540
+sVcd pos
+p541
+g23
+(g25
+S'.\x00\x00\x00'
+tRp542
+sVjj vbn
+p543
+g23
+(g25
+S'\xad\x00\x00\x00'
+tRp544
+sVvb cd
+p545
+g23
+(g25
+S'\xc7\x01\x00\x00'
+tRp546
+sVnnps in
+p547
+g23
+(g25
+S'\x18\x01\x00\x00'
+tRp548
+sVnnp jjs
+p549
+g23
+(g25
+S'\x00\x01\x00\x00'
+tRp550
+sVjj vbg
+p551
+g23
+(g25
+S'\xac\x00\x00\x00'
+tRp552
+sVjj vbd
+p553
+g23
+(g25
+S'\xab\x00\x00\x00'
+tRp554
+sVvb cc
+p555
+g23
+(g25
+S'\xc6\x01\x00\x00'
+tRp556
+sVjj vbz
+p557
+g23
+(g25
+S'\xaf\x00\x00\x00'
+tRp558
+sVprp nnp
+p559
+g23
+(g25
+S'f\x01\x00\x00'
+tRp560
+sVnnp in
+p561
+g23
+(g25
+S'\xfe\x00\x00\x00'
+tRp562
+sVpos nn
+p563
+g23
+(g25
+S'N\x01\x00\x00'
+tRp564
+sVjj vbp
+p565
+g23
+(g25
+S'\xae\x00\x00\x00'
+tRp566
+sVin wdt
+p567
+g23
+(g25
+S'\x93\x00\x00\x00'
+tRp568
+sVvbz rp
+p569
+g23
+(g25
+S'S\x02\x00\x00'
+tRp570
+sVsym cd
+p571
+g23
+(g25
+S'\xb0\x01\x00\x00'
+tRp572
+sVwp afx
+p573
+g23
+(g25
+S'm\x02\x00\x00'
+tRp574
+sVrb prp
+p575
+g23
+(g25
+S'\x82\x01\x00\x00'
+tRp576
+sVpos in
+p577
+g23
+(g25
+S'K\x01\x00\x00'
+tRp578
+sVjjr nns
+p579
+g23
+(g25
+S'\xb7\x00\x00\x00'
+tRp580
+sVcd wp
+p581
+g23
+(g25
+S'<\x00\x00\x00'
+tRp582
+sVin cd
+p583
+g23
+(g25
+S'z\x00\x00\x00'
+tRp584
+sVin cc
+p585
+g23
+(g25
+S'y\x00\x00\x00'
+tRp586
+sVvbd nns
+p587
+g23
+(g25
+S'\xed\x01\x00\x00'
+tRp588
+sVnn wdt
+p589
+g23
+(g25
+S'\xf5\x00\x00\x00'
+tRp590
+sVvbd rb
+p591
+g23
+(g25
+S'\xf0\x01\x00\x00'
+tRp592
+sVvbd nnp
+p593
+g23
+(g25
+S'\xeb\x01\x00\x00'
+tRp594
+sVvb jj
+p595
+g23
+(g25
+S'\xcc\x01\x00\x00'
+tRp596
+sVdt nnp
+p597
+g23
+(g25
+S'I\x00\x00\x00'
+tRp598
+sVvbz uh
+p599
+g23
+(g25
+S'U\x02\x00\x00'
+tRp600
+sVvbd rp
+p601
+g23
+(g25
+S'\xf2\x01\x00\x00'
+tRp602
+sVvbp rbs
+p603
+g23
+(g25
+S'9\x02\x00\x00'
+tRp604
+sVdt afx
+p605
+g23
+(g25
+S'?\x00\x00\x00'
+tRp606
+sVnnp hyph
+p607
+g23
+(g25
+S'\xfd\x00\x00\x00'
+tRp608
+sVpos rbs
+p609
+g23
+(g25
+S'U\x01\x00\x00'
+tRp610
+sVpos rbr
+p611
+g23
+(g25
+S'T\x01\x00\x00'
+tRp612
+sVwrb to
+p613
+g23
+(g25
+S'\x8b\x02\x00\x00'
+tRp614
+sVuh vb
+p615
+g23
+(g25
+S'\xc1\x01\x00\x00'
+tRp616
+sVrbs cd
+p617
+g23
+(g25
+S'\x95\x01\x00\x00'
+tRp618
+sVadd vbg
+p619
+g23
+(g25
+S'\x03\x00\x00\x00'
+tRp620
+sVprp
+p621
+g23
+(g25
+S'[\x01\x00\x00'
+tRp622
+sVjjr dt
+p623
+g23
+(g25
+S'\xb3\x00\x00\x00'
+tRp624
+sVnns to
+p625
+g23
+(g25
+S'8\x01\x00\x00'
+tRp626
+sVvbz in
+p627
+g23
+(g25
+S'H\x02\x00\x00'
+tRp628
+sVto wdt
+p629
+g23
+(g25
+S'\xb8\x01\x00\x00'
+tRp630
+sVuh prp
+p631
+g23
+(g25
+S'\xbe\x01\x00\x00'
+tRp632
+sVdt wdt
+p633
+g23
+(g25
+S'T\x00\x00\x00'
+tRp634
+sVnnp nnps
+p635
+g23
+(g25
+S'\x04\x01\x00\x00'
+tRp636
+sVhyph jj
+p637
+g23
+(g25
+S'i\x00\x00\x00'
+tRp638
+sVvbn jjr
+p639
+g23
+(g25
+S'\x18\x02\x00\x00'
+tRp640
+sVprp sym
+p641
+g23
+(g25
+S'j\x01\x00\x00'
+tRp642
+sVin wrb
+p643
+g23
+(g25
+S'\x95\x00\x00\x00'
+tRp644
+sVprp vbp
+p645
+g23
+(g25
+S'q\x01\x00\x00'
+tRp646
+sVprp wp
+p647
+g23
+(g25
+S't\x01\x00\x00'
+tRp648
+sVvbg to
+p649
+g23
+(g25
+S'\x0b\x02\x00\x00'
+tRp650
+sVhyph cc
+p651
+g23
+(g25
+S'e\x00\x00\x00'
+tRp652
+sVprp vbz
+p653
+g23
+(g25
+S'r\x01\x00\x00'
+tRp654
+sVhyph cd
+p655
+g23
+(g25
+S'f\x00\x00\x00'
+tRp656
+sVwp nns
+p657
+g23
+(g25
+S'u\x02\x00\x00'
+tRp658
+sVrbs jj
+p659
+g23
+(g25
+S'\x98\x01\x00\x00'
+tRp660
+sVhyph rbs
+p661
+g23
+(g25
+S'q\x00\x00\x00'
+tRp662
+sVwp nnp
+p663
+g23
+(g25
+S't\x02\x00\x00'
+tRp664
+sVwrb md
+p665
+g23
+(g25
+S'\x85\x02\x00\x00'
+tRp666
+sVprp vbd
+p667
+g23
+(g25
+S'n\x01\x00\x00'
+tRp668
+sVprp vbg
+p669
+g23
+(g25
+S'o\x01\x00\x00'
+tRp670
+sVvb add
+p671
+g23
+(g25
+S'\xc5\x01\x00\x00'
+tRp672
+sVcd nn
+p673
+g23
+(g25
+S')\x00\x00\x00'
+tRp674
+sVprp vbn
+p675
+g23
+(g25
+S'p\x01\x00\x00'
+tRp676
+sVto nn
+p677
+g23
+(g25
+S'\xb5\x01\x00\x00'
+tRp678
+sVwrb prp
+p679
+g23
+(g25
+S'\x89\x02\x00\x00'
+tRp680
+sVjj prp
+p681
+g23
+(g25
+S'\xa5\x00\x00\x00'
+tRp682
+sVnnp rb
+p683
+g23
+(g25
+S'\x08\x01\x00\x00'
+tRp684
+sVnnps pos
+p685
+g23
+(g25
+S'\x1c\x01\x00\x00'
+tRp686
+sVprp pos
+p687
+g23
+(g25
+S'h\x01\x00\x00'
+tRp688
+sVjj nns
+p689
+g23
+(g25
+S'\xa4\x00\x00\x00'
+tRp690
+sVjj nnp
+p691
+g23
+(g25
+S'\xa2\x00\x00\x00'
+tRp692
+sVnn vb
+p693
+g23
+(g25
+S'\xef\x00\x00\x00'
+tRp694
+sVwrb in
+p695
+g23
+(g25
+S'\x82\x02\x00\x00'
+tRp696
+sVin vbz
+p697
+g23
+(g25
+S'\x92\x00\x00\x00'
+tRp698
+sVvbn rb
+p699
+g23
+(g25
+S'\x1e\x02\x00\x00'
+tRp700
+sVin fw
+p701
+g23
+(g25
+S'}\x00\x00\x00'
+tRp702
+sVvbn rp
+p703
+g23
+(g25
+S'\x1f\x02\x00\x00'
+tRp704
+sVvbg wrb
+p705
+g23
+(g25
+S'\x10\x02\x00\x00'
+tRp706
+sVnn uh
+p707
+g23
+(g25
+S'\xee\x00\x00\x00'
+tRp708
+sVnnps cc
+p709
+g23
+(g25
+S'\x16\x01\x00\x00'
+tRp710
+sVcc rbs
+p711
+g23
+(g25
+S'\x17\x00\x00\x00'
+tRp712
+sVdt vbz
+p713
+g23
+(g25
+S'S\x00\x00\x00'
+tRp714
+sVsym fw
+p715
+g23
+(g25
+S'\xb1\x01\x00\x00'
+tRp716
+sVvbg prp
+p717
+g23
+(g25
+S'\x08\x02\x00\x00'
+tRp718
+sVdt vbp
+p719
+g23
+(g25
+S'R\x00\x00\x00'
+tRp720
+sVdt vbn
+p721
+g23
+(g25
+S'Q\x00\x00\x00'
+tRp722
+sVcd nnps
+p723
+g23
+(g25
+S'+\x00\x00\x00'
+tRp724
+sVdt vbg
+p725
+g23
+(g25
+S'P\x00\x00\x00'
+tRp726
+sVprp hyph
+p727
+g23
+(g25
+S'_\x01\x00\x00'
+tRp728
+sVvb nn
+p729
+g23
+(g25
+S'\xd1\x01\x00\x00'
+tRp730
+sVvbn vbn
+p731
+g23
+(g25
+S'#\x02\x00\x00'
+tRp732
+sVjj to
+p733
+g23
+(g25
+S'\xa8\x00\x00\x00'
+tRp734
+sVnnp wp
+p735
+g23
+(g25
+S'\x13\x01\x00\x00'
+tRp736
+sVvbn vbg
+p737
+g23
+(g25
+S'"\x02\x00\x00'
+tRp738
+sVvbd wp
+p739
+g23
+(g25
+S'\xf9\x01\x00\x00'
+tRp740
+sVjj afx
+p741
+g23
+(g25
+S'\x97\x00\x00\x00'
+tRp742
+sVdt
+p743
+g23
+(g25
+S'>\x00\x00\x00'
+tRp744
+sVvbn md
+p745
+g23
+(g25
+S'\x19\x02\x00\x00'
+tRp746
+sVmd vb
+p747
+g23
+(g25
+S'\xd2\x00\x00\x00'
+tRp748
+sVvbp rp
+p749
+g23
+(g25
+S':\x02\x00\x00'
+tRp750
+sVhyph prp
+p751
+g23
+(g25
+S'o\x00\x00\x00'
+tRp752
+sVwrb jj
+p753
+g23
+(g25
+S'\x83\x02\x00\x00'
+tRp754
+sVhyph
+p755
+g23
+(g25
+S'd\x00\x00\x00'
+tRp756
+sVin nnps
+p757
+g23
+(g25
+S'\x85\x00\x00\x00'
+tRp758
+sVvbn dt
+p759
+g23
+(g25
+S'\x14\x02\x00\x00'
+tRp760
+sVpos jj
+p761
+g23
+(g25
+S'L\x01\x00\x00'
+tRp762
+sVhyph nn
+p763
+g23
+(g25
+S'k\x00\x00\x00'
+tRp764
+sVuh rb
+p765
+g23
+(g25
+S'\xbf\x01\x00\x00'
+tRp766
+sVvbz prp
+p767
+g23
+(g25
+S'P\x02\x00\x00'
+tRp768
+sVnns nnp
+p769
+g23
+(g25
+S'1\x01\x00\x00'
+tRp770
+sVnns nns
+p771
+g23
+(g25
+S'2\x01\x00\x00'
+tRp772
+sVnnp nns
+p773
+g23
+(g25
+S'\x05\x01\x00\x00'
+tRp774
+sVhyph nns
+p775
+g23
+(g25
+S'n\x00\x00\x00'
+tRp776
+sVnn nfp
+p777
+g23
+(g25
+S'\xe2\x00\x00\x00'
+tRp778
+sVnnp nnp
+p779
+g23
+(g25
+S'\x03\x01\x00\x00'
+tRp780
+sVdt nns
+p781
+g23
+(g25
+S'K\x00\x00\x00'
+tRp782
+sVrb md
+p783
+g23
+(g25
+S'~\x01\x00\x00'
+tRp784
+sVrbr vbn
+p785
+g23
+(g25
+S'\x93\x01\x00\x00'
+tRp786
+sVvbg wp
+p787
+g23
+(g25
+S'\x0f\x02\x00\x00'
+tRp788
+sVwdt dt
+p789
+g23
+(g25
+S'a\x02\x00\x00'
+tRp790
+sVrp wrb
+p791
+g23
+(g25
+S'\xae\x01\x00\x00'
+tRp792
+sVvbp cd
+p793
+g23
+(g25
+S')\x02\x00\x00'
+tRp794
+sVvbp cc
+p795
+g23
+(g25
+S'(\x02\x00\x00'
+tRp796
+sVnnp pos
+p797
+g23
+(g25
+S'\x06\x01\x00\x00'
+tRp798
+sVvbp jj
+p799
+g23
+(g25
+S'.\x02\x00\x00'
+tRp800
+sVmd dt
+p801
+g23
+(g25
+S'\xcb\x00\x00\x00'
+tRp802
+sVjj md
+p803
+g23
+(g25
+S'\xa0\x00\x00\x00'
+tRp804
+sVnn pos
+p805
+g23
+(g25
+S'\xe6\x00\x00\x00'
+tRp806
+sVcd jj
+p807
+g23
+(g25
+S"'\x00\x00\x00"
+tRp808
+sVjj
+p809
+g23
+(g25
+S'\x96\x00\x00\x00'
+tRp810
+sVwp
+p811
+g23
+(g25
+S'l\x02\x00\x00'
+tRp812
+sVvbz dt
+p813
+g23
+(g25
+S'F\x02\x00\x00'
+tRp814
+sVcc md
+p815
+g23
+(g25
+S'\x10\x00\x00\x00'
+tRp816
+sVin pdt
+p817
+g23
+(g25
+S'\x87\x00\x00\x00'
+tRp818
+sVvb vb
+p819
+g23
+(g25
+S'\xda\x01\x00\x00'
+tRp820
+sVdt jjr
+p821
+g23
+(g25
+S'E\x00\x00\x00'
+tRp822
+sVdt jjs
+p823
+g23
+(g25
+S'F\x00\x00\x00'
+tRp824
+sVwrb nns
+p825
+g23
+(g25
+S'\x88\x02\x00\x00'
+tRp826
+sVvbp hyph
+p827
+g23
+(g25
+S',\x02\x00\x00'
+tRp828
+sVvbg in
+p829
+g23
+(g25
+S'\x00\x02\x00\x00'
+tRp830
+sVpdt
+p831
+g23
+(g25
+S'C\x01\x00\x00'
+tRp832
+sVjjr vbz
+p833
+g23
+(g25
+S'\xb8\x00\x00\x00'
+tRp834
+sVadd jj
+p835
+g23
+(g25
+S'\x02\x00\x00\x00'
+tRp836
+sVin in
+p837
+g23
+(g25
+S'\x7f\x00\x00\x00'
+tRp838
+sVnnp nn
+p839
+g23
+(g25
+S'\x02\x01\x00\x00'
+tRp840
+sVcc
+p841
+g23
+(g25
+S'\x07\x00\x00\x00'
+tRp842
+sVwrb jjs
+p843
+g23
+(g25
+S'\x84\x02\x00\x00'
+tRp844
+sVpos
+p845
+g23
+(g25
+S'G\x01\x00\x00'
+tRp846
+sVcd vb
+p847
+g23
+(g25
+S'5\x00\x00\x00'
+tRp848
+sVcd
+p849
+g23
+(g25
+S'!\x00\x00\x00'
+tRp850
+sVcd pdt
+p851
+g23
+(g25
+S'-\x00\x00\x00'
+tRp852
+sVvbn nn
+p853
+g23
+(g25
+S'\x1a\x02\x00\x00'
+tRp854
+sVvbd to
+p855
+g23
+(g25
+S'\xf3\x01\x00\x00'
+tRp856
+sVvbg nnp
+p857
+g23
+(g25
+S'\x05\x02\x00\x00'
+tRp858
+sVnnp vbp
+p859
+g23
+(g25
+S'\x10\x01\x00\x00'
+tRp860
+sVrbs hyph
+p861
+g23
+(g25
+S'\x96\x01\x00\x00'
+tRp862
+sVnnp vbz
+p863
+g23
+(g25
+S'\x11\x01\x00\x00'
+tRp864
+sVvbn in
+p865
+g23
+(g25
+S'\x16\x02\x00\x00'
+tRp866
+sVnnp vbg
+p867
+g23
+(g25
+S'\x0e\x01\x00\x00'
+tRp868
+sVnnp vbd
+p869
+g23
+(g25
+S'\r\x01\x00\x00'
+tRp870
+sVjjr nn
+p871
+g23
+(g25
+S'\xb6\x00\x00\x00'
+tRp872
+sVnnp vbn
+p873
+g23
+(g25
+S'\x0f\x01\x00\x00'
+tRp874
+sVwrb nnp
+p875
+g23
+(g25
+S'\x87\x02\x00\x00'
+tRp876
+sVvb rp
+p877
+g23
+(g25
+S'\xd8\x01\x00\x00'
+tRp878
+sVrbs nnp
+p879
+g23
+(g25
+S'\x9b\x01\x00\x00'
+tRp880
+sVrbs nns
+p881
+g23
+(g25
+S'\x9c\x01\x00\x00'
+tRp882
+sVpos nnp
+p883
+g23
+(g25
+S'O\x01\x00\x00'
+tRp884
+sVpos nns
+p885
+g23
+(g25
+S'Q\x01\x00\x00'
+tRp886
+sVpos vbn
+p887
+g23
+(g25
+S'Y\x01\x00\x00'
+tRp888
+sVvb rb
+p889
+g23
+(g25
+S'\xd7\x01\x00\x00'
+tRp890
+sVto cd
+p891
+g23
+(g25
+S'\xb3\x01\x00\x00'
+tRp892
+sVvbg
+p893
+g23
+(g25
+S'\xfb\x01\x00\x00'
+tRp894
+sVvbp nnps
+p895
+g23
+(g25
+S'4\x02\x00\x00'
+tRp896
+sVcd dt
+p897
+g23
+(g25
+S'$\x00\x00\x00'
+tRp898
+sVex nn
+p899
+g23
+(g25
+S'[\x00\x00\x00'
+tRp900
+sVrbs
+p901
+g23
+(g25
+S'\x94\x01\x00\x00'
+tRp902
+sVrbr
+p903
+g23
+(g25
+S'\x8f\x01\x00\x00'
+tRp904
+sVvbp wrb
+p905
+g23
+(g25
+S'B\x02\x00\x00'
+tRp906
+sVnns wp
+p907
+g23
+(g25
+S'@\x01\x00\x00'
+tRp908
+sVhyph in
+p909
+g23
+(g25
+S'h\x00\x00\x00'
+tRp910
+sVnnp prp
+p911
+g23
+(g25
+S'\x07\x01\x00\x00'
+tRp912
+sVvb
+p913
+g23
+(g25
+S'\xc4\x01\x00\x00'
+tRp914
+sVex cd
+p915
+g23
+(g25
+S'X\x00\x00\x00'
+tRp916
+sVwrb vbd
+p917
+g23
+(g25
+S'\x8d\x02\x00\x00'
+tRp918
+sVwrb vbg
+p919
+g23
+(g25
+S'\x8e\x02\x00\x00'
+tRp920
+sVvbz vbg
+p921
+g23
+(g25
+S'X\x02\x00\x00'
+tRp922
+sVprp cd
+p923
+g23
+(g25
+S']\x01\x00\x00'
+tRp924
+sVnnp to
+p925
+g23
+(g25
+S'\n\x01\x00\x00'
+tRp926
+sVprp md
+p927
+g23
+(g25
+S'd\x01\x00\x00'
+tRp928
+sVwrb vbz
+p929
+g23
+(g25
+S'\x91\x02\x00\x00'
+tRp930
+sVin
+p931
+g23
+(g25
+S'w\x00\x00\x00'
+tRp932
+sVwrb vbp
+p933
+g23
+(g25
+S'\x90\x02\x00\x00'
+tRp934
+sVin dt
+p935
+g23
+(g25
+S'{\x00\x00\x00'
+tRp936
+sVvbn wrb
+p937
+g23
+(g25
+S'&\x02\x00\x00'
+tRp938
+sVprp to
+p939
+g23
+(g25
+S'k\x01\x00\x00'
+tRp940
+sVvb wp
+p941
+g23
+(g25
+S'\xdf\x01\x00\x00'
+tRp942
+sVhyph jjs
+p943
+g23
+(g25
+S'j\x00\x00\x00'
+tRp944
+sVnnps
+p945
+g23
+(g25
+S'\x15\x01\x00\x00'
+tRp946
+sVrp hyph
+p947
+g23
+(g25
+S'\xa4\x01\x00\x00'
+tRp948
+sVnns
+p949
+g23
+(g25
+S'%\x01\x00\x00'
+tRp950
+sVxx vbp
+p951
+g23
+(g25
+S'\x93\x02\x00\x00'
+tRp952
+sVwrb ex
+p953
+g23
+(g25
+S'\x81\x02\x00\x00'
+tRp954
+sVnns rbr
+p955
+g23
+(g25
+S'6\x01\x00\x00'
+tRp956
+sVnns rbs
+p957
+g23
+(g25
+S'7\x01\x00\x00'
+tRp958
+sVnn cd
+p959
+g23
+(g25
+S'\xd9\x00\x00\x00'
+tRp960
+sVadd in
+p961
+g23
+(g25
+S'\x01\x00\x00\x00'
+tRp962
+sVvb nns
+p963
+g23
+(g25
+S'\xd4\x01\x00\x00'
+tRp964
+sVvb nnp
+p965
+g23
+(g25
+S'\xd2\x01\x00\x00'
+tRp966
+sVrb in
+p967
+g23
+(g25
+S'{\x01\x00\x00'
+tRp968
+sVnnps vb
+p969
+g23
+(g25
+S'\x1f\x01\x00\x00'
+tRp970
+sVnn nn
+p971
+g23
+(g25
+S'\xe3\x00\x00\x00'
+tRp972
+sVnns prp
+p973
+g23
+(g25
+S'4\x01\x00\x00'
+tRp974
+sVwdt nn
+p975
+g23
+(g25
+S'e\x02\x00\x00'
+tRp976
+sVrp vbd
+p977
+g23
+(g25
+S'\xab\x01\x00\x00'
+tRp978
+sVnn jj
+p979
+g23
+(g25
+S'\xdf\x00\x00\x00'
+tRp980
+sVrp vbg
+p981
+g23
+(g25
+S'\xac\x01\x00\x00'
+tRp982
+sVuh nn
+p983
+g23
+(g25
+S'\xbb\x01\x00\x00'
+tRp984
+sVcd sym
+p985
+g23
+(g25
+S'2\x00\x00\x00'
+tRp986
+sVnnp rbs
+p987
+g23
+(g25
+S'\t\x01\x00\x00'
+tRp988
+sVsym
+p989
+g23
+(g25
+S'\xaf\x01\x00\x00'
+tRp990
+sVvbp nn
+p991
+g23
+(g25
+S'2\x02\x00\x00'
+tRp992
+sVjjs vbg
+p993
+g23
+(g25
+S'\xc5\x00\x00\x00'
+tRp994
+sVin ex
+p995
+g23
+(g25
+S'|\x00\x00\x00'
+tRp996
+sVpos to
+p997
+g23
+(g25
+S'V\x01\x00\x00'
+tRp998
+sVjjs vbn
+p999
+g23
+(g25
+S'\xc6\x00\x00\x00'
+tRp1000
+sVjj in
+p1001
+g23
+(g25
+S'\x9c\x00\x00\x00'
+tRp1002
+sVex uh
+p1003
+g23
+(g25
+S'^\x00\x00\x00'
+tRp1004
+sVprp wrb
+p1005
+g23
+(g25
+S'u\x01\x00\x00'
+tRp1006
+sVvbn wp
+p1007
+g23
+(g25
+S'%\x02\x00\x00'
+tRp1008
+sVex nnp
+p1009
+g23
+(g25
+S'\\\x00\x00\x00'
+tRp1010
+sVex nns
+p1011
+g23
+(g25
+S']\x00\x00\x00'
+tRp1012
+sVjjs nn
+p1013
+g23
+(g25
+S'\xc1\x00\x00\x00'
+tRp1014
+sVdt wrb
+p1015
+g23
+(g25
+S'V\x00\x00\x00'
+tRp1016
+sVadd vbp
+p1017
+g23
+(g25
+S'\x04\x00\x00\x00'
+tRp1018
+sVvb dt
+p1019
+g23
+(g25
+S'\xc8\x01\x00\x00'
+tRp1020
+sVvbp pdt
+p1021
+g23
+(g25
+S'6\x02\x00\x00'
+tRp1022
+sVcc wp
+p1023
+g23
+(g25
+S'\x1f\x00\x00\x00'
+tRp1024
+sVvbp rb
+p1025
+g23
+(g25
+S'8\x02\x00\x00'
+tRp1026
+sVpos jjs
+p1027
+g23
+(g25
+S'M\x01\x00\x00'
+tRp1028
+sVvbp nns
+p1029
+g23
+(g25
+S'5\x02\x00\x00'
+tRp1030
+sVvbp nnp
+p1031
+g23
+(g25
+S'3\x02\x00\x00'
+tRp1032
+sVjj uh
+p1033
+g23
+(g25
+S'\xa9\x00\x00\x00'
+tRp1034
+sVto hyph
+p1035
+g23
+(g25
+S'\xb4\x01\x00\x00'
+tRp1036
+sVvbn jj
+p1037
+g23
+(g25
+S'\x17\x02\x00\x00'
+tRp1038
+sVcd rb
+p1039
+g23
+(g25
+S'0\x00\x00\x00'
+tRp1040
+sVvb hyph
+p1041
+g23
+(g25
+S'\xca\x01\x00\x00'
+tRp1042
+sVhyph nnp
+p1043
+g23
+(g25
+S'l\x00\x00\x00'
+tRp1044
+sVwdt prp
+p1045
+g23
+(g25
+S'h\x02\x00\x00'
+tRp1046
+sVnn to
+p1047
+g23
+(g25
+S'\xed\x00\x00\x00'
+tRp1048
+sVnn sym
+p1049
+g23
+(g25
+S'\xec\x00\x00\x00'
+tRp1050
+sVrp nn
+p1051
+g23
+(g25
+S'\xa7\x01\x00\x00'
+tRp1052
+sVvbd wdt
+p1053
+g23
+(g25
+S'\xf8\x01\x00\x00'
+tRp1054
+sVpos nnps
+p1055
+g23
+(g25
+S'P\x01\x00\x00'
+tRp1056
+sVhyph to
+p1057
+g23
+(g25
+S's\x00\x00\x00'
+tRp1058
+sVadd
+p1059
+g23
+(g25
+S'\x00\x00\x00\x00'
+tRp1060
+sVcd wdt
+p1061
+g23
+(g25
+S';\x00\x00\x00'
+tRp1062
+sVnns jjs
+p1063
+g23
+(g25
+S'.\x01\x00\x00'
+tRp1064
+sVvbz vbd
+p1065
+g23
+(g25
+S'W\x02\x00\x00'
+tRp1066
+sVnns jjr
+p1067
+g23
+(g25
+S'-\x01\x00\x00'
+tRp1068
+sVuh uh
+p1069
+g23
+(g25
+S'\xc0\x01\x00\x00'
+tRp1070
+sVvbd nn
+p1071
+g23
+(g25
+S'\xea\x01\x00\x00'
+tRp1072
+sVvbz vb
+p1073
+g23
+(g25
+S'V\x02\x00\x00'
+tRp1074
+sVvbg jjr
+p1075
+g23
+(g25
+S'\x02\x02\x00\x00'
+tRp1076
+sVvbg jjs
+p1077
+g23
+(g25
+S'\x03\x02\x00\x00'
+tRp1078
+sVrbr hyph
+p1079
+g23
+(g25
+S'\x90\x01\x00\x00'
+tRp1080
+sVrb nns
+p1081
+g23
+(g25
+S'\x81\x01\x00\x00'
+tRp1082
+sVrb nnp
+p1083
+g23
+(g25
+S'\x80\x01\x00\x00'
+tRp1084
+sVvbz vbz
+p1085
+g23
+(g25
+S'[\x02\x00\x00'
+tRp1086
+sVcd prp
+p1087
+g23
+(g25
+S'/\x00\x00\x00'
+tRp1088
+sVvbz nn
+p1089
+g23
+(g25
+S'M\x02\x00\x00'
+tRp1090
+sVjj hyph
+p1091
+g23
+(g25
+S'\x9b\x00\x00\x00'
+tRp1092
+sVdt hyph
+p1093
+g23
+(g25
+S'B\x00\x00\x00'
+tRp1094
+sVdt cd
+p1095
+g23
+(g25
+S'@\x00\x00\x00'
+tRp1096
+sVnn dt
+p1097
+g23
+(g25
+S'\xda\x00\x00\x00'
+tRp1098
+sVmd nn
+p1099
+g23
+(g25
+S'\xcd\x00\x00\x00'
+tRp1100
+sVrp in
+p1101
+g23
+(g25
+S'\xa5\x01\x00\x00'
+tRp1102
+sVpdt wdt
+p1103
+g23
+(g25
+S'F\x01\x00\x00'
+tRp1104
+sVprp vb
+p1105
+g23
+(g25
+S'm\x01\x00\x00'
+tRp1106
+sVdt rbs
+p1107
+g23
+(g25
+S'N\x00\x00\x00'
+tRp1108
+sVvbz vbn
+p1109
+g23
+(g25
+S'Y\x02\x00\x00'
+tRp1110
+sVjj nn
+p1111
+g23
+(g25
+S'\xa1\x00\x00\x00'
+tRp1112
+sVvbz ex
+p1113
+g23
+(g25
+S'G\x02\x00\x00'
+tRp1114
+sVnn rbr
+p1115
+g23
+(g25
+S'\xe9\x00\x00\x00'
+tRp1116
+sVnn rbs
+p1117
+g23
+(g25
+S'\xea\x00\x00\x00'
+tRp1118
+sVcd wrb
+p1119
+g23
+(g25
+S'=\x00\x00\x00'
+tRp1120
+sVcd rbs
+p1121
+g23
+(g25
+S'1\x00\x00\x00'
+tRp1122
+sVuh vbz
+p1123
+g23
+(g25
+S'\xc3\x01\x00\x00'
+tRp1124
+sVcc cd
+p1125
+g23
+(g25
+S'\t\x00\x00\x00'
+tRp1126
+sVrbr in
+p1127
+g23
+(g25
+S'\x91\x01\x00\x00'
+tRp1128
+sVvb prp
+p1129
+g23
+(g25
+S'\xd6\x01\x00\x00'
+tRp1130
+sVuh vbd
+p1131
+g23
+(g25
+S'\xc2\x01\x00\x00'
+tRp1132
+sVvb wrb
+p1133
+g23
+(g25
+S'\xe0\x01\x00\x00'
+tRp1134
+sVvbg vbn
+p1135
+g23
+(g25
+S'\x0e\x02\x00\x00'
+tRp1136
+sVjjs hyph
+p1137
+g23
+(g25
+S'\xbd\x00\x00\x00'
+tRp1138
+sVvbg cd
+p1139
+g23
+(g25
+S'\xfd\x01\x00\x00'
+tRp1140
+sVcc vbg
+p1141
+g23
+(g25
+S'\x1a\x00\x00\x00'
+tRp1142
+sVvbg vbd
+p1143
+g23
+(g25
+S'\r\x02\x00\x00'
+tRp1144
+sVvbz jjs
+p1145
+g23
+(g25
+S'K\x02\x00\x00'
+tRp1146
+sVvbz jjr
+p1147
+g23
+(g25
+S'J\x02\x00\x00'
+tRp1148
+sVcd uh
+p1149
+g23
+(g25
+S'4\x00\x00\x00'
+tRp1150
+sVvbd in
+p1151
+g23
+(g25
+S'\xe6\x01\x00\x00'
+tRp1152
+sVuh nnp
+p1153
+g23
+(g25
+S'\xbc\x01\x00\x00'
+tRp1154
+sVuh nns
+p1155
+g23
+(g25
+S'\xbd\x01\x00\x00'
+tRp1156
+sVvbg nns
+p1157
+g23
+(g25
+S'\x06\x02\x00\x00'
+tRp1158
+sVwp uh
+p1159
+g23
+(g25
+S'x\x02\x00\x00'
+tRp1160
+sVjjs vbz
+p1161
+g23
+(g25
+S'\xc7\x00\x00\x00'
+tRp1162
+sVrb jjr
+p1163
+g23
+(g25
+S'}\x01\x00\x00'
+tRp1164
+sVex dt
+p1165
+g23
+(g25
+S'Y\x00\x00\x00'
+tRp1166
+sVnnps dt
+p1167
+g23
+(g25
+S'\x17\x01\x00\x00'
+tRp1168
+sVin to
+p1169
+g23
+(g25
+S'\x8b\x00\x00\x00'
+tRp1170
+sVwp prp
+p1171
+g23
+(g25
+S'v\x02\x00\x00'
+tRp1172
+sVwp rb
+p1173
+g23
+(g25
+S'w\x02\x00\x00'
+tRp1174
+sVpos vbd
+p1175
+g23
+(g25
+S'W\x01\x00\x00'
+tRp1176
+sVpos vbg
+p1177
+g23
+(g25
+S'X\x01\x00\x00'
+tRp1178
+sVin prp
+p1179
+g23
+(g25
+S'\x88\x00\x00\x00'
+tRp1180
+sVpos vbp
+p1181
+g23
+(g25
+S'Z\x01\x00\x00'
+tRp1182
+sVnns jj
+p1183
+g23
+(g25
+S',\x01\x00\x00'
+tRp1184
+sVnn xx
+p1185
+g23
+(g25
+S'\xf8\x00\x00\x00'
+tRp1186
+sVnnps rb
+p1187
+g23
+(g25
+S'\x1d\x01\x00\x00'
+tRp1188
+sVvb pdt
+p1189
+g23
+(g25
+S'\xd5\x01\x00\x00'
+tRp1190
+sVvbg dt
+p1191
+g23
+(g25
+S'\xfe\x01\x00\x00'
+tRp1192
+sVvbp vb
+p1193
+g23
+(g25
+S'<\x02\x00\x00'
+tRp1194
+sVdt in
+p1195
+g23
+(g25
+S'C\x00\x00\x00'
+tRp1196
+sVrp cc
+p1197
+g23
+(g25
+S'\xa1\x01\x00\x00'
+tRp1198
+sVrp cd
+p1199
+g23
+(g25
+S'\xa2\x01\x00\x00'
+tRp1200
+sVrbs nfp
+p1201
+g23
+(g25
+S'\x99\x01\x00\x00'
+tRp1202
+sVnns vb
+p1203
+g23
+(g25
+S'9\x01\x00\x00'
+tRp1204
+sVvb jjr
+p1205
+g23
+(g25
+S'\xcd\x01\x00\x00'
+tRp1206
+sVvb jjs
+p1207
+g23
+(g25
+S'\xce\x01\x00\x00'
+tRp1208
+sVprp nn
+p1209
+g23
+(g25
+S'e\x01\x00\x00'
+tRp1210
+sVprp jjs
+p1211
+g23
+(g25
+S'c\x01\x00\x00'
+tRp1212
+sVprp wdt
+p1213
+g23
+(g25
+S's\x01\x00\x00'
+tRp1214
+sVvbp jjs
+p1215
+g23
+(g25
+S'0\x02\x00\x00'
+tRp1216
+sVvbp jjr
+p1217
+g23
+(g25
+S'/\x02\x00\x00'
+tRp1218
+sVwrb vb
+p1219
+g23
+(g25
+S'\x8c\x02\x00\x00'
+tRp1220
+sVin vbn
+p1221
+g23
+(g25
+S'\x90\x00\x00\x00'
+tRp1222
+sVwdt jj
+p1223
+g23
+(g25
+S'c\x02\x00\x00'
+tRp1224
+sVprp in
+p1225
+g23
+(g25
+S'`\x01\x00\x00'
+tRp1226
+sVin vbg
+p1227
+g23
+(g25
+S'\x8f\x00\x00\x00'
+tRp1228
+sVin vbd
+p1229
+g23
+(g25
+S'\x8e\x00\x00\x00'
+tRp1230
+sVin rbs
+p1231
+g23
+(g25
+S'\x8a\x00\x00\x00'
+tRp1232
+sVrbs nn
+p1233
+g23
+(g25
+S'\x9a\x01\x00\x00'
+tRp1234
+sVrb wrb
+p1235
+g23
+(g25
+S'\x8e\x01\x00\x00'
+tRp1236
+sVprp nns
+p1237
+g23
+(g25
+S'g\x01\x00\x00'
+tRp1238
+sVnn hyph
+p1239
+g23
+(g25
+S'\xdd\x00\x00\x00'
+tRp1240
+sVin vbp
+p1241
+g23
+(g25
+S'\x91\x00\x00\x00'
+tRp1242
+sVrb nn
+p1243
+g23
+(g25
+S'\x7f\x01\x00\x00'
+tRp1244
+sVwdt cd
+p1245
+g23
+(g25
+S'`\x02\x00\x00'
+tRp1246
+sVvbp dt
+p1247
+g23
+(g25
+S'*\x02\x00\x00'
+tRp1248
+sVnns xx
+p1249
+g23
+(g25
+S'B\x01\x00\x00'
+tRp1250
+sVuh
+p1251
+g23
+(g25
+S'\xba\x01\x00\x00'
+tRp1252
+sVvbg vb
+p1253
+g23
+(g25
+S'\x0c\x02\x00\x00'
+tRp1254
+sVcd vbg
+p1255
+g23
+(g25
+S'7\x00\x00\x00'
+tRp1256
+sVcd vbd
+p1257
+g23
+(g25
+S'6\x00\x00\x00'
+tRp1258
+sVrp nnp
+p1259
+g23
+(g25
+S'\xa8\x01\x00\x00'
+tRp1260
+sVvbp prp
+p1261
+g23
+(g25
+S'7\x02\x00\x00'
+tRp1262
+sVcd vbn
+p1263
+g23
+(g25
+S'8\x00\x00\x00'
+tRp1264
+sVvbz rbs
+p1265
+g23
+(g25
+S'R\x02\x00\x00'
+tRp1266
+sVnns dt
+p1267
+g23
+(g25
+S'(\x01\x00\x00'
+tRp1268
+sVrbr jj
+p1269
+g23
+(g25
+S'\x92\x01\x00\x00'
+tRp1270
+sVdt wp
+p1271
+g23
+(g25
+S'U\x00\x00\x00'
+tRp1272
+sVvb nfp
+p1273
+g23
+(g25
+S'\xd0\x01\x00\x00'
+tRp1274
+sVjj jj
+p1275
+g23
+(g25
+S'\x9d\x00\x00\x00'
+tRp1276
+sVfw vb
+p1277
+g23
+(g25
+S'b\x00\x00\x00'
+tRp1278
+sVcd vbp
+p1279
+g23
+(g25
+S'9\x00\x00\x00'
+tRp1280
+sVnnps nn
+p1281
+g23
+(g25
+S'\x19\x01\x00\x00'
+tRp1282
+sVafx hyph
+p1283
+g23
+(g25
+S'\x06\x00\x00\x00'
+tRp1284
+sVcd vbz
+p1285
+g23
+(g25
+S':\x00\x00\x00'
+tRp1286
+sVnnp
+p1287
+g23
+(g25
+S'\xf9\x00\x00\x00'
+tRp1288
+sVjj wrb
+p1289
+g23
+(g25
+S'\xb0\x00\x00\x00'
+tRp1290
+sVjj nnps
+p1291
+g23
+(g25
+S'\xa3\x00\x00\x00'
+tRp1292
+sVnn rb
+p1293
+g23
+(g25
+S'\xe8\x00\x00\x00'
+tRp1294
+sVnn
+p1295
+g23
+(g25
+S'\xd6\x00\x00\x00'
+tRp1296
+sVnns md
+p1297
+g23
+(g25
+S'/\x01\x00\x00'
+tRp1298
+sVvbz vbp
+p1299
+g23
+(g25
+S'Z\x02\x00\x00'
+tRp1300
+sVnfp jj
+p1301
+g23
+(g25
+S'\xd5\x00\x00\x00'
+tRp1302
+sVnn rp
+p1303
+g23
+(g25
+S'\xeb\x00\x00\x00'
+tRp1304
+sVvbn prp
+p1305
+g23
+(g25
+S'\x1d\x02\x00\x00'
+tRp1306
+sVnns vbd
+p1307
+g23
+(g25
+S':\x01\x00\x00'
+tRp1308
+sVwrb dt
+p1309
+g23
+(g25
+S'\x80\x02\x00\x00'
+tRp1310
+sVnns vbg
+p1311
+g23
+(g25
+S';\x01\x00\x00'
+tRp1312
+sVnns vbn
+p1313
+g23
+(g25
+S'<\x01\x00\x00'
+tRp1314
+sVvbn wdt
+p1315
+g23
+(g25
+S'$\x02\x00\x00'
+tRp1316
+sVjjr in
+p1317
+g23
+(g25
+S'\xb5\x00\x00\x00'
+tRp1318
+sVvbz nnp
+p1319
+g23
+(g25
+S'N\x02\x00\x00'
+tRp1320
+sVvbz nns
+p1321
+g23
+(g25
+S'O\x02\x00\x00'
+tRp1322
+sVnns vbp
+p1323
+g23
+(g25
+S'=\x01\x00\x00'
+tRp1324
+sVvbd wrb
+p1325
+g23
+(g25
+S'\xfa\x01\x00\x00'
+tRp1326
+sVnns vbz
+p1327
+g23
+(g25
+S'>\x01\x00\x00'
+tRp1328
+sVprp jjr
+p1329
+g23
+(g25
+S'b\x01\x00\x00'
+tRp1330
+sVto wp
+p1331
+g23
+(g25
+S'\xb9\x01\x00\x00'
+tRp1332
+sVcc nnps
+p1333
+g23
+(g25
+S'\x13\x00\x00\x00'
+tRp1334
+sVin hyph
+p1335
+g23
+(g25
+S'~\x00\x00\x00'
+tRp1336
+sVvbz wdt
+p1337
+g23
+(g25
+S'\\\x02\x00\x00'
+tRp1338
+sVvbd ex
+p1339
+g23
+(g25
+S'\xe5\x01\x00\x00'
+tRp1340
+sVwp nn
+p1341
+g23
+(g25
+S's\x02\x00\x00'
+tRp1342
+sVdt rb
+p1343
+g23
+(g25
+S'M\x00\x00\x00'
+tRp1344
+ssS'binary'
+p1345
+I00
+sS'ngram_range'
+p1346
+(I1
+I2
+tp1347
+sS'preprocessor'
+p1348
+NsS'min_df'
+p1349
+I1
+sS'max_features'
+p1350
+NsS'input'
+p1351
+Vcontent
+p1352
+sS'dtype'
+p1353
+cnumpy
+int64
+p1354
+sS'stop_words_'
+p1355
+c__builtin__
+set
+p1356
+((ltRp1357
+sS'strip_accents'
+p1358
+Nsb.

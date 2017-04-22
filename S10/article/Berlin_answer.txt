@@ -1,0 +1,36 @@
+Berlin is the capital city of Germany.
+yes
+Berlin is Germany's largest city.
+yes
+Schloss Charlottenburg is the largest existing palace in Berlin. 
+yes
+The Reichstag building is the site of the German parliament. 
+The Reichstag building
+The Olympiastadion hosted the 1936 Summer Olympics and the 2006 FIFA World Cup final. 
+the 1936 Summer Olympics and the 2006 FIFA World Cup final
+The Berliner Dom is located on the Spree Island across from the site of the Berliner Stadtschloss and adjacent to the Lustgarten.
+on the Spree Island
+The Reichstag building was remodeled by architect Norman Foster in the 1990s.
+Reichstag building
+Because burning lignite produces harmful emissions, Vattenfall has announced a commitment to shift towards reliance on cleaner, renewable energy sources.
+Because burning lignite produces harmful emissions
+The two zoos in Berlin are the Zoologischer Garten Berlin and the Tierpark Friedrichsfelde.
+Zoologischer Garten Berlin and Tierpark Friedrichsfelde
+Yes, Berlin is the headquarters of Springer.
+NULL
+Yes, the Gendarmenmarkt borders the French Cathedral.
+NULL
+No, the Nauen plain stretches to the west of Berlin.
+NULL
+The bust of Queen Nefertiti is in the Altes Museum.
+NULL
+The German President lives west of the center, Schloss Bellevue.
+NULL
+In 1451 Berlin gave up its status as a free Hanseatic city.
+NULL
+Tegel International Airport is the busiest airport in Berlin.
+NULL
+Germany was divided into four occupation zones after the war.
+NULL
+Popkomm was held in Cologne before moving to Berlin.
+NULL
