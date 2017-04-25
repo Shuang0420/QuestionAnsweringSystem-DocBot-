@@ -1,5 +1,5 @@
 # Question-Answering-System-DocBot-
-Given a Wikipedia article, generate N "good" questions and answer N questions.
+Given a Wikipedia article, generate N "good" questions and answer N questions. See how we make it at https://www.youtube.com/watch?v=VWdR6ornHoc&feature=youtu.be
 
 ## Status
 
