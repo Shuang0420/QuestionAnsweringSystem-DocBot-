@@ -1,9 +1,9 @@
 # Question-Answering-System-DocBot-
-Given a Wikipedia article, generate N "good" questions and answer N questions. See how we make it at https://www.youtube.com/watch?v=VWdR6ornHoc&feature=youtu.be
+Given a Wikipedia article, generate N "good" questions and answer N questions. See how we make it at [Animorphemes FinalVideo](https://www.youtube.com/watch?v=VWdR6ornHoc&feature=youtu.be) or [QA system - Question Generation](http://www.shuang0420.com/2017/04/06/QA%20system%20-%20Question%20Generation/)
 
 ## Status
 
-This is a semester-long project for CMU 11611. We have a team of 4 people. The original code is on https://github.com/hexiaoyuhaha/Wiki-Question-Answering-System. 
+This is a semester-long project for CMU 11611. We have a team of 4 people. The original code is on https://github.com/hexiaoyuhaha/Wiki-Question-Answering-System.
 
 It can generate and answer yes-no questions and wh-questions like what/when/where/how/how many(much)/why.
 
@@ -14,8 +14,6 @@ I'm still working on it and trying to improve the performance.
 ## Requirements
 
 - python==2.7
-
-
 - spaCy==1.7.5
 - pattern==2.6
 - textblob==0.12.0
@@ -34,7 +32,7 @@ I'm still working on it and trying to improve the performance.
 
 - S10/: contains sample wikipedia dataset
 
-  article folder contains the sample articles, questions and answers 
+  article folder contains the sample articles, questions and answers
 
   data folder contains only articles in htm, txt format
 
