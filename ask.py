@@ -499,8 +499,8 @@ def wh_obj_question_part(res, verbs):
 def post_process(ques):
     ques = re.sub(' +',' ',ques) + '?'
     ques = ques[0].capitalize() + ques[1:]
-    ques = re.sub('-LRB- ', '(', ques, flags=re.IGNORECASE)
-    ques = re.sub(' -RRB-', ')', ques, flags=re.IGNORECASE)
+    ques = re.sub('-LRB- ', '', ques, flags=re.IGNORECASE)
+    ques = re.sub(' *-RRB-', '', ques, flags=re.IGNORECASE)
     ques = re.sub('`` ', '"', ques)
     ques = re.sub(" ''", '"', ques)
     return ques
@@ -565,7 +565,7 @@ def ask(farticle, nquestions):
     #sentences = ['More than 12,500 species are classified with upper estimates of about 22,000 species']
     #sentences = ['10 white ducks are swimming in the water.']
     #sentences = ['Mary saw white ducks swimming in the water.']
-    #sentences = ['Mary was born in Beijing, China']
+    #sentences = ['In 1990, 5 valuable pandas were born in Beijing, China']
     #sentences = ['Mary was born in 1990.']
     #sentences = ['Nearly all ant colonies also have some fertile males called "drones" and one or more fertile females called "queens".']
     #sentences = ['The colonies are sometimes described as superorganisms because the ants appear to operate as a unified entity, collectively working together to support ']

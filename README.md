@@ -1,5 +1,5 @@
 # Question-Answering-System-DocBot-
-Given a Wikipedia article, generate N "good" questions and answer N questions. See how we make it at [Animorphemes FinalVideo](https://www.youtube.com/watch?v=VWdR6ornHoc&feature=youtu.be) or [QA system - Question Generation](http://www.shuang0420.com/2017/04/06/QA%20system%20-%20Question%20Generation/)
+Given a Wikipedia article, generate N "good" questions and answer N questions. We won the 1st place in question-answering competition! See how we make it at [Animorphemes FinalVideo](https://www.youtube.com/watch?v=VWdR6ornHoc&feature=youtu.be) or [QA system - Question Generation](http://www.shuang0420.com/2017/04/06/QA%20system%20-%20Question%20Generation/)
 
 ## Status
 
